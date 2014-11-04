@@ -1,0 +1,324 @@
+countrycode,country,Weight
+WLD,WORLD,62
+USA,United States,82
+KWT,Kuwait,78
+HRV,Croatia,76
+QAT,Qatar,77
+EGY,Egypt,74
+ARE,United Arab Emirates,76
+TTO,Trinidad and Tobago,73
+ARG,Argentina,72
+GRC,Greece,75
+BHR,Bahrain,74
+AUS,Australia,77
+CYP,Cyprus,75
+NZL,New Zealand,72
+SAU,Saudi Arabia,73
+MEX,Mexico,69
+BLR,Belarus,74
+VEN,Venezuela,71
+GBR,United Kingdom,76
+CHL,Chile,71
+CAN,Canada,70
+DEU,Germany,73
+LBY,Libyan Arab Jamahiriya,70
+AUT,Austria,73
+PAN,Panama,70
+JAM,Jamaica,69
+FIN,Finland,72
+JOR,Jordan,70
+BOL,Bolivia,68
+CZE,Czech Republic,72
+URY,Uruguay,69
+BGR,Bulgaria,71
+GTM,Guatemala,69
+NIC,Nicaragua,68
+CUB,Cuba,69
+ISR,Israel,72
+MNG,Mongolia,69
+SLV,El Salvador,68
+ALB,Albania,71
+PER,Peru,67
+BIH,Bosnia and Herzegovina,71
+SVN,Slovenia,71
+ECU,Ecuador,68
+TUR,Turkey,69
+SVK,Slovakia,71
+DOM,Dominican Republic,68
+AZE,Azerbaijan,70
+FJI,Fiji,68
+CHE,Switzerland,71
+HUN,Hungary,70
+LBN,Lebanon,68
+GEO,Georgia,71
+MDA,Republic of Moldova,71
+LTU,Lithuania,70
+ESP,Spain,71
+ZAF,South Africa,66
+RUS,Russian Federation,71
+CRI,Costa Rica,68
+PRT,Portugal,70
+PRY,Paraguay,67
+LSO,Lesotho,66
+TUN,Tunisia,68
+COL,Colombia,66
+IRN,Iran (Islamic Republic of),68
+SYR,Syrian Arab Republic,67
+TJK,Tajikistan,70
+POL,Poland,69
+ARM,Armenia,68
+GUY,Guyana,67
+ITA,Italy,69
+HND,Honduras,66
+KAS,The former Yugoslav Republic of Macedonia,69
+MUS,Mauritius,66
+UKR,Ukraine,69
+LVA,Latvia,69
+SWE,Sweden,69
+BEL,Belgium,69
+BRA,Brazil,66
+NOR,Norway,69
+NLD,Netherlands,69
+IRQ,Iraq,66
+IRL,Ireland,70
+DNK,Denmark,68
+CMR,Cameroon,65
+BWA,Botswana,65
+OMN,Oman,66
+MRT,Mauritania,64
+MAR,Morocco,65
+EST,Estonia,67
+TKM,Turkmenistan,68
+DZA,Algeria,64
+UZB,Uzbekistan,66
+FRA,France,67
+ROU,Romania,66
+KAZ,Kazakhstan,66
+KOR,Republic of Korea,64
+GAB,Gabon,63
+SLE,Sierra Leone,61
+PNG,Papua New Guinea,62
+KGZ,Kyrgyzstan,65
+HTI,Haiti,62
+GHA,Ghana,62
+SWZ,Swaziland,62
+DJI,Djibouti,62
+NGA,Nigeria,61
+ZWE,Zimbabwe,61
+THA,Thailand,59
+AGO,Angola,60
+SEN,Senegal,60
+BEN,Benin,60
+MYS,Malaysia,61
+MLI,Mali,60
+CHN,China,61
+TGO,Togo,59
+GIN,Guinea,59
+PHL,Philippines,60
+SDN,Sudan,59
+YEM,Yemen,60
+JPN,Japan,59
+SGP,Singapore,59
+NAM,Namibia,60
+PAK,Pakistan,59
+CIV,Cote d'Ivoire,59
+MMR,Myanmar,56
+NER,Niger,58
+GMB,Gambia,57
+TZA,United Republic of Tanzania,57
+MDG,Madagascar,55
+COG,Congo,57
+TCD,Chad,58
+LAO,Lao People's Democratic Republic,58
+MWI,Malawi,57
+GNB,Guinea-Bissau,56
+LBR,Liberia,56
+IDN,Indonesia,52
+BFA,Burkina Faso,57
+RWA,Rwanda,57
+MOZ,Mozambique,56
+IND,India,53
+UGA,Uganda,57
+AFG,Afghanistan,57
+TLS,Democratic Republic of Timor-Leste,52
+KEN,Kenya,56
+SOM,Somalia,55
+CAF,Central African Republic,56
+ZMB,Zambia,56
+PRK,Democratic People's Republic of Korea,53
+KHM,Cambodia,56
+BDI,Burundi,54
+NPL,Nepal,50
+COD,Democratic Republic of the Congo,54
+BGD,Bangladesh,50
+LKA,Sri Lanka,50
+ETH,Ethiopia,53
+VNM,Viet Nam,51
+ERI,Eritrea,52
+FSM,"Micronesia, Federated States of",87
+TON,Tonga,87
+WSM,Samoa,79
+BRB,Barbados,74
+MLT,Malta,77
+SLB,Solomon Islands,73
+BHS,Bahamas,72
+GRD,Grenada,70
+VCT,Saint Vincent and the Grenadines,70
+BLZ,Belize,69
+ISL,Iceland,73
+SUR,Suriname,69
+LCA,Saint Lucia,68
+VUT,Vanuatu,68
+LUX,Luxembourg,70
+GNQ,Equatorial Guinea,66
+CPV,Cape Verde,62
+MDV,Maldives,58
+COM,Comoros,61
+BRN,Brunei Darussalam,61
+STP,Sao Tome and Principe,58
+BTN,Bhutan,51
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

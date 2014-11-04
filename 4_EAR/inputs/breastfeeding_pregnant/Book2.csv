@@ -1,0 +1,240 @@
+order,Country,Year,Indicator,Value
+743,Albania,2008,Any breastfeeding,14.8
+750,Armenia,2010,Any breastfeeding,10.9
+767,Azerbaijan,2006,Any breastfeeding,7.8
+956,Bangladesh,2011,Any breastfeeding,31.2
+7,Benin,2012,Any breastfeeding,20.8
+1184,Bolivia,2008,Any breastfeeding,18.8
+32,Botswana,1988,Any breastfeeding,17.8
+1216,Brazil,1996,Any breastfeeding,7
+39,Burkina Faso,2010,Any breastfeeding,23.8
+67,Burundi,2010,Any breastfeeding,22.4
+991,Cambodia,2010,Any breastfeeding,19.8
+79,Cameroon,2011,Any breastfeeding,16.5
+109,Central African Republic,1994,Any breastfeeding,20.6
+112,Chad,2004,Any breastfeeding,21.3
+1228,Colombia,2010,Any breastfeeding,14.9
+126,Comoros,2012,Any breastfeeding,19
+135,Congo (Brazzaville),2005,Any breastfeeding,17.4
+142,Congo Democratic Republic,2007,Any breastfeeding,21
+149,Cote d'Ivoire,2012,Any breastfeeding,18.9
+1268,Dominican Republic,2007,Any breastfeeding,7.1
+1312,Ecuador,2004,Any breastfeeding,15.3
+774,Egypt,2008,Any breastfeeding,18
+1332,El Salvador,2002,Any breastfeeding,20.7
+169,Eritrea,2002,Any breastfeeding,21.8
+182,Ethiopia,2011,Any breastfeeding,25.2
+199,Gabon,2012,Any breastfeeding,11.3
+213,Ghana,2008,Any breastfeeding,20.2
+1343,Guatemala,2002,Any breastfeeding,20.6
+245,Guinea,2012,Any breastfeeding,22
+1365,Guyana,2009,Any breastfeeding,19.1
+1372,Haiti,2012,Any breastfeeding,17
+1408,Honduras,2011,Any breastfeeding,19
+1012,India,2006,Any breastfeeding,24.4
+1031,Indonesia,2012,Any breastfeeding,21.4
+810,Jordan,2012,Any breastfeeding,11.7
+910,Kazakhstan,1999,Any breastfeeding,14.7
+266,Kenya,2008,Any breastfeeding,20.5
+923,Kyrgyz Republic,2012,Any breastfeeding,18.3
+298,Lesotho,2009,Any breastfeeding,17.4
+312,Liberia,2007,Any breastfeeding,19.6
+324,Madagascar,2008,Any breastfeeding,21.9
+351,Malawi,2010,Any breastfeeding,23.7
+1076,Maldives,2009,Any breastfeeding,25.3
+379,Mali,2006,Any breastfeeding,20.9
+404,Mauritania,2000,Any breastfeeding,20.6
+1420,Mexico,1987,Any breastfeeding,8.1
+844,Moldova,2005,Any breastfeeding,12.1
+851,Morocco,2003,Any breastfeeding,14.2
+411,Mozambique,2011,Any breastfeeding,20.8
+431,Namibia,2006,Any breastfeeding,16.8
+1083,Nepal,2011,Any breastfeeding,33.6
+1431,Nicaragua,2001,Any breastfeeding,17
+452,Niger,2012,Any breastfeeding,20.5
+479,Nigeria,2008,Any breastfeeding,18.2
+1110,Pakistan,2012,Any breastfeeding,19
+1453,Paraguay,2004,Any breastfeeding,11.9
+1474,Peru,2012,Any breastfeeding,20.2
+1127,Philippines,2008,Any breastfeeding,14.3
+506,Rwanda,2010,Any breastfeeding,29.4
+537,Sao Tome and Principe,2008,Any breastfeeding,17
+544,Senegal,2010,Any breastfeeding,20.9
+577,Sierra Leone,2008,Any breastfeeding,19.7
+584,South Africa,1998,Any breastfeeding,16
+1153,Sri Lanka,1987,Any breastfeeding,20.3
+589,Sudan,1990,Any breastfeeding,18.9
+596,Swaziland,2006,Any breastfeeding,16.7
+936,Tajikistan,2012,Any breastfeeding,18.9
+603,Tanzania,2010,Any breastfeeding,20.9
+1158,Thailand,1987,Any breastfeeding,14.7
+1165,Timor-Leste,2009,Any breastfeeding,17.5
+635,Togo,1998,Any breastfeeding,24.4
+1533,Trinidad and Tobago,1987,Any breastfeeding,6
+868,Tunisia,1988,Any breastfeeding,15
+875,Turkey,1998,Any breastfeeding,12
+943,Turkmenistan,2000,Any breastfeeding,16.8
+647,Uganda,2011,Any breastfeeding,19.4
+889,Ukraine,2007,Any breastfeeding,9.5
+949,Uzbekistan,1996,Any breastfeeding,17.3
+1171,Vietnam,2002,Any breastfeeding,18
+896,Yemen,1997,Any breastfeeding,17.8
+679,Zambia,2007,Any breastfeeding,20.3
+707,Zimbabwe,2010,Any breastfeeding,17.8
+737,Albania,2008,Ever breastfed,96
+744,Armenia,2010,Ever breastfed,97.5
+761,Azerbaijan,2006,Ever breastfed,85.9
+950,Bangladesh,2011,Ever breastfed,97.9
+1,Benin,2012,Ever breastfed,92.2
+1178,Bolivia,2008,Ever breastfed,97.6
+1210,Brazil,1996,Ever breastfed,93.4
+33,Burkina Faso,2010,Ever breastfed,98.6
+61,Burundi,2010,Ever breastfed,98.5
+985,Cambodia,2010,Ever breastfed,95.5
+73,Cameroon,2011,Ever breastfed,96.8
+104,Central African Republic,1994,Ever breastfed,97.9
+110,Chad,2004,Ever breastfed,98.5
+1222,Colombia,2010,Ever breastfed,96.6
+120,Comoros,2012,Ever breastfed,89.6
+133,Congo (Brazzaville),2005,Ever breastfed,94.5
+136,Congo Democratic Republic,2007,Ever breastfed,96.5
+143,Cote d'Ivoire,2012,Ever breastfed,94.7
+1262,Dominican Republic,2007,Ever breastfed,92
+1306,Ecuador,2004,Ever breastfed,97
+768,Egypt,2008,Ever breastfed,96.1
+1326,El Salvador,2002,Ever breastfed,94.9
+163,Eritrea,2002,Ever breastfed,98.2
+176,Ethiopia,2011,Ever breastfed,96.4
+193,Gabon,2012,Ever breastfed,90.9
+207,Ghana,2008,Ever breastfed,98.4
+1337,Guatemala,2002,Ever breastfed,96.5
+239,Guinea,2012,Ever breastfed,97.2
+1359,Guyana,2009,Ever breastfed,94
+1366,Haiti,2012,Ever breastfed,95.9
+1402,Honduras,2011,Ever breastfed,95.9
+1006,India,2006,Ever breastfed,96.4
+1025,Indonesia,2012,Ever breastfed,95.3
+804,Jordan,2012,Ever breastfed,93.3
+904,Kazakhstan,1999,Ever breastfed,95.4
+260,Kenya,2008,Ever breastfed,97
+917,Kyrgyz Republic,2012,Ever breastfed,98.7
+292,Lesotho,2009,Ever breastfed,92
+306,Liberia,2007,Ever breastfed,96.2
+318,Madagascar,2008,Ever breastfed,98.4
+345,Malawi,2010,Ever breastfed,98
+1070,Maldives,2009,Ever breastfed,98.1
+373,Mali,2006,Ever breastfed,95.8
+398,Mauritania,2000,Ever breastfed,95.8
+842,Moldova,2005,Ever breastfed,97.2
+845,Morocco,2003,Ever breastfed,95.1
+405,Mozambique,2011,Ever breastfed,97
+425,Namibia,2006,Ever breastfed,93.3
+1077,Nepal,2011,Ever breastfed,97.7
+1425,Nicaragua,2001,Ever breastfed,95.1
+446,Niger,2012,Ever breastfed,98.3
+473,Nigeria,2008,Ever breastfed,97.8
+1104,Pakistan,2012,Ever breastfed,94.3
+1447,Paraguay,2004,Ever breastfed,95.7
+1468,Peru,2012,Ever breastfed,98.6
+1121,Philippines,2008,Ever breastfed,88.8
+500,Rwanda,2010,Ever breastfed,98.4
+531,Sao Tome and Principe,2008,Ever breastfed,98.2
+538,Senegal,2010,Ever breastfed,96.9
+571,Sierra Leone,2008,Ever breastfed,95
+578,South Africa,1998,Ever breastfed,87.6
+590,Swaziland,2006,Ever breastfed,93.5
+930,Tajikistan,2012,Ever breastfed,98.3
+597,Tanzania,2010,Ever breastfed,96.9
+1159,Timor-Leste,2009,Ever breastfed,97.1
+630,Togo,1998,Ever breastfed,97.4
+869,Turkey,1998,Ever breastfed,95.2
+937,Turkmenistan,2000,Ever breastfed,97.2
+641,Uganda,2011,Ever breastfed,97.6
+883,Ukraine,2007,Ever breastfed,96.1
+944,Uzbekistan,1996,Ever breastfed,96.3
+1166,Vietnam,2002,Ever breastfed,97.8
+890,Yemen,1997,Ever breastfed,96.8
+673,Zambia,2007,Ever breastfed,97.7
+701,Zimbabwe,2010,Ever breastfed,96
+,Albania,2012,median years breastfeeding duration,1
+,Armenia,2005,median years breastfeeding duration,1
+,Azerbaijan,2011,median years breastfeeding duration,1
+,Bangladesh,2006,median years breastfeeding duration,3
+,Benin,1997,median years breastfeeding duration,2
+,Bolivia,2007,median years breastfeeding duration,2
+,Botswana,2012,median years breastfeeding duration,1
+,Brazil,1990,median years breastfeeding duration,1
+,Burkina Faso,2002,median years breastfeeding duration,2
+,Burundi,2007,median years breastfeeding duration,2
+,Cambodia,2009,median years breastfeeding duration,2
+,Cameroon,1999,median years breastfeeding duration,1
+,Central African Republic,1999,median years breastfeeding duration,2
+,Chad,1993,median years breastfeeding duration,2
+,Colombia,1997,median years breastfeeding duration,1
+,Comoros,2012,median years breastfeeding duration,2
+,Congo (Brazzaville),2004,median years breastfeeding duration,1
+,Congo Democratic Republic,2004,median years breastfeeding duration,2
+,Cote d'Ivoire,2007,median years breastfeeding duration,2
+,Dominican Republic,2004,median years breastfeeding duration,1
+,Ecuador,2008,median years breastfeeding duration,1
+,Egypt,2004,median years breastfeeding duration,2
+,El Salvador,2010,median years breastfeeding duration,2
+,Eritrea,2009,median years breastfeeding duration,2
+,Ethiopia,2001,median years breastfeeding duration,2
+,Gabon,2006,median years breastfeeding duration,1
+,Ghana,2005,median years breastfeeding duration,2
+,Guatemala,2003,median years breastfeeding duration,2
+,Guinea,2003,median years breastfeeding duration,2
+,Guyana,2011,median years breastfeeding duration,2
+,Haiti,2000,median years breastfeeding duration,1
+,Honduras,2006,median years breastfeeding duration,2
+,India,2001,median years breastfeeding duration,2
+,Indonesia,1998,median years breastfeeding duration,2
+,Jordan,2006,median years breastfeeding duration,1
+,Kazakhstan,2012,median years breastfeeding duration,1
+,Kenya,2003,median years breastfeeding duration,2
+,Kyrgyz Republic,2008,median years breastfeeding duration,2
+,Lesotho,1991,median years breastfeeding duration,1
+,Liberia,2006,median years breastfeeding duration,2
+,Madagascar,1990,median years breastfeeding duration,2
+,Malawi,1992,median years breastfeeding duration,2
+,Maldives,1992,median years breastfeeding duration,2
+,Mali,2000,median years breastfeeding duration,2
+,Mauritania,2004,median years breastfeeding duration,2
+,Mexico,2004,median years breastfeeding duration,1
+,Moldova,2007,median years breastfeeding duration,1
+,Morocco,2009,median years breastfeeding duration,1
+,Mozambique,2011,median years breastfeeding duration,2
+,Namibia,2012,median years breastfeeding duration,1
+,Nepal,1998,median years breastfeeding duration,3
+,Nicaragua,2003,median years breastfeeding duration,1
+,Niger,1992,median years breastfeeding duration,2
+,Nigeria,2005,median years breastfeeding duration,2
+,Pakistan,2010,median years breastfeeding duration,2
+,Paraguay,2008,median years breastfeeding duration,1
+,Peru,2008,median years breastfeeding duration,2
+,Philippines,2006,median years breastfeeding duration,1
+,Rwanda,1992,median years breastfeeding duration,2
+,Sao Tome and Principe,1996,median years breastfeeding duration,1
+,Senegal,2010,median years breastfeeding duration,2
+,Sierra Leone,2009,median years breastfeeding duration,2
+,South Africa,2009,median years breastfeeding duration,1
+,Sri Lanka,1998,median years breastfeeding duration,2
+,Sudan,1993,median years breastfeeding duration,2
+,Swaziland,1993,median years breastfeeding duration,1
+,Tajikistan,1998,median years breastfeeding duration,2
+,Tanzania,2000,median years breastfeeding duration,2
+,Thailand,2000,median years breastfeeding duration,1
+,Timor-Leste,2006,median years breastfeeding duration,1
+,Togo,2011,median years breastfeeding duration,2
+,Trinidad and Tobago,2011,median years breastfeeding duration,1
+,Tunisia,2007,median years breastfeeding duration,1
+,Turkey,1996,median years breastfeeding duration,1
+,Turkmenistan,1997,median years breastfeeding duration,1
+,Uganda,1997,median years breastfeeding duration,2
+,Ukraine,1992,median years breastfeeding duration,1
+,Uzbekistan,1992,median years breastfeeding duration,1
+,Vietnam,1996,median years breastfeeding duration,2
+,Yemen,2002,median years breastfeeding duration,1
+,Zambia,1999,median years breastfeeding duration,2
+,Zimbabwe,2010,median years breastfeeding duration,1

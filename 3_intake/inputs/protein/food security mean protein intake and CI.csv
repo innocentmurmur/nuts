@@ -1,0 +1,1033 @@
+RecordOrder,Survey,Breakdown Variable,Indicator,Measure,Unit,Value
+1,Albania - 2005,Country-level,Protein consumption,Mean,g/capita/day,93.4
+2,Albania - 2005,Country-level,Protein consumption,Standard Deviation,g/capita/day,39.46
+3,Albania - 2005,Country-level,Protein consumption,Number Observations,g/capita/day,3836
+4,Albania - 2005,Country-level,Share of dietary energy consumption from protein,Mean,%,12.94
+5,Albania - 2005,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.22
+6,Albania - 2005,Country-level,Share of dietary energy consumption from protein,Number Observations,%,3836
+7,Albania - 2005,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,72.49
+8,Albania - 2005,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,26.68
+9,Albania - 2005,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,1238
+10,Albania - 2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,12.48
+11,Albania - 2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.11
+12,Albania - 2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1238
+13,Albania - 2005,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,93.16
+14,Albania - 2005,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,27.61
+15,Albania - 2005,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,1311
+16,Albania - 2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,13.01
+17,Albania - 2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.11
+18,Albania - 2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,1311
+19,Albania - 2005,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,124.48
+20,Albania - 2005,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,46.62
+21,Albania - 2005,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1287
+22,Albania - 2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,13.52
+23,Albania - 2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.38
+24,Albania - 2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1287
+25,Azerbaijan - 2006,Country-level,Protein consumption,Mean,g/capita/day,78.31
+26,Azerbaijan - 2006,Country-level,Protein consumption,Standard Deviation,g/capita/day,16.47
+27,Azerbaijan - 2006,Country-level,Protein consumption,Number Observations,g/capita/day,15062
+28,Azerbaijan - 2006,Country-level,Share of dietary energy consumption from protein,Mean,%,11.03
+29,Azerbaijan - 2006,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.24
+30,Azerbaijan - 2006,Country-level,Share of dietary energy consumption from protein,Number Observations,%,15062
+31,Azerbaijan - 2006,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,71.84
+32,Azerbaijan - 2006,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,13.83
+33,Azerbaijan - 2006,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,3892
+34,Azerbaijan - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,10.86
+35,Azerbaijan - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.19
+36,Azerbaijan - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3892
+37,Azerbaijan - 2006,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,79.03
+38,Azerbaijan - 2006,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,14.38
+39,Azerbaijan - 2006,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,4787
+40,Azerbaijan - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,11.05
+41,Azerbaijan - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.22
+42,Azerbaijan - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,4787
+43,Azerbaijan - 2006,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,87.14
+44,Azerbaijan - 2006,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,18.38
+45,Azerbaijan - 2006,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,6383
+46,Azerbaijan - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,11.25
+47,Azerbaijan - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.31
+48,Azerbaijan - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,6383
+49,Bangladesh - 2000-2001,Country-level,Protein consumption,Mean,g/capita/day,56.52
+50,Bangladesh - 2000-2001,Country-level,Protein consumption,Standard Deviation,g/capita/day,17.07
+51,Bangladesh - 2000-2001,Country-level,Protein consumption,Number Observations,g/capita/day,7438
+52,Bangladesh - 2000-2001,Country-level,Share of dietary energy consumption from protein,Mean,%,10.29
+53,Bangladesh - 2000-2001,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.43
+54,Bangladesh - 2000-2001,Country-level,Share of dietary energy consumption from protein,Number Observations,%,7438
+55,Bangladesh - 2000-2001,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,44.36
+56,Bangladesh - 2000-2001,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,9.73
+57,Bangladesh - 2000-2001,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2277
+58,Bangladesh - 2000-2001,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,9.67
+59,Bangladesh - 2000-2001,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.12
+60,Bangladesh - 2000-2001,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2277
+61,Bangladesh - 2000-2001,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,57.04
+62,Bangladesh - 2000-2001,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,12.45
+63,Bangladesh - 2000-2001,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2423
+64,Bangladesh - 2000-2001,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,10.2
+65,Bangladesh - 2000-2001,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.27
+66,Bangladesh - 2000-2001,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2423
+67,Bangladesh - 2000-2001,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,69.31
+68,Bangladesh - 2000-2001,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,17.97
+69,Bangladesh - 2000-2001,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,2738
+70,Bangladesh - 2000-2001,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,11.08
+71,Bangladesh - 2000-2001,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.53
+72,Bangladesh - 2000-2001,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2738
+73,Bangladesh - 2005,Country-level,Protein consumption,Mean,g/capita/day,49.61
+74,Bangladesh - 2005,Country-level,Protein consumption,Standard Deviation,g/capita/day,15.25
+75,Bangladesh - 2005,Country-level,Protein consumption,Number Observations,g/capita/day,10080
+76,Bangladesh - 2005,Country-level,Share of dietary energy consumption from protein,Mean,%,9.33
+77,Bangladesh - 2005,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,0.97
+78,Bangladesh - 2005,Country-level,Share of dietary energy consumption from protein,Number Observations,%,10080
+79,Bangladesh - 2005,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,39.22
+80,Bangladesh - 2005,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,8.24
+81,Bangladesh - 2005,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,3360
+82,Bangladesh - 2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,8.76
+83,Bangladesh - 2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,0.66
+84,Bangladesh - 2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3360
+85,Bangladesh - 2005,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,49.12
+86,Bangladesh - 2005,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,10.13
+87,Bangladesh - 2005,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,3360
+88,Bangladesh - 2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,9.28
+89,Bangladesh - 2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,0.76
+90,Bangladesh - 2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,3360
+91,Bangladesh - 2005,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,61.51
+92,Bangladesh - 2005,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,16.96
+93,Bangladesh - 2005,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,3360
+94,Bangladesh - 2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,10.02
+95,Bangladesh - 2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.02
+96,Bangladesh - 2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3360
+97,Bolivia (Plurinational State of) - 2003-2004,Country-level,Protein consumption,Mean,g/capita/day,63.54
+98,Bolivia (Plurinational State of) - 2003-2004,Country-level,Protein consumption,Standard Deviation,g/capita/day,68.32
+99,Bolivia (Plurinational State of) - 2003-2004,Country-level,Protein consumption,Number Observations,g/capita/day,9149
+100,Bolivia (Plurinational State of) - 2003-2004,Country-level,Share of dietary energy consumption from protein,Mean,%,14.35
+101,Bolivia (Plurinational State of) - 2003-2004,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,5.18
+102,Bolivia (Plurinational State of) - 2003-2004,Country-level,Share of dietary energy consumption from protein,Number Observations,%,9149
+103,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,37.03
+104,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,20.19
+105,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2300
+106,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,13.09
+107,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,5.35
+108,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2300
+109,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,66.05
+110,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,25.48
+111,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,3016
+112,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,15.04
+113,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.9
+114,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,3016
+115,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,104.21
+116,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,119.15
+117,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,3833
+118,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,15.54
+119,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.77
+120,Bolivia (Plurinational State of) - 2003-2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3833
+121,Cambodia - 2004,Country-level,Protein consumption,Mean,g/capita/day,55.09
+122,Cambodia - 2004,Country-level,Protein consumption,Standard Deviation,g/capita/day,38.52
+123,Cambodia - 2004,Country-level,Protein consumption,Number Observations,g/capita/day,14981
+124,Cambodia - 2004,Country-level,Share of dietary energy consumption from protein,Mean,%,11.32
+125,Cambodia - 2004,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.97
+126,Cambodia - 2004,Country-level,Share of dietary energy consumption from protein,Number Observations,%,14981
+127,Cambodia - 2004,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,41.44
+128,Cambodia - 2004,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,14.48
+129,Cambodia - 2004,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,4804
+130,Cambodia - 2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,11.01
+131,Cambodia - 2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.94
+132,Cambodia - 2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,4804
+133,Cambodia - 2004,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,54.96
+134,Cambodia - 2004,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,17.53
+135,Cambodia - 2004,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,4895
+136,Cambodia - 2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,10.95
+137,Cambodia - 2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.94
+138,Cambodia - 2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,4895
+139,Cambodia - 2004,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,73.15
+140,Cambodia - 2004,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,62.33
+141,Cambodia - 2004,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,5282
+142,Cambodia - 2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,12.13
+143,Cambodia - 2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.81
+144,Cambodia - 2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,5282
+145,Cambodia - 2009,Country-level,Protein consumption,Mean,g/capita/day,63.12
+146,Cambodia - 2009,Country-level,Protein consumption,Standard Deviation,g/capita/day,58.5
+147,Cambodia - 2009,Country-level,Protein consumption,Number Observations,g/capita/day,11970
+148,Cambodia - 2009,Country-level,Share of dietary energy consumption from protein,Mean,%,12.56
+149,Cambodia - 2009,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,5.14
+150,Cambodia - 2009,Country-level,Share of dietary energy consumption from protein,Number Observations,%,11970
+151,Cambodia - 2009,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,51.63
+152,Cambodia - 2009,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,45.75
+153,Cambodia - 2009,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,3942
+154,Cambodia - 2009,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,11.99
+155,Cambodia - 2009,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.83
+156,Cambodia - 2009,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3942
+157,Cambodia - 2009,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,60.18
+158,Cambodia - 2009,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,41.88
+159,Cambodia - 2009,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,3977
+160,Cambodia - 2009,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,12.29
+161,Cambodia - 2009,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.94
+162,Cambodia - 2009,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,3977
+163,Cambodia - 2009,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,81.78
+164,Cambodia - 2009,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,81.09
+165,Cambodia - 2009,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,4051
+166,Cambodia - 2009,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,13.62
+167,Cambodia - 2009,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,5.57
+168,Cambodia - 2009,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,4051
+169,Chad - 2009,Country-level,Protein consumption,Mean,g/capita/day,82.11
+170,Chad - 2009,Country-level,Protein consumption,Standard Deviation,g/capita/day,60.1
+171,Chad - 2009,Country-level,Protein consumption,Number Observations,g/capita/day,4632
+172,Chad - 2009,Country-level,Share of dietary energy consumption from protein,Mean,%,13.15
+173,Chad - 2009,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.39
+174,Chad - 2009,Country-level,Share of dietary energy consumption from protein,Number Observations,%,4632
+175,Chad - 2009,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,53.51
+176,Chad - 2009,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,25.59
+177,Chad - 2009,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,1454
+178,Chad - 2009,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,12.92
+179,Chad - 2009,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.83
+180,Chad - 2009,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1454
+181,Chad - 2009,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,78.79
+182,Chad - 2009,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,33.89
+183,Chad - 2009,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,1610
+184,Chad - 2009,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,13.06
+185,Chad - 2009,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.73
+186,Chad - 2009,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,1610
+187,Chad - 2009,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,129.51
+188,Chad - 2009,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,86.95
+189,Chad - 2009,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1568
+190,Chad - 2009,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,13.61
+191,Chad - 2009,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.67
+192,Chad - 2009,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1568
+193,Côte d'Ivoire - 2002,Country-level,Protein consumption,Mean,g/capita/day,63.69
+194,Côte d'Ivoire - 2002,Country-level,Protein consumption,Standard Deviation,g/capita/day,44.71
+195,Côte d'Ivoire - 2002,Country-level,Protein consumption,Number Observations,g/capita/day,10760
+196,Côte d'Ivoire - 2002,Country-level,Share of dietary energy consumption from protein,Mean,%,12.13
+197,Côte d'Ivoire - 2002,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,4.12
+198,Côte d'Ivoire - 2002,Country-level,Share of dietary energy consumption from protein,Number Observations,%,10760
+199,Côte d'Ivoire - 2002,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,47.99
+200,Côte d'Ivoire - 2002,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,28.34
+201,Côte d'Ivoire - 2002,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,3643
+202,Côte d'Ivoire - 2002,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,11.43
+203,Côte d'Ivoire - 2002,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.5
+204,Côte d'Ivoire - 2002,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3643
+205,Côte d'Ivoire - 2002,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,64.35
+206,Côte d'Ivoire - 2002,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,37.68
+207,Côte d'Ivoire - 2002,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,3627
+208,Côte d'Ivoire - 2002,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,12.29
+209,Côte d'Ivoire - 2002,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.38
+210,Côte d'Ivoire - 2002,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,3627
+211,Côte d'Ivoire - 2002,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,91.34
+212,Côte d'Ivoire - 2002,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,61.59
+213,Côte d'Ivoire - 2002,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,3490
+214,Côte d'Ivoire - 2002,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,13.17
+215,Côte d'Ivoire - 2002,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.51
+216,Côte d'Ivoire - 2002,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3490
+217,Egypt - 1997,Country-level,Protein consumption,Mean,g/capita/day,84.53
+218,Egypt - 1997,Country-level,Protein consumption,Standard Deviation,g/capita/day,38.86
+219,Egypt - 1997,Country-level,Protein consumption,Number Observations,g/capita/day,2249
+220,Egypt - 1997,Country-level,Share of dietary energy consumption from protein,Mean,%,12.85
+221,Egypt - 1997,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.3
+222,Egypt - 1997,Country-level,Share of dietary energy consumption from protein,Number Observations,%,2249
+223,Egypt - 1997,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,70.54
+224,Egypt - 1997,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,29.89
+225,Egypt - 1997,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,769
+226,Egypt - 1997,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,12.51
+227,Egypt - 1997,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.27
+228,Egypt - 1997,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,769
+229,Egypt - 1997,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,84.42
+230,Egypt - 1997,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,32.33
+231,Egypt - 1997,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,748
+232,Egypt - 1997,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,12.9
+233,Egypt - 1997,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.21
+234,Egypt - 1997,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,748
+235,Egypt - 1997,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,106.83
+236,Egypt - 1997,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,48.16
+237,Egypt - 1997,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,732
+238,Egypt - 1997,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,13.3
+239,Egypt - 1997,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.38
+240,Egypt - 1997,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,732
+241,Ghana - 1998-1999,Country-level,Protein consumption,Mean,g/capita/day,52.51
+242,Ghana - 1998-1999,Country-level,Protein consumption,Standard Deviation,g/capita/day,31.46
+243,Ghana - 1998-1999,Country-level,Protein consumption,Number Observations,g/capita/day,5998
+244,Ghana - 1998-1999,Country-level,Share of dietary energy consumption from protein,Mean,%,9.39
+245,Ghana - 1998-1999,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.02
+246,Ghana - 1998-1999,Country-level,Share of dietary energy consumption from protein,Number Observations,%,5998
+247,Ghana - 1998-1999,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,36.86
+248,Ghana - 1998-1999,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,14.68
+249,Ghana - 1998-1999,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2076
+250,Ghana - 1998-1999,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,9.39
+251,Ghana - 1998-1999,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.92
+252,Ghana - 1998-1999,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2076
+253,Ghana - 1998-1999,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,52.45
+254,Ghana - 1998-1999,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,20.42
+255,Ghana - 1998-1999,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2068
+256,Ghana - 1998-1999,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,9.19
+257,Ghana - 1998-1999,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.73
+258,Ghana - 1998-1999,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2068
+259,Ghana - 1998-1999,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,83.08
+260,Ghana - 1998-1999,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,44.45
+261,Ghana - 1998-1999,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1854
+262,Ghana - 1998-1999,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,9.69
+263,Ghana - 1998-1999,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.56
+264,Ghana - 1998-1999,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1854
+265,Guatemala - 2006,Country-level,Protein consumption,Mean,g/capita/day,65.02
+266,Guatemala - 2006,Country-level,Protein consumption,Standard Deviation,g/capita/day,32.8
+267,Guatemala - 2006,Country-level,Protein consumption,Number Observations,g/capita/day,13603
+268,Guatemala - 2006,Country-level,Share of dietary energy consumption from protein,Mean,%,11.42
+269,Guatemala - 2006,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2
+270,Guatemala - 2006,Country-level,Share of dietary energy consumption from protein,Number Observations,%,13603
+271,Guatemala - 2006,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,47.09
+272,Guatemala - 2006,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,18.79
+273,Guatemala - 2006,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,5113
+274,Guatemala - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,11.09
+275,Guatemala - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.01
+276,Guatemala - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,5113
+277,Guatemala - 2006,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,67.91
+278,Guatemala - 2006,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,22.45
+279,Guatemala - 2006,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,4844
+280,Guatemala - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,11.33
+281,Guatemala - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.71
+282,Guatemala - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,4844
+283,Guatemala - 2006,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,94.21
+284,Guatemala - 2006,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,41.68
+285,Guatemala - 2006,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,3646
+286,Guatemala - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,12.14
+287,Guatemala - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.15
+288,Guatemala - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3646
+289,Haiti - 1999-2000,Country-level,Protein consumption,Mean,g/capita/day,57.5
+290,Haiti - 1999-2000,Country-level,Protein consumption,Standard Deviation,g/capita/day,52.88
+291,Haiti - 1999-2000,Country-level,Protein consumption,Number Observations,g/capita/day,4733
+292,Haiti - 1999-2000,Country-level,Share of dietary energy consumption from protein,Mean,%,9.84
+293,Haiti - 1999-2000,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.02
+294,Haiti - 1999-2000,Country-level,Share of dietary energy consumption from protein,Number Observations,%,4733
+295,Haiti - 1999-2000,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,31.99
+296,Haiti - 1999-2000,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,21.22
+297,Haiti - 1999-2000,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,1542
+298,Haiti - 1999-2000,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,9.34
+299,Haiti - 1999-2000,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.63
+300,Haiti - 1999-2000,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1542
+301,Haiti - 1999-2000,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,58.04
+302,Haiti - 1999-2000,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,34.21
+303,Haiti - 1999-2000,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,1583
+304,Haiti - 1999-2000,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,9.87
+305,Haiti - 1999-2000,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.52
+306,Haiti - 1999-2000,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,1583
+307,Haiti - 1999-2000,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,97.57
+308,Haiti - 1999-2000,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,78.15
+309,Haiti - 1999-2000,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1608
+310,Haiti - 1999-2000,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,10.59
+311,Haiti - 1999-2000,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.95
+312,Haiti - 1999-2000,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1608
+313,Hungary - 2004,Country-level,Protein consumption,Mean,g/capita/day,79.91
+314,Hungary - 2004,Country-level,Protein consumption,Standard Deviation,g/capita/day,37.09
+315,Hungary - 2004,Country-level,Protein consumption,Number Observations,g/capita/day,9879
+316,Hungary - 2004,Country-level,Share of dietary energy consumption from protein,Mean,%,13.32
+317,Hungary - 2004,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.64
+318,Hungary - 2004,Country-level,Share of dietary energy consumption from protein,Number Observations,%,9879
+319,Hungary - 2004,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,66.43
+320,Hungary - 2004,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,22.78
+321,Hungary - 2004,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,3337
+322,Hungary - 2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,13.05
+323,Hungary - 2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.43
+324,Hungary - 2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3337
+325,Hungary - 2004,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,84.11
+326,Hungary - 2004,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,33.94
+327,Hungary - 2004,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,3401
+328,Hungary - 2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,13.29
+329,Hungary - 2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.67
+330,Hungary - 2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,3401
+331,Hungary - 2004,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,96.25
+332,Hungary - 2004,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,49.19
+333,Hungary - 2004,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,3141
+334,Hungary - 2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,13.78
+335,Hungary - 2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.86
+336,Hungary - 2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3141
+337,Iraq - 2007,Country-level,Protein consumption,Mean,g/capita/day,76.39
+338,Iraq - 2007,Country-level,Protein consumption,Standard Deviation,g/capita/day,30.57
+339,Iraq - 2007,Country-level,Protein consumption,Number Observations,g/capita/day,17822
+340,Iraq - 2007,Country-level,Share of dietary energy consumption from protein,Mean,%,11.98
+341,Iraq - 2007,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.43
+342,Iraq - 2007,Country-level,Share of dietary energy consumption from protein,Number Observations,%,17822
+343,Iraq - 2007,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,63.13
+344,Iraq - 2007,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,21.79
+345,Iraq - 2007,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,6061
+346,Iraq - 2007,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,12.07
+347,Iraq - 2007,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.69
+348,Iraq - 2007,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,6061
+349,Iraq - 2007,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,77.82
+350,Iraq - 2007,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,25.62
+351,Iraq - 2007,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,5871
+352,Iraq - 2007,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,11.89
+353,Iraq - 2007,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.16
+354,Iraq - 2007,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,5871
+355,Iraq - 2007,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,95.96
+356,Iraq - 2007,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,36.92
+357,Iraq - 2007,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,5890
+358,Iraq - 2007,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,11.95
+359,Iraq - 2007,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.29
+360,Iraq - 2007,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,5890
+361,Kenya - 2005-2006,Country-level,Protein consumption,Mean,g/capita/day,52.4
+362,Kenya - 2005-2006,Country-level,Protein consumption,Standard Deviation,g/capita/day,38.83
+363,Kenya - 2005-2006,Country-level,Protein consumption,Number Observations,g/capita/day,12980
+364,Kenya - 2005-2006,Country-level,Share of dietary energy consumption from protein,Mean,%,11.54
+365,Kenya - 2005-2006,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.5
+366,Kenya - 2005-2006,Country-level,Share of dietary energy consumption from protein,Number Observations,%,12980
+367,Kenya - 2005-2006,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,35.12
+368,Kenya - 2005-2006,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,21.03
+369,Kenya - 2005-2006,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,4326
+370,Kenya - 2005-2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,11.23
+371,Kenya - 2005-2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.63
+372,Kenya - 2005-2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,4326
+373,Kenya - 2005-2006,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,54.71
+374,Kenya - 2005-2006,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,30.35
+375,Kenya - 2005-2006,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,4327
+376,Kenya - 2005-2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,11.56
+377,Kenya - 2005-2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.24
+378,Kenya - 2005-2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,4327
+379,Kenya - 2005-2006,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,81.47
+380,Kenya - 2005-2006,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,54.18
+381,Kenya - 2005-2006,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,4327
+382,Kenya - 2005-2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,12.11
+383,Kenya - 2005-2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.48
+384,Kenya - 2005-2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,4327
+385,Lao People's Democratic Republic - 2008,Country-level,Protein consumption,Mean,g/capita/day,69.09
+386,Lao People's Democratic Republic - 2008,Country-level,Protein consumption,Standard Deviation,g/capita/day,25.98
+387,Lao People's Democratic Republic - 2008,Country-level,Protein consumption,Number Observations,g/capita/day,8294
+388,Lao People's Democratic Republic - 2008,Country-level,Share of dietary energy consumption from protein,Mean,%,11
+389,Lao People's Democratic Republic - 2008,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.99
+390,Lao People's Democratic Republic - 2008,Country-level,Share of dietary energy consumption from protein,Number Observations,%,8294
+391,Lao People's Democratic Republic - 2008,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,55.22
+392,Lao People's Democratic Republic - 2008,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,15.05
+393,Lao People's Democratic Republic - 2008,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,3218
+394,Lao People's Democratic Republic - 2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,10.38
+395,Lao People's Democratic Republic - 2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.91
+396,Lao People's Democratic Republic - 2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3218
+397,Lao People's Democratic Republic - 2008,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,70.41
+398,Lao People's Democratic Republic - 2008,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,17.6
+399,Lao People's Democratic Republic - 2008,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2714
+400,Lao People's Democratic Republic - 2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,10.9
+401,Lao People's Democratic Republic - 2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.32
+402,Lao People's Democratic Republic - 2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2714
+403,Lao People's Democratic Republic - 2008,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,87.36
+404,Lao People's Democratic Republic - 2008,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,33.59
+405,Lao People's Democratic Republic - 2008,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,2362
+406,Lao People's Democratic Republic - 2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,12.01
+407,Lao People's Democratic Republic - 2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.48
+408,Lao People's Democratic Republic - 2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2362
+409,Lithuania - 2002,Country-level,Protein consumption,Mean,g/capita/day,86.5
+410,Lithuania - 2002,Country-level,Protein consumption,Standard Deviation,g/capita/day,42.66
+411,Lithuania - 2002,Country-level,Protein consumption,Number Observations,g/capita/day,8025
+412,Lithuania - 2002,Country-level,Share of dietary energy consumption from protein,Mean,%,12.41
+413,Lithuania - 2002,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.57
+414,Lithuania - 2002,Country-level,Share of dietary energy consumption from protein,Number Observations,%,8025
+415,Lithuania - 2002,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,64.5
+416,Lithuania - 2002,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,25
+417,Lithuania - 2002,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2969
+418,Lithuania - 2002,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,11.88
+419,Lithuania - 2002,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.52
+420,Lithuania - 2002,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2969
+421,Lithuania - 2002,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,88.86
+422,Lithuania - 2002,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,33.94
+423,Lithuania - 2002,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2694
+424,Lithuania - 2002,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,12.56
+425,Lithuania - 2002,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.56
+426,Lithuania - 2002,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2694
+427,Lithuania - 2002,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,116.41
+428,Lithuania - 2002,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,52.75
+429,Lithuania - 2002,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,2362
+430,Lithuania - 2002,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,13.04
+431,Lithuania - 2002,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.51
+432,Lithuania - 2002,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2362
+433,Malawi - 2004-2005,Country-level,Protein consumption,Mean,g/capita/day,74.32
+434,Malawi - 2004-2005,Country-level,Protein consumption,Standard Deviation,g/capita/day,168.04
+435,Malawi - 2004-2005,Country-level,Protein consumption,Number Observations,g/capita/day,11280
+436,Malawi - 2004-2005,Country-level,Share of dietary energy consumption from protein,Mean,%,13.61
+437,Malawi - 2004-2005,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,6.88
+438,Malawi - 2004-2005,Country-level,Share of dietary energy consumption from protein,Number Observations,%,11280
+439,Malawi - 2004-2005,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,49.47
+440,Malawi - 2004-2005,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,92.6
+441,Malawi - 2004-2005,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,3797
+442,Malawi - 2004-2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,13.15
+443,Malawi - 2004-2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,7.09
+444,Malawi - 2004-2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3797
+445,Malawi - 2004-2005,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,71.73
+446,Malawi - 2004-2005,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,140.78
+447,Malawi - 2004-2005,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,3746
+448,Malawi - 2004-2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,13.67
+449,Malawi - 2004-2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,6.68
+450,Malawi - 2004-2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,3746
+451,Malawi - 2004-2005,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,118.59
+452,Malawi - 2004-2005,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,262.01
+453,Malawi - 2004-2005,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,3737
+454,Malawi - 2004-2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,14.29
+455,Malawi - 2004-2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,6.73
+456,Malawi - 2004-2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3737
+457,Mali - 2001,Country-level,Protein consumption,Mean,g/capita/day,63.49
+458,Mali - 2001,Country-level,Protein consumption,Standard Deviation,g/capita/day,23.67
+459,Mali - 2001,Country-level,Protein consumption,Number Observations,g/capita/day,16893
+460,Mali - 2001,Country-level,Share of dietary energy consumption from protein,Mean,%,11.18
+461,Mali - 2001,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.58
+462,Mali - 2001,Country-level,Share of dietary energy consumption from protein,Number Observations,%,16893
+463,Mali - 2001,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,52.23
+464,Mali - 2001,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,16.15
+465,Mali - 2001,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,5473
+466,Mali - 2001,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,11.23
+467,Mali - 2001,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.39
+468,Mali - 2001,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,5473
+469,Mali - 2001,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,65.4
+470,Mali - 2001,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,19.31
+471,Mali - 2001,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,5561
+472,Mali - 2001,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,11.1
+473,Mali - 2001,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.61
+474,Mali - 2001,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,5561
+475,Mali - 2001,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,79.11
+476,Mali - 2001,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,28.71
+477,Mali - 2001,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,5859
+478,Mali - 2001,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,11.19
+479,Mali - 2001,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.81
+480,Mali - 2001,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,5859
+481,Mexico - 2004,Country-level,Protein consumption,Mean,g/capita/day,78.51
+482,Mexico - 2004,Country-level,Protein consumption,Standard Deviation,g/capita/day,51.69
+483,Mexico - 2004,Country-level,Protein consumption,Number Observations,g/capita/day,22533
+484,Mexico - 2004,Country-level,Share of dietary energy consumption from protein,Mean,%,14.8
+485,Mexico - 2004,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.8
+486,Mexico - 2004,Country-level,Share of dietary energy consumption from protein,Number Observations,%,22533
+487,Mexico - 2004,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,54.01
+488,Mexico - 2004,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,23.25
+489,Mexico - 2004,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,7234
+490,Mexico - 2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,13.95
+491,Mexico - 2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.58
+492,Mexico - 2004,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,7234
+493,Mexico - 2004,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,79.16
+494,Mexico - 2004,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,33.2
+495,Mexico - 2004,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,7220
+496,Mexico - 2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,15.14
+497,Mexico - 2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.45
+498,Mexico - 2004,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,7220
+499,Mexico - 2004,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,118.99
+500,Mexico - 2004,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,75.62
+501,Mexico - 2004,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,8079
+502,Mexico - 2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,15.78
+503,Mexico - 2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.29
+504,Mexico - 2004,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,8079
+505,Mexico - 2006,Country-level,Protein consumption,Mean,g/capita/day,80.92
+506,Mexico - 2006,Country-level,Protein consumption,Standard Deviation,g/capita/day,51.01
+507,Mexico - 2006,Country-level,Protein consumption,Number Observations,g/capita/day,20816
+508,Mexico - 2006,Country-level,Share of dietary energy consumption from protein,Mean,%,15.05
+509,Mexico - 2006,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.91
+510,Mexico - 2006,Country-level,Share of dietary energy consumption from protein,Number Observations,%,20816
+511,Mexico - 2006,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,57.74
+512,Mexico - 2006,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,24.51
+513,Mexico - 2006,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,7701
+514,Mexico - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,14.26
+515,Mexico - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.7
+516,Mexico - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,7701
+517,Mexico - 2006,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,81.89
+518,Mexico - 2006,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,34.43
+519,Mexico - 2006,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,6471
+520,Mexico - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,15.39
+521,Mexico - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.48
+522,Mexico - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,6471
+523,Mexico - 2006,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,120.64
+524,Mexico - 2006,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,74.62
+525,Mexico - 2006,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,6644
+526,Mexico - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,15.98
+527,Mexico - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.52
+528,Mexico - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,6644
+529,Mexico - 2008,Country-level,Protein consumption,Mean,g/capita/day,78.11
+530,Mexico - 2008,Country-level,Protein consumption,Standard Deviation,g/capita/day,47.11
+531,Mexico - 2008,Country-level,Protein consumption,Number Observations,g/capita/day,29428
+532,Mexico - 2008,Country-level,Share of dietary energy consumption from protein,Mean,%,15.06
+533,Mexico - 2008,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.77
+534,Mexico - 2008,Country-level,Share of dietary energy consumption from protein,Number Observations,%,29428
+535,Mexico - 2008,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,56.27
+536,Mexico - 2008,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,25.63
+537,Mexico - 2008,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,10077
+538,Mexico - 2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,14.27
+539,Mexico - 2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.66
+540,Mexico - 2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,10077
+541,Mexico - 2008,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,79
+542,Mexico - 2008,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,31.68
+543,Mexico - 2008,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,9754
+544,Mexico - 2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,15.42
+545,Mexico - 2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.46
+546,Mexico - 2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,9754
+547,Mexico - 2008,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,115.28
+548,Mexico - 2008,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,66.44
+549,Mexico - 2008,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,9597
+550,Mexico - 2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,15.93
+551,Mexico - 2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.08
+552,Mexico - 2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,9597
+553,Mozambique - 2002-2003,Country-level,Protein consumption,Mean,g/capita/day,51.6
+554,Mozambique - 2002-2003,Country-level,Protein consumption,Standard Deviation,g/capita/day,142.01
+555,Mozambique - 2002-2003,Country-level,Protein consumption,Number Observations,g/capita/day,8700
+556,Mozambique - 2002-2003,Country-level,Share of dietary energy consumption from protein,Mean,%,11.71
+557,Mozambique - 2002-2003,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,5.61
+558,Mozambique - 2002-2003,Country-level,Share of dietary energy consumption from protein,Number Observations,%,8700
+559,Mozambique - 2002-2003,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,31.85
+560,Mozambique - 2002-2003,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,23.52
+561,Mozambique - 2002-2003,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2352
+562,Mozambique - 2002-2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,12.21
+563,Mozambique - 2002-2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,7.67
+564,Mozambique - 2002-2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2352
+565,Mozambique - 2002-2003,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,55.95
+566,Mozambique - 2002-2003,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,195.61
+567,Mozambique - 2002-2003,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2667
+568,Mozambique - 2002-2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,11.38
+569,Mozambique - 2002-2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.09
+570,Mozambique - 2002-2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2667
+571,Mozambique - 2002-2003,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,71.72
+572,Mozambique - 2002-2003,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,153.27
+573,Mozambique - 2002-2003,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,3681
+574,Mozambique - 2002-2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,11.47
+575,Mozambique - 2002-2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.63
+576,Mozambique - 2002-2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3681
+577,Nepal - 1995-1996,Country-level,Protein consumption,Mean,g/capita/day,50.51
+578,Nepal - 1995-1996,Country-level,Protein consumption,Standard Deviation,g/capita/day,23.25
+579,Nepal - 1995-1996,Country-level,Protein consumption,Number Observations,g/capita/day,3373
+580,Nepal - 1995-1996,Country-level,Share of dietary energy consumption from protein,Mean,%,9.07
+581,Nepal - 1995-1996,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.51
+582,Nepal - 1995-1996,Country-level,Share of dietary energy consumption from protein,Number Observations,%,3373
+583,Nepal - 1995-1996,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,37.08
+584,Nepal - 1995-1996,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,12.24
+585,Nepal - 1995-1996,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,988
+586,Nepal - 1995-1996,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,8.9
+587,Nepal - 1995-1996,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.57
+588,Nepal - 1995-1996,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,988
+589,Nepal - 1995-1996,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,51.88
+590,Nepal - 1995-1996,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,16.22
+591,Nepal - 1995-1996,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,984
+592,Nepal - 1995-1996,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,9.03
+593,Nepal - 1995-1996,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.41
+594,Nepal - 1995-1996,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,984
+595,Nepal - 1995-1996,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,66.96
+596,Nepal - 1995-1996,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,29.65
+597,Nepal - 1995-1996,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1401
+598,Nepal - 1995-1996,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,9.34
+599,Nepal - 1995-1996,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.48
+600,Nepal - 1995-1996,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1401
+601,Niger - 2007-2008,Country-level,Protein consumption,Mean,g/capita/day,56.73
+602,Niger - 2007-2008,Country-level,Protein consumption,Standard Deviation,g/capita/day,21.77
+603,Niger - 2007-2008,Country-level,Protein consumption,Number Observations,g/capita/day,4000
+604,Niger - 2007-2008,Country-level,Share of dietary energy consumption from protein,Mean,%,11.67
+605,Niger - 2007-2008,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.54
+606,Niger - 2007-2008,Country-level,Share of dietary energy consumption from protein,Number Observations,%,4000
+607,Niger - 2007-2008,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,51.75
+608,Niger - 2007-2008,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,16.09
+609,Niger - 2007-2008,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,1131
+610,Niger - 2007-2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,11.7
+611,Niger - 2007-2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.05
+612,Niger - 2007-2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1131
+613,Niger - 2007-2008,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,59.72
+614,Niger - 2007-2008,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,21.09
+615,Niger - 2007-2008,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,1251
+616,Niger - 2007-2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,11.64
+617,Niger - 2007-2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.45
+618,Niger - 2007-2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,1251
+619,Niger - 2007-2008,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,61.05
+620,Niger - 2007-2008,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,27.99
+621,Niger - 2007-2008,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1618
+622,Niger - 2007-2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,11.64
+623,Niger - 2007-2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.17
+624,Niger - 2007-2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1618
+625,Pakistan - 2005-2006,Country-level,Protein consumption,Mean,g/capita/day,59.67
+626,Pakistan - 2005-2006,Country-level,Protein consumption,Standard Deviation,g/capita/day,19.97
+627,Pakistan - 2005-2006,Country-level,Protein consumption,Number Observations,g/capita/day,15439
+628,Pakistan - 2005-2006,Country-level,Share of dietary energy consumption from protein,Mean,%,12.26
+629,Pakistan - 2005-2006,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.19
+630,Pakistan - 2005-2006,Country-level,Share of dietary energy consumption from protein,Number Observations,%,15439
+631,Pakistan - 2005-2006,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,52.29
+632,Pakistan - 2005-2006,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,15.12
+633,Pakistan - 2005-2006,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,5325
+634,Pakistan - 2005-2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,12.38
+635,Pakistan - 2005-2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.12
+636,Pakistan - 2005-2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,5325
+637,Pakistan - 2005-2006,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,60.58
+638,Pakistan - 2005-2006,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,18.25
+639,Pakistan - 2005-2006,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,5087
+640,Pakistan - 2005-2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,12.18
+641,Pakistan - 2005-2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.15
+642,Pakistan - 2005-2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,5087
+643,Pakistan - 2005-2006,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,69.58
+644,Pakistan - 2005-2006,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,23.58
+645,Pakistan - 2005-2006,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,5027
+646,Pakistan - 2005-2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,12.18
+647,Pakistan - 2005-2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.32
+648,Pakistan - 2005-2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,5027
+649,Panama - 2008,Country-level,Protein consumption,Mean,g/capita/day,83.66
+650,Panama - 2008,Country-level,Protein consumption,Standard Deviation,g/capita/day,56.59
+651,Panama - 2008,Country-level,Protein consumption,Number Observations,g/capita/day,6996
+652,Panama - 2008,Country-level,Share of dietary energy consumption from protein,Mean,%,13.94
+653,Panama - 2008,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.66
+654,Panama - 2008,Country-level,Share of dietary energy consumption from protein,Number Observations,%,6996
+655,Panama - 2008,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,52.39
+656,Panama - 2008,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,25.43
+657,Panama - 2008,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2762
+658,Panama - 2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,12.65
+659,Panama - 2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.76
+660,Panama - 2008,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2762
+661,Panama - 2008,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,90.38
+662,Panama - 2008,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,32.82
+663,Panama - 2008,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2226
+664,Panama - 2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,14.42
+665,Panama - 2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.84
+666,Panama - 2008,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2226
+667,Panama - 2008,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,134.84
+668,Panama - 2008,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,80.32
+669,Panama - 2008,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,2008
+670,Panama - 2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,15.75
+671,Panama - 2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.52
+672,Panama - 2008,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2008
+673,Papua New Guinea - 1996,Country-level,Protein consumption,Mean,g/capita/day,47.61
+674,Papua New Guinea - 1996,Country-level,Protein consumption,Standard Deviation,g/capita/day,38.75
+675,Papua New Guinea - 1996,Country-level,Protein consumption,Number Observations,g/capita/day,1336
+676,Papua New Guinea - 1996,Country-level,Share of dietary energy consumption from protein,Mean,%,10.08
+677,Papua New Guinea - 1996,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,4.62
+678,Papua New Guinea - 1996,Country-level,Share of dietary energy consumption from protein,Number Observations,%,1336
+679,Papua New Guinea - 1996,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,25.02
+680,Papua New Guinea - 1996,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,14.84
+681,Papua New Guinea - 1996,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,367
+682,Papua New Guinea - 1996,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,8.45
+683,Papua New Guinea - 1996,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.54
+684,Papua New Guinea - 1996,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,367
+685,Papua New Guinea - 1996,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,46.32
+686,Papua New Guinea - 1996,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,27.17
+687,Papua New Guinea - 1996,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,413
+688,Papua New Guinea - 1996,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,10.66
+689,Papua New Guinea - 1996,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.69
+690,Papua New Guinea - 1996,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,413
+691,Papua New Guinea - 1996,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,75.41
+692,Papua New Guinea - 1996,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,49.67
+693,Papua New Guinea - 1996,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,556
+694,Papua New Guinea - 1996,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,11.35
+695,Papua New Guinea - 1996,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,5.1
+696,Papua New Guinea - 1996,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,556
+697,Paraguay - 1997-1998,Country-level,Protein consumption,Mean,g/capita/day,84.06
+698,Paraguay - 1997-1998,Country-level,Protein consumption,Standard Deviation,g/capita/day,41.17
+699,Paraguay - 1997-1998,Country-level,Protein consumption,Number Observations,g/capita/day,4353
+700,Paraguay - 1997-1998,Country-level,Share of dietary energy consumption from protein,Mean,%,12.03
+701,Paraguay - 1997-1998,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.93
+702,Paraguay - 1997-1998,Country-level,Share of dietary energy consumption from protein,Number Observations,%,4353
+703,Paraguay - 1997-1998,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,61.21
+704,Paraguay - 1997-1998,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,23.31
+705,Paraguay - 1997-1998,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,1548
+706,Paraguay - 1997-1998,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,10.98
+707,Paraguay - 1997-1998,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.79
+708,Paraguay - 1997-1998,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1548
+709,Paraguay - 1997-1998,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,93.19
+710,Paraguay - 1997-1998,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,34.32
+711,Paraguay - 1997-1998,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,1428
+712,Paraguay - 1997-1998,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,12.31
+713,Paraguay - 1997-1998,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.6
+714,Paraguay - 1997-1998,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,1428
+715,Paraguay - 1997-1998,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,111.44
+716,Paraguay - 1997-1998,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,50.53
+717,Paraguay - 1997-1998,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1377
+718,Paraguay - 1997-1998,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,13.45
+719,Paraguay - 1997-1998,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.86
+720,Paraguay - 1997-1998,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1377
+721,Philippines - 2003,Country-level,Protein consumption,Mean,g/capita/day,53.17
+722,Philippines - 2003,Country-level,Protein consumption,Standard Deviation,g/capita/day,23.76
+723,Philippines - 2003,Country-level,Protein consumption,Number Observations,g/capita/day,42094
+724,Philippines - 2003,Country-level,Share of dietary energy consumption from protein,Mean,%,11.04
+725,Philippines - 2003,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.45
+726,Philippines - 2003,Country-level,Share of dietary energy consumption from protein,Number Observations,%,42094
+727,Philippines - 2003,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,37.44
+728,Philippines - 2003,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,10.6
+729,Philippines - 2003,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,15930
+730,Philippines - 2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,10.17
+731,Philippines - 2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,0.89
+732,Philippines - 2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,15930
+733,Philippines - 2003,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,52.84
+734,Philippines - 2003,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,13.92
+735,Philippines - 2003,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,13823
+736,Philippines - 2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,11.14
+737,Philippines - 2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.23
+738,Philippines - 2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,13823
+739,Philippines - 2003,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,75.33
+740,Philippines - 2003,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,28.02
+741,Philippines - 2003,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,12341
+742,Philippines - 2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,12.14
+743,Philippines - 2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.51
+744,Philippines - 2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,12341
+745,Republic of Moldova - 2006,Country-level,Protein consumption,Mean,g/capita/day,92.62
+746,Republic of Moldova - 2006,Country-level,Protein consumption,Standard Deviation,g/capita/day,47.27
+747,Republic of Moldova - 2006,Country-level,Protein consumption,Number Observations,g/capita/day,5748
+748,Republic of Moldova - 2006,Country-level,Share of dietary energy consumption from protein,Mean,%,13.81
+749,Republic of Moldova - 2006,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.57
+750,Republic of Moldova - 2006,Country-level,Share of dietary energy consumption from protein,Number Observations,%,5748
+751,Republic of Moldova - 2006,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,67.71
+752,Republic of Moldova - 2006,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,27.24
+753,Republic of Moldova - 2006,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2007
+754,Republic of Moldova - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,13.43
+755,Republic of Moldova - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.56
+756,Republic of Moldova - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2007
+757,Republic of Moldova - 2006,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,94.12
+758,Republic of Moldova - 2006,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,35.96
+759,Republic of Moldova - 2006,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,1945
+760,Republic of Moldova - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,13.84
+761,Republic of Moldova - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.47
+762,Republic of Moldova - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,1945
+763,Republic of Moldova - 2006,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,125.72
+764,Republic of Moldova - 2006,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,58.6
+765,Republic of Moldova - 2006,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1796
+766,Republic of Moldova - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,14.32
+767,Republic of Moldova - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.58
+768,Republic of Moldova - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1796
+769,Sri Lanka - 1999-2000,Country-level,Protein consumption,Mean,g/capita/day,56.42
+770,Sri Lanka - 1999-2000,Country-level,Protein consumption,Standard Deviation,g/capita/day,24.14
+771,Sri Lanka - 1999-2000,Country-level,Protein consumption,Number Observations,g/capita/day,7483
+772,Sri Lanka - 1999-2000,Country-level,Share of dietary energy consumption from protein,Mean,%,10.36
+773,Sri Lanka - 1999-2000,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.88
+774,Sri Lanka - 1999-2000,Country-level,Share of dietary energy consumption from protein,Number Observations,%,7483
+775,Sri Lanka - 1999-2000,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,41.82
+776,Sri Lanka - 1999-2000,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,12.33
+777,Sri Lanka - 1999-2000,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2228
+778,Sri Lanka - 1999-2000,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,9.88
+779,Sri Lanka - 1999-2000,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.67
+780,Sri Lanka - 1999-2000,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2228
+781,Sri Lanka - 1999-2000,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,57.68
+782,Sri Lanka - 1999-2000,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,16.01
+783,Sri Lanka - 1999-2000,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2577
+784,Sri Lanka - 1999-2000,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,10.31
+785,Sri Lanka - 1999-2000,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.76
+786,Sri Lanka - 1999-2000,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2577
+787,Sri Lanka - 1999-2000,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,73.83
+788,Sri Lanka - 1999-2000,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,30.61
+789,Sri Lanka - 1999-2000,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,2678
+790,Sri Lanka - 1999-2000,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,11.03
+791,Sri Lanka - 1999-2000,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.06
+792,Sri Lanka - 1999-2000,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2678
+793,Sudan (former) - 2009,Country-level,Protein consumption,Mean,g/capita/day,69.37
+794,Sudan (former) - 2009,Country-level,Protein consumption,Standard Deviation,g/capita/day,40.04
+795,Sudan (former) - 2009,Country-level,Protein consumption,Number Observations,g/capita/day,12824
+796,Sudan (former) - 2009,Country-level,Share of dietary energy consumption from protein,Mean,%,12.48
+797,Sudan (former) - 2009,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,4.61
+798,Sudan (former) - 2009,Country-level,Share of dietary energy consumption from protein,Number Observations,%,12824
+799,Sudan (former) - 2009,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,47.28
+800,Sudan (former) - 2009,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,23.86
+801,Sudan (former) - 2009,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,5063
+802,Sudan (former) - 2009,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,12.42
+803,Sudan (former) - 2009,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,5.9
+804,Sudan (former) - 2009,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,5063
+805,Sudan (former) - 2009,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,68.53
+806,Sudan (former) - 2009,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,28.24
+807,Sudan (former) - 2009,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,4081
+808,Sudan (former) - 2009,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,12.4
+809,Sudan (former) - 2009,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.65
+810,Sudan (former) - 2009,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,4081
+811,Sudan (former) - 2009,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,101.12
+812,Sudan (former) - 2009,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,48.63
+813,Sudan (former) - 2009,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,3680
+814,Sudan (former) - 2009,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,12.68
+815,Sudan (former) - 2009,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.53
+816,Sudan (former) - 2009,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3680
+817,Tajikistan - 2007,Country-level,Protein consumption,Mean,g/capita/day,69.55
+818,Tajikistan - 2007,Country-level,Protein consumption,Standard Deviation,g/capita/day,25.81
+819,Tajikistan - 2007,Country-level,Protein consumption,Number Observations,g/capita/day,4643
+820,Tajikistan - 2007,Country-level,Share of dietary energy consumption from protein,Mean,%,10.59
+821,Tajikistan - 2007,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.41
+822,Tajikistan - 2007,Country-level,Share of dietary energy consumption from protein,Number Observations,%,4643
+823,Tajikistan - 2007,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,52.95
+824,Tajikistan - 2007,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,17.02
+825,Tajikistan - 2007,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,1396
+826,Tajikistan - 2007,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,10.56
+827,Tajikistan - 2007,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.46
+828,Tajikistan - 2007,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1396
+829,Tajikistan - 2007,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,73.52
+830,Tajikistan - 2007,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,20.14
+831,Tajikistan - 2007,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,1549
+832,Tajikistan - 2007,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,10.65
+833,Tajikistan - 2007,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.38
+834,Tajikistan - 2007,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,1549
+835,Tajikistan - 2007,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,88.38
+836,Tajikistan - 2007,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,28.04
+837,Tajikistan - 2007,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1698
+838,Tajikistan - 2007,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,10.56
+839,Tajikistan - 2007,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.37
+840,Tajikistan - 2007,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1698
+841,Timor-Leste - 2001,Country-level,Protein consumption,Mean,g/capita/day,46.46
+842,Timor-Leste - 2001,Country-level,Protein consumption,Standard Deviation,g/capita/day,23.31
+843,Timor-Leste - 2001,Country-level,Protein consumption,Number Observations,g/capita/day,1800
+844,Timor-Leste - 2001,Country-level,Share of dietary energy consumption from protein,Mean,%,8.43
+845,Timor-Leste - 2001,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.6
+846,Timor-Leste - 2001,Country-level,Share of dietary energy consumption from protein,Number Observations,%,1800
+847,Timor-Leste - 2001,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,32.18
+848,Timor-Leste - 2001,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,11.18
+849,Timor-Leste - 2001,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,554
+850,Timor-Leste - 2001,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,8.07
+851,Timor-Leste - 2001,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.42
+852,Timor-Leste - 2001,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,554
+853,Timor-Leste - 2001,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,47.46
+854,Timor-Leste - 2001,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,15.5
+855,Timor-Leste - 2001,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,588
+856,Timor-Leste - 2001,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,8.43
+857,Timor-Leste - 2001,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.46
+858,Timor-Leste - 2001,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,588
+859,Timor-Leste - 2001,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,66.17
+860,Timor-Leste - 2001,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,28.83
+861,Timor-Leste - 2001,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,658
+862,Timor-Leste - 2001,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,8.96
+863,Timor-Leste - 2001,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.84
+864,Timor-Leste - 2001,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,658
+865,Togo - 2006,Country-level,Protein consumption,Mean,g/capita/day,66.41
+866,Togo - 2006,Country-level,Protein consumption,Standard Deviation,g/capita/day,47.33
+867,Togo - 2006,Country-level,Protein consumption,Number Observations,g/capita/day,7494
+868,Togo - 2006,Country-level,Share of dietary energy consumption from protein,Mean,%,12.34
+869,Togo - 2006,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.78
+870,Togo - 2006,Country-level,Share of dietary energy consumption from protein,Number Observations,%,7494
+871,Togo - 2006,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,51.32
+872,Togo - 2006,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,31.14
+873,Togo - 2006,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2811
+874,Togo - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,12.41
+875,Togo - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.23
+876,Togo - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2811
+877,Togo - 2006,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,67.27
+878,Togo - 2006,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,42.77
+879,Togo - 2006,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2417
+880,Togo - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,11.85
+881,Togo - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.03
+882,Togo - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2417
+883,Togo - 2006,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,97.25
+884,Togo - 2006,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,64.08
+885,Togo - 2006,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,2266
+886,Togo - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,12.92
+887,Togo - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.58
+888,Togo - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2266
+889,Uganda - 2002-2003,Country-level,Protein consumption,Mean,g/capita/day,50.08
+890,Uganda - 2002-2003,Country-level,Protein consumption,Standard Deviation,g/capita/day,32.15
+891,Uganda - 2002-2003,Country-level,Protein consumption,Number Observations,g/capita/day,9709
+892,Uganda - 2002-2003,Country-level,Share of dietary energy consumption from protein,Mean,%,9.41
+893,Uganda - 2002-2003,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.21
+894,Uganda - 2002-2003,Country-level,Share of dietary energy consumption from protein,Number Observations,%,9709
+895,Uganda - 2002-2003,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,35.09
+896,Uganda - 2002-2003,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,16.93
+897,Uganda - 2002-2003,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2696
+898,Uganda - 2002-2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,9.01
+899,Uganda - 2002-2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.36
+900,Uganda - 2002-2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2696
+901,Uganda - 2002-2003,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,48.97
+902,Uganda - 2002-2003,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,21.79
+903,Uganda - 2002-2003,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,3122
+904,Uganda - 2002-2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,9.18
+905,Uganda - 2002-2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.99
+906,Uganda - 2002-2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,3122
+907,Uganda - 2002-2003,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,73.4
+908,Uganda - 2002-2003,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,44.61
+909,Uganda - 2002-2003,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,3891
+910,Uganda - 2002-2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,10.29
+911,Uganda - 2002-2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.08
+912,Uganda - 2002-2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3891
+913,Uganda - 2005-2006,Country-level,Protein consumption,Mean,g/capita/day,47.48
+914,Uganda - 2005-2006,Country-level,Protein consumption,Standard Deviation,g/capita/day,26.32
+915,Uganda - 2005-2006,Country-level,Protein consumption,Number Observations,g/capita/day,7419
+916,Uganda - 2005-2006,Country-level,Share of dietary energy consumption from protein,Mean,%,9.85
+917,Uganda - 2005-2006,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,3.24
+918,Uganda - 2005-2006,Country-level,Share of dietary energy consumption from protein,Number Observations,%,7419
+919,Uganda - 2005-2006,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,35.63
+920,Uganda - 2005-2006,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,16.87
+921,Uganda - 2005-2006,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2472
+922,Uganda - 2005-2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,10.33
+923,Uganda - 2005-2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3.56
+924,Uganda - 2005-2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2472
+925,Uganda - 2005-2006,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,49.16
+926,Uganda - 2005-2006,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,23.75
+927,Uganda - 2005-2006,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2474
+928,Uganda - 2005-2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,9.54
+929,Uganda - 2005-2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.98
+930,Uganda - 2005-2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2474
+931,Uganda - 2005-2006,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,61.96
+932,Uganda - 2005-2006,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,31.84
+933,Uganda - 2005-2006,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,2473
+934,Uganda - 2005-2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,9.59
+935,Uganda - 2005-2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,3
+936,Uganda - 2005-2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2473
+937,Venezuela (Bolivarian Republic of) - 2004-2005,Country-level,Protein consumption,Mean,g/capita/day,73.96
+938,Venezuela (Bolivarian Republic of) - 2004-2005,Country-level,Protein consumption,Standard Deviation,g/capita/day,50.89
+939,Venezuela (Bolivarian Republic of) - 2004-2005,Country-level,Protein consumption,Number Observations,g/capita/day,8390
+940,Venezuela (Bolivarian Republic of) - 2004-2005,Country-level,Share of dietary energy consumption from protein,Mean,%,14.05
+941,Venezuela (Bolivarian Republic of) - 2004-2005,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,5.11
+942,Venezuela (Bolivarian Republic of) - 2004-2005,Country-level,Share of dietary energy consumption from protein,Number Observations,%,8390
+943,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,52.96
+944,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,31.2
+945,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,1703
+946,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,13.18
+947,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.54
+948,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1703
+949,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,75.2
+950,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,38.56
+951,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2433
+952,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,14.33
+953,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,5.03
+954,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2433
+955,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,104.91
+956,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,69.93
+957,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,4254
+958,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,15.04
+959,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,5.8
+960,Venezuela (Bolivarian Republic of) - 2004-2005,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,4254
+961,Viet Nam - 1992-1993,Country-level,Protein consumption,Mean,g/capita/day,48.58
+962,Viet Nam - 1992-1993,Country-level,Protein consumption,Standard Deviation,g/capita/day,17.68
+963,Viet Nam - 1992-1993,Country-level,Protein consumption,Number Observations,g/capita/day,4800
+964,Viet Nam - 1992-1993,Country-level,Share of dietary energy consumption from protein,Mean,%,9.68
+965,Viet Nam - 1992-1993,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,1.16
+966,Viet Nam - 1992-1993,Country-level,Share of dietary energy consumption from protein,Number Observations,%,4800
+967,Viet Nam - 1992-1993,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,38.89
+968,Viet Nam - 1992-1993,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,12.79
+969,Viet Nam - 1992-1993,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,1600
+970,Viet Nam - 1992-1993,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,9.25
+971,Viet Nam - 1992-1993,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.25
+972,Viet Nam - 1992-1993,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1600
+973,Viet Nam - 1992-1993,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,49.5
+974,Viet Nam - 1992-1993,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,12.69
+975,Viet Nam - 1992-1993,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,1600
+976,Viet Nam - 1992-1993,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,9.61
+977,Viet Nam - 1992-1993,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,0.9
+978,Viet Nam - 1992-1993,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,1600
+979,Viet Nam - 1992-1993,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,58.52
+980,Viet Nam - 1992-1993,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,20.95
+981,Viet Nam - 1992-1993,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,1600
+982,Viet Nam - 1992-1993,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,10.24
+983,Viet Nam - 1992-1993,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.05
+984,Viet Nam - 1992-1993,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,1600
+985,Viet Nam - 2006,Country-level,Protein consumption,Mean,g/capita/day,56.56
+986,Viet Nam - 2006,Country-level,Protein consumption,Standard Deviation,g/capita/day,21.89
+987,Viet Nam - 2006,Country-level,Protein consumption,Number Observations,g/capita/day,9186
+988,Viet Nam - 2006,Country-level,Share of dietary energy consumption from protein,Mean,%,10.69
+989,Viet Nam - 2006,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,2.21
+990,Viet Nam - 2006,Country-level,Share of dietary energy consumption from protein,Number Observations,%,9186
+991,Viet Nam - 2006,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,44.48
+992,Viet Nam - 2006,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,11.46
+993,Viet Nam - 2006,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,3266
+994,Viet Nam - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,9.6
+995,Viet Nam - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.53
+996,Viet Nam - 2006,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,3266
+997,Viet Nam - 2006,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,57.41
+998,Viet Nam - 2006,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,15.87
+999,Viet Nam - 2006,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,3121
+1000,Viet Nam - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,10.67
+1001,Viet Nam - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,1.72
+1002,Viet Nam - 2006,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,3121
+1003,Viet Nam - 2006,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,69.95
+1004,Viet Nam - 2006,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,27.96
+1005,Viet Nam - 2006,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,2799
+1006,Viet Nam - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,12.01
+1007,Viet Nam - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,2.61
+1008,Viet Nam - 2006,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2799
+1009,Zambia - 2002-2003,Country-level,Protein consumption,Mean,g/capita/day,77.84
+1010,Zambia - 2002-2003,Country-level,Protein consumption,Standard Deviation,g/capita/day,54.88
+1011,Zambia - 2002-2003,Country-level,Protein consumption,Number Observations,g/capita/day,7105
+1012,Zambia - 2002-2003,Country-level,Share of dietary energy consumption from protein,Mean,%,16.7
+1013,Zambia - 2002-2003,Country-level,Share of dietary energy consumption from protein,Standard Deviation,%,5.13
+1014,Zambia - 2002-2003,Country-level,Share of dietary energy consumption from protein,Number Observations,%,7105
+1015,Zambia - 2002-2003,Income terciles: Poorest income tercile,Protein consumption,Mean,g/capita/day,54.03
+1016,Zambia - 2002-2003,Income terciles: Poorest income tercile,Protein consumption,Standard Deviation,g/capita/day,28.59
+1017,Zambia - 2002-2003,Income terciles: Poorest income tercile,Protein consumption,Number Observations,g/capita/day,2159
+1018,Zambia - 2002-2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Mean,%,16.91
+1019,Zambia - 2002-2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,5.41
+1020,Zambia - 2002-2003,Income terciles: Poorest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2159
+1021,Zambia - 2002-2003,Income terciles: Medium income tercile,Protein consumption,Mean,g/capita/day,80.17
+1022,Zambia - 2002-2003,Income terciles: Medium income tercile,Protein consumption,Standard Deviation,g/capita/day,40.08
+1023,Zambia - 2002-2003,Income terciles: Medium income tercile,Protein consumption,Number Observations,g/capita/day,2226
+1024,Zambia - 2002-2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Mean,%,16.37
+1025,Zambia - 2002-2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.89
+1026,Zambia - 2002-2003,Income terciles: Medium income tercile,Share of dietary energy consumption from protein,Number Observations,%,2226
+1027,Zambia - 2002-2003,Income terciles: Highest income tercile,Protein consumption,Mean,g/capita/day,108.69
+1028,Zambia - 2002-2003,Income terciles: Highest income tercile,Protein consumption,Standard Deviation,g/capita/day,77.85
+1029,Zambia - 2002-2003,Income terciles: Highest income tercile,Protein consumption,Number Observations,g/capita/day,2720
+1030,Zambia - 2002-2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Mean,%,16.8
+1031,Zambia - 2002-2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Standard Deviation,%,4.99
+1032,Zambia - 2002-2003,Income terciles: Highest income tercile,Share of dietary energy consumption from protein,Number Observations,%,2720

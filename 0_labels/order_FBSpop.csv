@@ -1,0 +1,364 @@
+order,pop from FBS 2011,countrycode
+1,Armenia,ARM
+2,Afghanistan,AFG
+3,Albania,ALB
+4,Algeria,DZA
+5,Angola,AGO
+6,Antigua and Barbuda,ATG
+7,Argentina,ARG
+8,Australia,AUS
+9,Austria,AUT
+10,Bahamas,BHS
+11,Barbados,BRB
+12,Bangladesh,BGD
+13,Bermuda,BMU
+14,Bolivia (Plurinational State of),BOL
+15,Botswana,BWA
+16,Brazil,BRA
+17,Belize,BLZ
+18,Solomon Islands,SLB
+19,Brunei Darussalam,BRN
+20,Bulgaria,BGR
+21,Myanmar,MMR
+22,Cameroon,CMR
+23,Canada,CAN
+24,Cabo Verde,CPV
+25,Central African Republic,CAF
+26,Sri Lanka,LKA
+27,Chad,TCD
+28,Chile,CHL
+29,"China, mainland",CHN
+30,Colombia,COL
+31,Congo,COG
+32,Costa Rica,CRI
+33,Cuba,CUB
+34,Cyprus,CYP
+35,Azerbaijan,AZE
+36,Benin,BEN
+37,Denmark,DNK
+38,Dominica,DMA
+39,Dominican Republic,DOM
+40,Belarus,BLR
+41,Ecuador,ECU
+42,Egypt,EGY
+43,El Salvador,SLV
+44,Estonia,EST
+45,Fiji,FJI
+46,Finland,FIN
+47,France,FRA
+48,French Polynesia,PYF
+49,Djibouti,DJI
+50,Georgia,GEO
+51,Gabon,GAB
+52,Gambia,GMB
+53,Germany,DEU
+54,Bosnia and Herzegovina,BIH
+55,Ghana,GHA
+56,Kiribati,KIR
+57,Greece,GRC
+58,Grenada,GRD
+59,Guatemala,GTM
+60,Guinea,GIN
+61,Guyana,GUY
+62,Haiti,HTI
+63,Honduras,HND
+64,"China, Hong Kong SAR",HKG
+65,Hungary,HUN
+66,Croatia,HRV
+67,Iceland,ISL
+68,India,IND
+69,Indonesia,IDN
+70,Iran (Islamic Republic of),IRN
+71,Iraq,IRQ
+72,Ireland,IRL
+73,Israel,ISR
+74,Italy,ITA
+75,Côte d'Ivoire,CIV
+76,Kazakhstan,KAZ
+77,Jamaica,JAM
+78,Japan,JPN
+79,Jordan,JOR
+80,Kyrgyzstan,KGZ
+81,Kenya,KEN
+82,Cambodia,KHM
+83,Democratic People's Republic of Korea,PRK
+84,Republic of Korea,KOR
+85,Kuwait,KWT
+86,Latvia,LVA
+87,Lao People's Democratic Republic,LAO
+88,Lebanon,LBN
+89,Lesotho,LSO
+90,Liberia,LBR
+91,Libya,LBY
+92,Lithuania,LTU
+93,"China, Macao SAR",MAC
+94,Madagascar,MDG
+95,Malawi,MWI
+96,Malaysia,MYS
+97,Maldives,MDV
+98,Mali,MLI
+99,Malta,MLT
+100,Mauritania,MRT
+101,Mauritius,MUS
+102,Mexico,MEX
+103,Mongolia,MNG
+104,Morocco,MAR
+105,Mozambique,MOZ
+106,Republic of Moldova,MDA
+107,Namibia,NAM
+108,Nepal,NPL
+109,Netherlands,NLD
+110,New Caledonia,NCL
+111,The former Yugoslav Republic of Macedonia,MKD
+112,Vanuatu,VUT
+113,New Zealand,NZL
+114,Nicaragua,NIC
+115,Niger,NER
+116,Nigeria,NGA
+117,Norway,NOR
+118,Pakistan,PAK
+119,Panama,PAN
+120,Czech Republic,CZE
+121,Paraguay,PRY
+122,Peru,PER
+123,Philippines,PHL
+124,Poland,POL
+125,Portugal,PRT
+126,Guinea-Bissau,GNB
+127,Timor-Leste,TLS
+128,Zimbabwe,ZWE
+129,Romania,ROU
+130,Rwanda,RWA
+131,Russian Federation,RUS
+132,Saint Kitts and Nevis,KNA
+133,Saint Lucia,LCA
+134,Saint Vincent and the Grenadines,VCT
+135,Sao Tome and Principe,STP
+136,Saudi Arabia,SAU
+137,Senegal,SEN
+138,Sierra Leone,SLE
+139,Slovenia,SVN
+140,Slovakia,SVK
+141,Somalia,SOM
+142,South Africa,ZAF
+143,Spain,ESP
+144,Sudan (former),SDN
+145,Suriname,SUR
+146,Tajikistan,TJK
+147,Swaziland,SWZ
+148,Sweden,SWE
+149,Switzerland,CHE
+150,Syrian Arab Republic,SYR
+151,Turkmenistan,TKM
+152,"China, Taiwan Province of",TWN
+153,United Republic of Tanzania,TZA
+154,Thailand,THA
+155,Togo,TGO
+156,Trinidad and Tobago,TTO
+157,Tunisia,TUN
+158,Turkey,TUR
+159,United Arab Emirates,ARE
+160,Uganda,UGA
+161,United Kingdom,GBR
+162,Ukraine,UKR
+163,United States of America,USA
+164,Burkina Faso,BFA
+165,Uruguay,URY
+166,Uzbekistan,UZB
+167,Venezuela (Bolivarian Republic of),VEN
+168,Viet Nam,VNM
+169,Ethiopia,ETH
+170,Samoa,WSM
+171,Yemen,YEM
+172,Zambia,ZMB
+173,Belgium,BEL
+174,Luxembourg,LUX
+175,Serbia,SRB
+176,Montenegro,MNE
+177,Occupied Palestinian Territory,PSE
+178,China,CHN
+179,World,WLD
+180,Africa,AFRICA
+181,Eastern Africa,Eastern Africa
+182,Middle Africa,MAFR
+183,Northern Africa,NAFR
+184,Southern Africa,SouAfr
+185,Western Africa,WeAf
+186,Americas,Americas
+187,Northern America,NAC
+188,Central America,Central America
+189,Caribbean,CSS
+190,South America,SouAm
+191,Asia,ASIA
+192,Central Asia,Central Asia
+193,Eastern Asia,EAS
+194,Southern Asia,SouAs
+195,South-Eastern Asia,SouEAs
+196,Western Asia,WeAs
+197,Europe,Europe
+198,Eastern Europe,Eastern Europe
+199,Northern Europe,NEUR
+200,Southern Europe,SouEur
+201,Western Europe,WeEu
+202,Oceania,Oceania
+203,Australia & New Zealand,Australia and New Zealand
+204,Melanesia,Melanesia
+205,Micronesia,FSM
+206,Polynesia,POLYN
+207,European Union,EUU
+208,Least Developed Countries,LDC
+209,Land Locked Developing Countries,LLDC
+210,Small Island Developing States,SST
+211,Low Income Food Deficit Countries,LIFDC
+212,Net Food Importing Developing Countries,NeFoIC
+213,HIGHIN,HIGHIN
+214,SOTRLA,SOTRLA
+215,CEEAEU,CEEAEU
+216,CALACA,CALACA
+217,CANAME,CANAME
+218,ESEASP,ESEASP
+219,SUSAAF,SUSAAF
+220,SOASIA,SOASIA
+221,,
+222,,
+223,,
+224,,
+225,,
+226,,
+227,,
+228,,
+229,,
+230,,
+231,,
+232,,
+233,,
+234,,
+235,,
+236,,
+237,,
+238,,
+239,,
+240,,
+241,,
+242,,
+243,,
+244,,
+,,ALA
+,,ASM
+,,ANR
+,,AND
+,,AIA
+,,ATA
+,,ARB
+,,ABW
+,,Ashm
+,,BHR
+,,BTN
+,,IOT
+,,VGB
+,,BDI
+,,CYM
+,,CEB
+,,CHI
+,,COM
+,,COD
+,,COK
+,,CUW
+,,EAP
+,,CEA
+,,GNQ
+,,ERI
+,,EMU
+,,ECS
+,,ECA
+,,CEU
+,,EUU
+,,FLK
+,,FRO
+,,FCS
+,,GUF
+,,ATF
+,,Gaza
+,,GRL
+,,Guadeloupe
+,,GUM
+,,GGY
+,,HMD
+,,HPC
+,,HIC
+,,NOC
+,,OEC
+,,IOA
+,,IMN
+,,JEY
+,,KOS
+,,LCN
+,,LAC
+,,LCR
+,,CLA
+,,LeDeR
+,,LeDeREC
+,,LeDeRELDR
+,,LIE
+,,LMY
+,,LIC
+,,LMC
+,,MHL
+,,Martinique
+,,Mayotte
+,,MCA
+,,Micronesia
+,,MEA
+,,MNA
+,,CME
+,,MIC
+,,MCO
+,,MSR
+,,MoDeR
+,,CYN
+,,MNP
+,,NRU
+,,ANT
+,,NIU
+,,NFK
+,,INX
+,,OED
+,,OMN
+,,OSS
+,,PSS
+,,PLW
+,,PNG
+,,PCN
+,,PRI
+,,QAT
+,,SGS
+,,SSD
+,,SHN
+,,BLM
+,,MAF
+,,SPM
+,,VCT
+,,SMR
+,,SRB
+,,SYC
+,,SGP
+,,SXM
+,,SOL
+,,SAS
+,,CSA
+,,SouCeAs
+,,SCE
+,,SSF
+,,SSA
+,,CAA
+,,TON
+,,TCA
+,,TUV
+,,VIR
+,,UMC
+,,VAT
+,,ESH
+,,WLF
+,,FrePol
+,,KAS
+,,StKiN

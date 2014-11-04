@@ -1,0 +1,341 @@
+order,GINI,countrycode
+1,Aruba,ABW
+2,Andorra,AND
+3,Afghanistan,AFG
+4,Angola,AGO
+5,Albania,ALB
+6,Andean Region,ANR
+7,Arab World,ARB
+8,United Kingdom,GBR
+9,Argentina,ARG
+10,Armenia,ARM
+11,American Samoa,ASM
+12,Antigua and Barbuda,ATG
+13,Australia,AUS
+14,Austria,AUT
+15,Azerbaijan,AZE
+16,Burundi,BDI
+17,Belgium,BEL
+18,Benin,BEN
+19,Burkina Faso,BFA
+20,Bangladesh,BGD
+21,Bulgaria,BGR
+22,Bahrain,BHR
+23,"Bahamas, The",BHS
+24,Bosnia and Herzegovina,BIH
+25,Belarus,BLR
+26,Belize,BLZ
+27,Bermuda,BMU
+28,Bolivia,BOL
+29,Brazil,BRA
+30,Barbados,BRB
+31,Brunei Darussalam,BRN
+32,Bhutan,BTN
+33,Botswana,BWA
+34,Sudan,SDN
+35,Central African Republic,CAF
+36,Canada,CAN
+37,East Asia and the Pacific (IFC classification),CEA
+38,Central Europe and the Baltics,CEB
+39,Europe and Central Asia (IFC classification),CEU
+40,Syrian Arab Republic,SYR
+41,Channel Islands,CHI
+42,Chile,CHL
+43,China,CHN
+44,Cote d'Ivoire,CIV
+45,Latvia,LVA
+46,Middle income,MIC
+47,Cameroon,CMR
+48,"Congo, Rep.",COG
+49,Colombia,COL
+50,Comoros,COM
+51,Cabo Verde,CPV
+52,Costa Rica,CRI
+53,South Sudan,SSD
+54,Caribbean small states,CSS
+55,Cuba,CUB
+56,Curacao,CUW
+57,Cayman Islands,CYM
+58,Cyprus,CYP
+59,Czech Republic,CZE
+60,Germany,DEU
+61,Djibouti,DJI
+62,Dominica,DMA
+63,Denmark,DNK
+64,Dominican Republic,DOM
+65,Algeria,DZA
+66,East Asia & Pacific (developing only),EAP
+67,East Asia & Pacific (all income levels),EAS
+68,Europe & Central Asia (developing only),ECA
+69,Europe & Central Asia (all income levels),ECS
+70,Ecuador,ECU
+71,"Egypt, Arab Rep.",EGY
+72,Euro area,EMU
+73,Eritrea,ERI
+74,Sri Lanka,LKA
+75,Estonia,EST
+76,Ethiopia,ETH
+77,European Union,EUU
+78,Fragile and conflict affected situations,FCS
+79,Finland,FIN
+80,Fiji,FJI
+81,France,FRA
+82,Faeroe Islands,FRO
+83,Middle East & North Africa (all income levels),MEA
+84,Gabon,GAB
+85,United States,USA
+86,Georgia,GEO
+87,Ghana,GHA
+88,Guinea,GIN
+89,"Gambia, The",GMB
+90,Guinea-Bissau,GNB
+91,Equatorial Guinea,GNQ
+92,Greece,GRC
+93,Grenada,GRD
+94,Greenland,GRL
+95,Guatemala,GTM
+96,Guam,GUM
+97,Guyana,GUY
+98,High income,HIC
+99,"Hong Kong SAR, China",HKG
+100,Honduras,HND
+101,Heavily indebted poor countries (HIPC),HPC
+102,Croatia,HRV
+103,Haiti,HTI
+104,Hungary,HUN
+105,Indonesia,IDN
+106,Isle of Man,IMN
+107,India,IND
+108,OECD members,OED
+109,Ireland,IRL
+110,"Iran, Islamic Rep.",IRN
+111,Iraq,IRQ
+112,Iceland,ISL
+113,Israel,ISR
+114,Italy,ITA
+115,Jamaica,JAM
+116,Jordan,JOR
+117,Japan,JPN
+118,Kazakhstan,KAZ
+119,Kenya,KEN
+120,Kyrgyz Republic,KGZ
+121,Cambodia,KHM
+122,Kiribati,KIR
+123,St. Lucia,LCA
+124,Rwanda,RWA
+125,Kosovo,KOS
+126,Kuwait,KWT
+127,Latin America & Caribbean (developing only),LAC
+128,Lao PDR,LAO
+129,Lesotho,LSO
+130,Libya,LBY
+131,Liechtenstein,LIE
+132,St. Martin (French part),MAF
+133,Latin America & Caribbean (all income levels),LCN
+134,Latin America and the Caribbean,LCR
+135,Lebanon,LBN
+136,Lower middle income,LMC
+137,Lithuania,LTU
+138,St. Kitts and Nevis,KNA
+139,Luxembourg,LUX
+140,Low income,LIC
+141,Liberia,LBR
+142,Low & middle income,LMY
+143,"Macao SAR, China",MAC
+144,Least developed countries: UN classification,LDC
+145,"Macedonia, FYR",MKD
+146,St. Vincent and the Grenadines,VCT
+147,Mozambique,MOZ
+148,"Micronesia, Fed. Sts.",FSM
+149,Mongolia,MNG
+150,Monaco,MCO
+151,Malawi,MWI
+152,Mali,MLI
+153,Middle East & North Africa (developing only),MNA
+154,Mexico and Central America,MCA
+155,Mauritania,MRT
+156,Moldova,MDA
+157,Madagascar,MDG
+158,Malta,MLT
+159,Marshall Islands,MHL
+160,Namibia,NAM
+161,Middle East and North Africa (IFC classification),CME
+162,Morocco,MAR
+163,Montenegro,MNE
+164,Norway,NOR
+165,Myanmar,MMR
+166,Mauritius,MUS
+167,Mexico,MEX
+168,Malaysia,MYS
+169,Maldives,MDV
+170,Northern Mariana Islands,MNP
+171,Nepal,NPL
+172,New Zealand,NZL
+173,Nigeria,NGA
+174,North America,NAC
+175,Niger,NER
+176,New Caledonia,NCL
+177,High income: nonOECD,NOC
+178,Not classified,INX
+179,Netherlands,NLD
+180,Nicaragua,NIC
+181,High income: OECD,OEC
+182,Oman,OMN
+183,Other small states,OSS
+184,Pacific island small states,PSS
+185,Palau,PLW
+186,Papua New Guinea,PNG
+187,Philippines,PHL
+188,Poland,POL
+189,Panama,PAN
+190,Paraguay,PRY
+191,Portugal,PRT
+192,Qatar,QAT
+193,"Korea, Dem. Rep.",PRK
+194,Puerto Rico,PRI
+195,Peru,PER
+196,Pakistan,PAK
+197,French Polynesia,PYF
+198,Romania,ROU
+199,Russian Federation,RUS
+200,"Korea, Rep.",KOR
+201,Samoa,WSM
+202,South Asia (IFC classification),CSA
+203,Senegal,SEN
+204,Spain,ESP
+205,Suriname,SUR
+206,Serbia,SRB
+207,Sint Maarten (Dutch part),SXM
+208,Somalia,SOM
+209,Singapore,SGP
+210,El Salvador,SLV
+211,Sao Tome and Principe,STP
+212,South Africa,ZAF
+213,Seychelles,SYC
+214,Sub-Saharan Africa (IFC classification),CAA
+215,Southern Cone Extended,SCE
+216,Sub-Saharan Africa (developing only),SSA
+217,Solomon Islands,SLB
+218,Saudi Arabia,SAU
+219,Swaziland,SWZ
+220,Slovenia,SVN
+221,Small states,SST
+222,Switzerland,CHE
+223,Sweden,SWE
+224,Slovak Republic,SVK
+225,Sierra Leone,SLE
+226,Tajikistan,TJK
+227,Tuvalu,TUV
+228,Chad,TCD
+229,Tonga,TON
+230,Timor-Leste,TLS
+231,Tanzania,TZA
+232,Turks and Caicos Islands,TCA
+233,Togo,TGO
+234,Trinidad and Tobago,TTO
+235,Tunisia,TUN
+236,Turkey,TUR
+237,Turkmenistan,TKM
+238,Uganda,UGA
+239,Thailand,THA
+240,Ukraine,UKR
+241,United Arab Emirates,ARE
+242,Uruguay,URY
+243,Uzbekistan,UZB
+244,Upper middle income,UMC
+245,Vanuatu,VUT
+246,Sub-Saharan Africa (all income levels),SSF
+247,Vietnam,VNM
+248,West Bank and Gaza,PSE
+249,Virgin Islands (U.S.),VIR
+250,"Venezuela, RB",VEN
+251,World,WLD
+252,"Yemen, Rep.",YEM
+253,San Marino,SMR
+254,Zambia,ZMB
+255,South Asia,SAS
+256,"Congo, Dem. Rep.",COD
+257,Zimbabwe,ZWE
+258,,
+,,AFRICA
+,,ALA
+,,Americas
+,,AIA
+,,ATA
+,,Ashm
+,,ASIA
+,,Australia and New Zealand
+,,IOT
+,,VGB
+,,Central America
+,,Central Asia
+,,CHN
+,,TWN
+,,COK
+,,Eastern Africa
+,,Eastern Europe
+,,Europe
+,,EUU
+,,FLK
+,,GUF
+,,ATF
+,,Gaza
+,,Guadeloupe
+,,GGY
+,,HMD
+,,IOA
+,,JEY
+,,LLDC
+,Latin America and the Caribbean (IFC classification),CLA
+,,LeDeR
+,,LeDeREC
+,,LeDeRELDR
+,,LIFDC
+,,Martinique
+,,Mayotte
+,,Melanesia
+,,Micronesia
+,,MAFR
+,,MSR
+,,MoDeR
+,,CYN
+,,NRU
+,,NeFoIC
+,,ANT
+,,NIU
+,,NFK
+,,NAFR
+,,NEUR
+,,Oceania
+,,PCN
+,,POLYN
+,,SGS
+,,SHN
+,,VCT
+,,BLM
+,,SPM
+,,SRB
+,,SOL
+,,SouAm
+,,SouEAs
+,,SouCeAs
+,,SouAfr
+,,SouAs
+,,SouEur
+,,VAT
+,,ESH
+,,WLF
+,,WeAf
+,,WeAs
+,,WeEu
+,,FrePol
+,,KAS
+,,StKiN
+,HIGHIN,HIGHIN
+,SOTRLA,SOTRLA
+,CEEAEU,CEEAEU
+,CALACA,CALACA
+,CANAME,CANAME
+,ESEASP,ESEASP
+,SUSAAF,SUSAAF
+,SOASIA,SOASIA

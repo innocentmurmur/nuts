@@ -1,0 +1,284 @@
+,countriestomergewithsPDF,countriestomergewithFBS,countrycode
+1,Côte d'Ivoire,Côte d'Ivoire,CIV
+2,Afghanistan,Afghanistan,AFG
+3,Africa,Africa,NA
+4,Albania,Albania,ALB
+5,Algeria,Algeria,DZA
+6,Americas,Americas,NA
+7,Angola,Angola,AGO
+8,Antigua and Barb.,Antigua and Barbuda,ATG
+9,Argentina,Argentina,ARG
+10,Armenia,Armenia,ARM
+11,Asia,Asia,NA
+12,Australia,Australia,AUS
+13,Australia & New Zealand,Australia & New Zealand,NA
+14,Austria,Austria,AUT
+15,Azerbaijan,Azerbaijan,AZE
+16,Bahamas,Bahamas,BHS
+17,Bangladesh,Bangladesh,BGD
+18,Barbados,Barbados,BRB
+19,Belarus,Belarus,BLR
+20,Belgium,Belgium,BEL
+21,Belize,Belize,BLZ
+22,Benin,Benin,BEN
+23,Bermuda,Bermuda,BMU
+24,Bolivia,Bolivia (Plurinational State of),BOL
+25,Bosnia and Herz.,Bosnia and Herzegovina,BIH
+26,Botswana,Botswana,BWA
+27,Brazil,Brazil,BRA
+28,Brunei,Brunei Darussalam,BRN
+29,Bulgaria,Bulgaria,BGR
+30,Burkina Faso,Burkina Faso,BFA
+31,Cambodia,Cambodia,KHM
+32,Cameroon,Cameroon,CMR
+33,Canada,Canada,CAN
+34,Cape Verde,Cabo Verde,CPV
+35,Caribbean,Caribbean,NA
+36,Central African Rep.,Central African Republic,CAF
+37,Central America,Central America,NA
+38,Central Asia,Central Asia,NA
+39,Chad,Chad,TCD
+40,Chile,Chile,CHL
+41,China,China,CHN
+42,China,"China, mainland",CHN
+43,Colombia,Colombia,COL
+44,Congo (Brazzaville),Congo,COG
+45,Costa Rica,Costa Rica,CRI
+46,Croatia,Croatia,HRV
+47,Cuba,Cuba,CUB
+48,Cyprus,Cyprus,CYP
+49,Czech Rep.,Czech Republic,CZE
+50,Denmark,Denmark,DNK
+51,Djibouti,Djibouti,DJI
+52,Dominica,Dominica,DMA
+53,Dominican Rep.,Dominican Republic,DOM
+54,East Timor,Timor-Leste,TLS
+55,Eastern Africa,Eastern Africa,NA
+56,Eastern Asia,Eastern Asia,NA
+57,Eastern Europe,Eastern Europe,NA
+58,Ecuador,Ecuador,ECU
+59,Egypt,Egypt,EGY
+60,El Salvador,El Salvador,SLV
+61,Estonia,Estonia,EST
+62,Ethiopia,Ethiopia,ETH
+63,Europe,Europe,NA
+64,European Union,European Union,NA
+65,Fiji,Fiji,FJI
+66,Finland,Finland,FIN
+67,France,France,FRA
+68,French Polynesia,French Polynesia,NA
+69,Gabon,Gabon,GAB
+70,Gambia,Gambia,GMB
+71,Gaza,Occupied Palestinian Territory,Gaza
+72,Georgia,Georgia,GEO
+73,Germany,Germany,DEU
+74,Ghana,Ghana,GHA
+75,Greece,Greece,GRC
+76,Grenada,Grenada,GRD
+77,Guatemala,Guatemala,GTM
+78,Guinea,Guinea,GIN
+79,Guinea Bissau,Guinea-Bissau,GNB
+80,Guyana,Guyana,GUY
+81,Haiti,Haiti,HTI
+82,Honduras,Honduras,HND
+83,Hong Kong,"China, Hong Kong SAR",HKG
+84,Hungary,Hungary,HUN
+85,Iceland,Iceland,ISL
+86,India,India,IND
+87,Indonesia,Indonesia,IDN
+88,Iran,Iran (Islamic Republic of),IRN
+89,Iraq,Iraq,IRQ
+90,Ireland,Ireland,IRL
+91,Israel,Israel,ISR
+92,Italy,Italy,ITA
+93,Ivory Coast,Côte d'Ivoire,CIV
+94,Jamaica,Jamaica,JAM
+95,Japan,Japan,JPN
+96,Jordan,Jordan,JOR
+97,Kazakhstan,Kazakhstan,KAZ
+98,Kenya,Kenya,KEN
+99,Kiribati,Kiribati,KIR
+100,Kuwait,Kuwait,KWT
+101,Kyrgyzstan,Kyrgyzstan,KGZ
+102,Land Locked Developing Countries,Land Locked Developing Countries,NA
+103,Laos,Lao People's Democratic Republic,LAO
+104,Latvia,Latvia,LVA
+105,Least Developed Countries,Least Developed Countries,NA
+106,Lebanon,Lebanon,LBN
+107,Lesotho,Lesotho,LSO
+108,Liberia,Liberia,LBR
+109,Libya,Libya,LBY
+110,Lithuania,Lithuania,LTU
+111,Low Income Food Deficit Countries,Low Income Food Deficit Countries,NA
+112,Luxembourg,Luxembourg,LUX
+113,Macau,"China, Macao SAR",MAC
+114,Macedonia,The former Yugoslav Republic of Macedonia,MKD
+115,Madagascar,Madagascar,MDG
+116,Malawi,Malawi,MWI
+117,Malaysia,Malaysia,MYS
+118,Maldives,Maldives,MDV
+119,Mali,Mali,MLI
+120,Malta,Malta,MLT
+121,Mauritania,Mauritania,MRT
+122,Mauritius,Mauritius,MUS
+123,Melanesia,Melanesia,NA
+124,Mexico,Mexico,MEX
+125,Micronesia,Micronesia,FSM
+126,Middle Africa,Middle Africa,NA
+127,Moldova,Republic of Moldova,MDA
+128,Mongolia,Mongolia,MNG
+129,Montenegro,Montenegro,MNE
+130,Morocco,Morocco,MAR
+131,Mozambique,Mozambique,MOZ
+132,Myanmar,Myanmar,MMR
+133,N. Korea,Democratic People's Republic of Korea,PRK
+134,Namibia,Namibia,NAM
+135,Nepal,Nepal,NPL
+136,Net Food Importing Developing Countries,Net Food Importing Developing Countries,NA
+137,Netherlands,Netherlands,NLD
+138,New Caledonia,New Caledonia,NCL
+139,New Zealand,New Zealand,NZL
+140,Nicaragua,Nicaragua,NIC
+141,Niger,Niger,NER
+142,Nigeria,Nigeria,NGA
+143,Northern Africa,Northern Africa,NA
+144,Northern America,Northern America,NA
+145,Northern Europe,Northern Europe,NA
+146,Norway,Norway,NOR
+147,Oceania,Oceania,NA
+148,Pakistan,Pakistan,PAK
+149,Panama,Panama,PAN
+150,Paraguay,Paraguay,PRY
+151,Peru,Peru,PER
+152,Philippines,Philippines,PHL
+153,Poland,Poland,POL
+154,Polynesia,Polynesia,NA
+155,Portugal,Portugal,PRT
+156,Romania,Romania,ROU
+157,Russia,Russian Federation,RUS
+158,Rwanda,Rwanda,RWA
+159,S. Korea,Republic of Korea,KOR
+160,Saint Kitts and Nevis,Saint Kitts and Nevis,NA
+161,Saint Lucia,Saint Lucia,LCA
+162,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,NA
+163,Samoa,Samoa,WSM
+164,Sao Tome and Principe,Sao Tome and Principe,STP
+165,Saudi Arabia,Saudi Arabia,SAU
+166,Senegal,Senegal,SEN
+167,Serbia,Serbia and Montenegro,SRB
+168,Serbia,Serbia,SRB
+169,Sierra Leone,Sierra Leone,SLE
+170,Slovakia,Slovakia,SVK
+171,Slovenia,Slovenia,SVN
+172,Small Island Developing States,Small Island Developing States,NA
+173,Solomon Is.,Solomon Islands,SLB
+174,Somalia,Somalia,SOM
+175,South-Eastern Asia,South-Eastern Asia,NA
+176,South Africa,South Africa,ZAF
+177,South America,South America,NA
+178,Southern Africa,Southern Africa,NA
+179,Southern Asia,Southern Asia,NA
+180,Southern Europe,Southern Europe,NA
+181,Spain,Spain,ESP
+182,Sri Lanka,Sri Lanka,LKA
+183,Sudan,Sudan (former),SDN
+184,Suriname,Suriname,SUR
+185,Swaziland,Swaziland,SWZ
+186,Sweden,Sweden,SWE
+187,Switzerland,Switzerland,CHE
+188,Syria,Syrian Arab Republic,SYR
+189,Taiwan,"China, Taiwan Province of",TWN
+190,Tajikistan,Tajikistan,TJK
+191,Tanzania,United Republic of Tanzania,TZA
+192,Thailand,Thailand,THA
+193,Togo,Togo,TGO
+194,Trinidad and Tobago,Trinidad and Tobago,TTO
+195,Tunisia,Tunisia,TUN
+196,Turkey,Turkey,TUR
+197,Turkmenistan,Turkmenistan,TKM
+198,Uganda,Uganda,UGA
+199,Ukraine,Ukraine,UKR
+200,United Arab Emirates,United Arab Emirates,ARE
+201,United Kingdom,United Kingdom,GBR
+202,United States,United States of America,USA
+203,Uruguay,Uruguay,URY
+204,Uzbekistan,Uzbekistan,UZB
+205,Vanuatu,Vanuatu,VUT
+206,Venezuela,Venezuela (Bolivarian Republic of),VEN
+207,Vietnam,Viet Nam,VNM
+208,Western Africa,Western Africa,NA
+209,Western Asia,Western Asia,NA
+210,Western Europe,Western Europe,NA
+211,World,World,NA
+212,Yemen,Yemen,YEM
+213,Zambia,Zambia,ZMB
+214,Zimbabwe,Zimbabwe,ZWE
+215,Aland,NA,ALA
+216,American Samoa,NA,ASM
+217,Andorra,NA,AND
+218,Anguilla,NA,AIA
+219,Antarctica,NA,ATA
+220,Aruba,NA,ABW
+221,Ashmore and Cartier Is.,NA,Ashm
+222,Bahrain,NA,BHR
+223,Bhutan,NA,BTN
+224,Br. Indian Ocean Ter.,NA,IOT
+225,British Virgin Is.,NA,VGB
+226,Burundi,NA,BDI
+227,Cayman Is.,NA,CYM
+228,Comoros,NA,COM
+229,Congo (Kinshasa),NA,COD
+230,Cook Is.,NA,COK
+231,Curacao,NA,CUW
+232,Eq. Guinea,NA,GNQ
+233,Eritrea,NA,ERI
+234,Falkland Is.,NA,FLK
+235,Faroe Is.,NA,FRO
+236,Fr. Polynesia,NA,PYF
+237,Fr. S. and Antarctic Lands,NA,ATF
+238,French Guiana,NA,GUF
+239,Greenland,NA,GRL
+240,Guam,NA,GUM
+241,Guernsey,NA,GGY
+242,Heard I. and McDonald Is.,NA,HMD
+243,Indian Ocean Ter.,NA,IOA
+244,Isle of Man,NA,IMN
+245,Jersey,NA,JEY
+246,Kosovo,NA,KOS
+247,Liechtenstein,NA,LIE
+248,Marshall Is.,NA,MHL
+249,Monaco,NA,MCO
+250,Montserrat,NA,MSR
+251,N. Cyprus,NA,CYN
+252,N. Mariana Is.,NA,MNP
+253,Nauru,NA,NRU
+254,Niue,NA,NIU
+255,Norfolk Island,NA,NFK
+256,Oman,NA,OMN
+257,Palau,NA,PLW
+258,Papua New Guinea,NA,PNG
+259,Pitcairn Is.,NA,PCN
+260,Puerto Rico,NA,PRI
+261,Qatar,NA,QAT
+262,S. Geo. and S. Sandw. Is.,NA,SGS
+263,S. Sudan,NA,SSD
+264,Saint Helena,NA,SHN
+265,San Marino,NA,SMR
+266,Seychelles,NA,SYC
+267,Singapore,NA,SGP
+268,Sint Maarten,NA,SXM
+269,Somaliland,NA,SOL
+270,St. Barthelemy,NA,BLM
+271,St. Kitts and Nevis,NA,KNA
+272,St. Martin,NA,MAF
+273,St. Pierre and Miquelon,NA,SPM
+274,St. Vin. and Gren.,NA,VCT
+275,Tonga,NA,TON
+276,Turks and Caicos Is.,NA,TCA
+277,Tuvalu,NA,TUV
+278,U.S. Virgin Is.,NA,VIR
+279,Vatican,NA,VAT
+280,W. Sahara,NA,ESH
+281,Wallis and Futuna,NA,WLF
+282,West Bank,NA,PSE
+283,NA,NA,KAS

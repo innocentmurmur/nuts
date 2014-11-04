@@ -1,0 +1,215 @@
+Domain Code,Domain,AreaCode,AreaName,ElementCode,ElementName,ItemCode,ItemName,Year,Unit,Value,pop,AreaName
+FBS,Food Balance Sheets,1,Armenia,511,Total Population - Both sexes,2501,Population,2011,1000,2964,2964000,Armenia
+FBS,Food Balance Sheets,2,Afghanistan,511,Total Population - Both sexes,2501,Population,2011,1000,29105,29105000,Afghanistan
+FBS,Food Balance Sheets,3,Albania,511,Total Population - Both sexes,2501,Population,2011,1000,3154,3154000,Albania
+FBS,Food Balance Sheets,4,Algeria,511,Total Population - Both sexes,2501,Population,2011,1000,37763,37763000,Algeria
+FBS,Food Balance Sheets,7,Angola,511,Total Population - Both sexes,2501,Population,2011,1000,20180,20180000,Angola
+FBS,Food Balance Sheets,8,Antigua and Barbuda,511,Total Population - Both sexes,2501,Population,2011,1000,88,88000,Antigua and Barbuda
+FBS,Food Balance Sheets,9,Argentina,511,Total Population - Both sexes,2501,Population,2011,1000,40729,40729000,Argentina
+FBS,Food Balance Sheets,10,Australia,511,Total Population - Both sexes,2501,Population,2011,1000,22741,22741000,Australia
+FBS,Food Balance Sheets,11,Austria,511,Total Population - Both sexes,2501,Population,2011,1000,8433,8433000,Austria
+FBS,Food Balance Sheets,12,Bahamas,511,Total Population - Both sexes,2501,Population,2011,1000,366,366000,Bahamas
+FBS,Food Balance Sheets,14,Barbados,511,Total Population - Both sexes,2501,Population,2011,1000,282,282000,Barbados
+FBS,Food Balance Sheets,16,Bangladesh,511,Total Population - Both sexes,2501,Population,2011,1000,152862,152862000,Bangladesh
+FBS,Food Balance Sheets,17,Bermuda,511,Total Population - Both sexes,2501,Population,2011,1000,65,65000,Bermuda
+FBS,Food Balance Sheets,19,Bolivia (Plurinational State of),511,Total Population - Both sexes,2501,Population,2011,1000,10324,10324000,Bolivia (Plurinational State of)
+FBS,Food Balance Sheets,20,Botswana,511,Total Population - Both sexes,2501,Population,2011,1000,1987,1987000,Botswana
+FBS,Food Balance Sheets,21,Brazil,511,Total Population - Both sexes,2501,Population,2011,1000,196935,196935000,Brazil
+FBS,Food Balance Sheets,23,Belize,511,Total Population - Both sexes,2501,Population,2011,1000,316,316000,Belize
+FBS,Food Balance Sheets,25,Solomon Islands,511,Total Population - Both sexes,2501,Population,2011,1000,538,538000,Solomon Islands
+FBS,Food Balance Sheets,26,Brunei Darussalam,511,Total Population - Both sexes,2501,Population,2011,1000,407,407000,Brunei Darussalam
+FBS,Food Balance Sheets,27,Bulgaria,511,Total Population - Both sexes,2501,Population,2011,1000,7333,7333000,Bulgaria
+FBS,Food Balance Sheets,28,Myanmar,511,Total Population - Both sexes,2501,Population,2011,1000,52685,52685000,Myanmar
+FBS,Food Balance Sheets,32,Cameroon,511,Total Population - Both sexes,2501,Population,2011,1000,21156,21156000,Cameroon
+FBS,Food Balance Sheets,33,Canada,511,Total Population - Both sexes,2501,Population,2011,1000,34487,34487000,Canada
+FBS,Food Balance Sheets,35,Cabo Verde,511,Total Population - Both sexes,2501,Population,2011,1000,491,491000,Cabo Verde
+FBS,Food Balance Sheets,37,Central African Republic,511,Total Population - Both sexes,2501,Population,2011,1000,4436,4436000,Central African Republic
+FBS,Food Balance Sheets,38,Sri Lanka,511,Total Population - Both sexes,2501,Population,2011,1000,20926,20926000,Sri Lanka
+FBS,Food Balance Sheets,39,Chad,511,Total Population - Both sexes,2501,Population,2011,1000,12080,12080000,Chad
+FBS,Food Balance Sheets,40,Chile,511,Total Population - Both sexes,2501,Population,2011,1000,17308,17308000,Chile
+FBS,Food Balance Sheets,41,"China, mainland",511,Total Population - Both sexes,2501,Population,2011,1000,1368440,1368440000,"China, mainland"
+FBS,Food Balance Sheets,44,Colombia,511,Total Population - Both sexes,2501,Population,2011,1000,47079,47079000,Colombia
+FBS,Food Balance Sheets,46,Congo,511,Total Population - Both sexes,2501,Population,2011,1000,4225,4225000,Congo
+FBS,Food Balance Sheets,48,Costa Rica,511,Total Population - Both sexes,2501,Population,2011,1000,4738,4738000,Costa Rica
+FBS,Food Balance Sheets,49,Cuba,511,Total Population - Both sexes,2501,Population,2011,1000,11276,11276000,Cuba
+FBS,Food Balance Sheets,50,Cyprus,511,Total Population - Both sexes,2501,Population,2011,1000,1117,1117000,Cyprus
+FBS,Food Balance Sheets,52,Azerbaijan,511,Total Population - Both sexes,2501,Population,2011,1000,9202,9202000,Azerbaijan
+FBS,Food Balance Sheets,53,Benin,511,Total Population - Both sexes,2501,Population,2011,1000,9780,9780000,Benin
+FBS,Food Balance Sheets,54,Denmark,511,Total Population - Both sexes,2501,Population,2011,1000,5575,5575000,Denmark
+FBS,Food Balance Sheets,55,Dominica,511,Total Population - Both sexes,2501,Population,2011,1000,71,71000,Dominica
+FBS,Food Balance Sheets,56,Dominican Republic,511,Total Population - Both sexes,2501,Population,2011,1000,10148,10148000,Dominican Republic
+FBS,Food Balance Sheets,57,Belarus,511,Total Population - Both sexes,2501,Population,2011,1000,9450,9450000,Belarus
+FBS,Food Balance Sheets,58,Ecuador,511,Total Population - Both sexes,2501,Population,2011,1000,15246,15246000,Ecuador
+FBS,Food Balance Sheets,59,Egypt,511,Total Population - Both sexes,2501,Population,2011,1000,79392,79392000,Egypt
+FBS,Food Balance Sheets,60,El Salvador,511,Total Population - Both sexes,2501,Population,2011,1000,6256,6256000,El Salvador
+FBS,Food Balance Sheets,63,Estonia,511,Total Population - Both sexes,2501,Population,2011,1000,1294,1294000,Estonia
+FBS,Food Balance Sheets,66,Fiji,511,Total Population - Both sexes,2501,Population,2011,1000,868,868000,Fiji
+FBS,Food Balance Sheets,67,Finland,511,Total Population - Both sexes,2501,Population,2011,1000,5389,5389000,Finland
+FBS,Food Balance Sheets,68,France,511,Total Population - Both sexes,2501,Population,2011,1000,63582,63582000,France
+FBS,Food Balance Sheets,70,French Polynesia,511,Total Population - Both sexes,2501,Population,2011,1000,271,271000,French Polynesia
+FBS,Food Balance Sheets,72,Djibouti,511,Total Population - Both sexes,2501,Population,2011,1000,847,847000,Djibouti
+FBS,Food Balance Sheets,73,Georgia,511,Total Population - Both sexes,2501,Population,2011,1000,4374,4374000,Georgia
+FBS,Food Balance Sheets,74,Gabon,511,Total Population - Both sexes,2501,Population,2011,1000,1594,1594000,Gabon
+FBS,Food Balance Sheets,75,Gambia,511,Total Population - Both sexes,2501,Population,2011,1000,1735,1735000,Gambia
+FBS,Food Balance Sheets,79,Germany,511,Total Population - Both sexes,2501,Population,2011,1000,82893,82893000,Germany
+FBS,Food Balance Sheets,80,Bosnia and Herzegovina,511,Total Population - Both sexes,2501,Population,2011,1000,3839,3839000,Bosnia and Herzegovina
+FBS,Food Balance Sheets,81,Ghana,511,Total Population - Both sexes,2501,Population,2011,1000,24821,24821000,Ghana
+FBS,Food Balance Sheets,83,Kiribati,511,Total Population - Both sexes,2501,Population,2011,1000,99,99000,Kiribati
+FBS,Food Balance Sheets,84,Greece,511,Total Population - Both sexes,2501,Population,2011,1000,11119,11119000,Greece
+FBS,Food Balance Sheets,86,Grenada,511,Total Population - Both sexes,2501,Population,2011,1000,105,105000,Grenada
+FBS,Food Balance Sheets,89,Guatemala,511,Total Population - Both sexes,2501,Population,2011,1000,14707,14707000,Guatemala
+FBS,Food Balance Sheets,90,Guinea,511,Total Population - Both sexes,2501,Population,2011,1000,11162,11162000,Guinea
+FBS,Food Balance Sheets,91,Guyana,511,Total Population - Both sexes,2501,Population,2011,1000,791,791000,Guyana
+FBS,Food Balance Sheets,93,Haiti,511,Total Population - Both sexes,2501,Population,2011,1000,10033,10033000,Haiti
+FBS,Food Balance Sheets,95,Honduras,511,Total Population - Both sexes,2501,Population,2011,1000,7777,7777000,Honduras
+FBS,Food Balance Sheets,96,"China, Hong Kong SAR",511,Total Population - Both sexes,2501,Population,2011,1000,7096,7096000,"China, Hong Kong SAR"
+FBS,Food Balance Sheets,97,Hungary,511,Total Population - Both sexes,2501,Population,2011,1000,9996,9996000,Hungary
+FBS,Food Balance Sheets,98,Croatia,511,Total Population - Both sexes,2501,Population,2011,1000,4324,4324000,Croatia
+FBS,Food Balance Sheets,99,Iceland,511,Total Population - Both sexes,2501,Population,2011,1000,322,322000,Iceland
+FBS,Food Balance Sheets,100,India,511,Total Population - Both sexes,2501,Population,2011,1000,1221156,1221156000,India
+FBS,Food Balance Sheets,101,Indonesia,511,Total Population - Both sexes,2501,Population,2011,1000,243802,243802000,Indonesia
+FBS,Food Balance Sheets,102,Iran (Islamic Republic of),511,Total Population - Both sexes,2501,Population,2011,1000,75424,75424000,Iran (Islamic Republic of)
+FBS,Food Balance Sheets,103,Iraq,511,Total Population - Both sexes,2501,Population,2011,1000,31837,31837000,Iraq
+FBS,Food Balance Sheets,104,Ireland,511,Total Population - Both sexes,2501,Population,2011,1000,4523,4523000,Ireland
+FBS,Food Balance Sheets,105,Israel,511,Total Population - Both sexes,2501,Population,2011,1000,7542,7542000,Israel
+FBS,Food Balance Sheets,106,Italy,511,Total Population - Both sexes,2501,Population,2011,1000,60729,60729000,Italy
+FBS,Food Balance Sheets,107,Côte d'Ivoire,511,Total Population - Both sexes,2501,Population,2011,1000,19390,19390000,Côte d'Ivoire
+FBS,Food Balance Sheets,108,Kazakhstan,511,Total Population - Both sexes,2501,Population,2011,1000,16098,16098000,Kazakhstan
+FBS,Food Balance Sheets,109,Jamaica,511,Total Population - Both sexes,2501,Population,2011,1000,2755,2755000,Jamaica
+FBS,Food Balance Sheets,110,Japan,511,Total Population - Both sexes,2501,Population,2011,1000,127319,127319000,Japan
+FBS,Food Balance Sheets,112,Jordan,511,Total Population - Both sexes,2501,Population,2011,1000,6731,6731000,Jordan
+FBS,Food Balance Sheets,113,Kyrgyzstan,511,Total Population - Both sexes,2501,Population,2011,1000,5403,5403000,Kyrgyzstan
+FBS,Food Balance Sheets,114,Kenya,511,Total Population - Both sexes,2501,Population,2011,1000,42028,42028000,Kenya
+FBS,Food Balance Sheets,115,Cambodia,511,Total Population - Both sexes,2501,Population,2011,1000,14606,14606000,Cambodia
+FBS,Food Balance Sheets,116,Democratic People's Republic of Korea,511,Total Population - Both sexes,2501,Population,2011,1000,24631,24631000,Democratic People's Republic of Korea
+FBS,Food Balance Sheets,117,Republic of Korea,511,Total Population - Both sexes,2501,Population,2011,1000,48733,48733000,Republic of Korea
+FBS,Food Balance Sheets,118,Kuwait,511,Total Population - Both sexes,2501,Population,2011,1000,3125,3125000,Kuwait
+FBS,Food Balance Sheets,119,Latvia,511,Total Population - Both sexes,2501,Population,2011,1000,2073,2073000,Latvia
+FBS,Food Balance Sheets,120,Lao People's Democratic Republic,511,Total Population - Both sexes,2501,Population,2011,1000,6521,6521000,Lao People's Democratic Republic
+FBS,Food Balance Sheets,121,Lebanon,511,Total Population - Both sexes,2501,Population,2011,1000,4478,4478000,Lebanon
+FBS,Food Balance Sheets,122,Lesotho,511,Total Population - Both sexes,2501,Population,2011,1000,2030,2030000,Lesotho
+FBS,Food Balance Sheets,123,Liberia,511,Total Population - Both sexes,2501,Population,2011,1000,4080,4080000,Liberia
+FBS,Food Balance Sheets,124,Libya,511,Total Population - Both sexes,2501,Population,2011,1000,6103,6103000,Libya
+FBS,Food Balance Sheets,126,Lithuania,511,Total Population - Both sexes,2501,Population,2011,1000,3044,3044000,Lithuania
+FBS,Food Balance Sheets,128,"China, Macao SAR",511,Total Population - Both sexes,2501,Population,2011,1000,546,546000,"China, Macao SAR"
+FBS,Food Balance Sheets,129,Madagascar,511,Total Population - Both sexes,2501,Population,2011,1000,21679,21679000,Madagascar
+FBS,Food Balance Sheets,130,Malawi,511,Total Population - Both sexes,2501,Population,2011,1000,15458,15458000,Malawi
+FBS,Food Balance Sheets,131,Malaysia,511,Total Population - Both sexes,2501,Population,2011,1000,28759,28759000,Malaysia
+FBS,Food Balance Sheets,132,Maldives,511,Total Population - Both sexes,2501,Population,2011,1000,332,332000,Maldives
+FBS,Food Balance Sheets,133,Mali,511,Total Population - Both sexes,2501,Population,2011,1000,14417,14417000,Mali
+FBS,Food Balance Sheets,134,Malta,511,Total Population - Both sexes,2501,Population,2011,1000,426,426000,Malta
+FBS,Food Balance Sheets,136,Mauritania,511,Total Population - Both sexes,2501,Population,2011,1000,3703,3703000,Mauritania
+FBS,Food Balance Sheets,137,Mauritius,511,Total Population - Both sexes,2501,Population,2011,1000,1235,1235000,Mauritius
+FBS,Food Balance Sheets,138,Mexico,511,Total Population - Both sexes,2501,Population,2011,1000,119361,119361000,Mexico
+FBS,Food Balance Sheets,141,Mongolia,511,Total Population - Both sexes,2501,Population,2011,1000,2754,2754000,Mongolia
+FBS,Food Balance Sheets,143,Morocco,511,Total Population - Both sexes,2501,Population,2011,1000,32059,32059000,Morocco
+FBS,Food Balance Sheets,144,Mozambique,511,Total Population - Both sexes,2501,Population,2011,1000,24581,24581000,Mozambique
+FBS,Food Balance Sheets,146,Republic of Moldova,511,Total Population - Both sexes,2501,Population,2011,1000,3543,3543000,Republic of Moldova
+FBS,Food Balance Sheets,147,Namibia,511,Total Population - Both sexes,2501,Population,2011,1000,2218,2218000,Namibia
+FBS,Food Balance Sheets,149,Nepal,511,Total Population - Both sexes,2501,Population,2011,1000,27156,27156000,Nepal
+FBS,Food Balance Sheets,150,Netherlands,511,Total Population - Both sexes,2501,Population,2011,1000,16666,16666000,Netherlands
+FBS,Food Balance Sheets,153,New Caledonia,511,Total Population - Both sexes,2501,Population,2011,1000,250,250000,New Caledonia
+FBS,Food Balance Sheets,154,The former Yugoslav Republic of Macedonia,511,Total Population - Both sexes,2501,Population,2011,1000,2104,2104000,The former Yugoslav Republic of Macedonia
+FBS,Food Balance Sheets,155,Vanuatu,511,Total Population - Both sexes,2501,Population,2011,1000,242,242000,Vanuatu
+FBS,Food Balance Sheets,156,New Zealand,511,Total Population - Both sexes,2501,Population,2011,1000,4414,4414000,New Zealand
+FBS,Food Balance Sheets,157,Nicaragua,511,Total Population - Both sexes,2501,Population,2011,1000,5905,5905000,Nicaragua
+FBS,Food Balance Sheets,158,Niger,511,Total Population - Both sexes,2501,Population,2011,1000,16511,16511000,Niger
+FBS,Food Balance Sheets,159,Nigeria,511,Total Population - Both sexes,2501,Population,2011,1000,164193,164193000,Nigeria
+FBS,Food Balance Sheets,162,Norway,511,Total Population - Both sexes,2501,Population,2011,1000,4944,4944000,Norway
+FBS,Food Balance Sheets,165,Pakistan,511,Total Population - Both sexes,2501,Population,2011,1000,176166,176166000,Pakistan
+FBS,Food Balance Sheets,166,Panama,511,Total Population - Both sexes,2501,Population,2011,1000,3740,3740000,Panama
+FBS,Food Balance Sheets,167,Czech Republic,511,Total Population - Both sexes,2501,Population,2011,1000,10611,10611000,Czech Republic
+FBS,Food Balance Sheets,169,Paraguay,511,Total Population - Both sexes,2501,Population,2011,1000,6573,6573000,Paraguay
+FBS,Food Balance Sheets,170,Peru,511,Total Population - Both sexes,2501,Population,2011,1000,29615,29615000,Peru
+FBS,Food Balance Sheets,171,Philippines,511,Total Population - Both sexes,2501,Population,2011,1000,95053,95053000,Philippines
+FBS,Food Balance Sheets,173,Poland,511,Total Population - Both sexes,2501,Population,2011,1000,38205,38205000,Poland
+FBS,Food Balance Sheets,174,Portugal,511,Total Population - Both sexes,2501,Population,2011,1000,10598,10598000,Portugal
+FBS,Food Balance Sheets,175,Guinea-Bissau,511,Total Population - Both sexes,2501,Population,2011,1000,1624,1624000,Guinea-Bissau
+FBS,Food Balance Sheets,176,Timor-Leste,511,Total Population - Both sexes,2501,Population,2011,1000,1096,1096000,Timor-Leste
+FBS,Food Balance Sheets,181,Zimbabwe,511,Total Population - Both sexes,2501,Population,2011,1000,13359,13359000,Zimbabwe
+FBS,Food Balance Sheets,183,Romania,511,Total Population - Both sexes,2501,Population,2011,1000,21809,21809000,Romania
+FBS,Food Balance Sheets,184,Rwanda,511,Total Population - Both sexes,2501,Population,2011,1000,11144,11144000,Rwanda
+FBS,Food Balance Sheets,185,Russian Federation,511,Total Population - Both sexes,2501,Population,2011,1000,143438,143438000,Russian Federation
+FBS,Food Balance Sheets,188,Saint Kitts and Nevis,511,Total Population - Both sexes,2501,Population,2011,1000,53,53000,Saint Kitts and Nevis
+FBS,Food Balance Sheets,189,Saint Lucia,511,Total Population - Both sexes,2501,Population,2011,1000,179,179000,Saint Lucia
+FBS,Food Balance Sheets,191,Saint Vincent and the Grenadines,511,Total Population - Both sexes,2501,Population,2011,1000,109,109000,Saint Vincent and the Grenadines
+FBS,Food Balance Sheets,193,Sao Tome and Principe,511,Total Population - Both sexes,2501,Population,2011,1000,183,183000,Sao Tome and Principe
+FBS,Food Balance Sheets,194,Saudi Arabia,511,Total Population - Both sexes,2501,Population,2011,1000,27762,27762000,Saudi Arabia
+FBS,Food Balance Sheets,195,Senegal,511,Total Population - Both sexes,2501,Population,2011,1000,13331,13331000,Senegal
+FBS,Food Balance Sheets,197,Sierra Leone,511,Total Population - Both sexes,2501,Population,2011,1000,5865,5865000,Sierra Leone
+FBS,Food Balance Sheets,198,Slovenia,511,Total Population - Both sexes,2501,Population,2011,1000,2062,2062000,Slovenia
+FBS,Food Balance Sheets,199,Slovakia,511,Total Population - Both sexes,2501,Population,2011,1000,5440,5440000,Slovakia
+FBS,Food Balance Sheets,201,Somalia,511,Total Population - Both sexes,2501,Population,2011,1000,9908,9908000,Somalia
+FBS,Food Balance Sheets,202,South Africa,511,Total Population - Both sexes,2501,Population,2011,1000,51949,51949000,South Africa
+FBS,Food Balance Sheets,203,Spain,511,Total Population - Both sexes,2501,Population,2011,1000,46514,46514000,Spain
+FBS,Food Balance Sheets,206,Sudan (former),511,Total Population - Both sexes,2501,Population,2011,1000,43552,43552000,Sudan (former)
+FBS,Food Balance Sheets,207,Suriname,511,Total Population - Both sexes,2501,Population,2011,1000,530,530000,Suriname
+FBS,Food Balance Sheets,208,Tajikistan,511,Total Population - Both sexes,2501,Population,2011,1000,7815,7815000,Tajikistan
+FBS,Food Balance Sheets,209,Swaziland,511,Total Population - Both sexes,2501,Population,2011,1000,1212,1212000,Swaziland
+FBS,Food Balance Sheets,210,Sweden,511,Total Population - Both sexes,2501,Population,2011,1000,9449,9449000,Sweden
+FBS,Food Balance Sheets,211,Switzerland,511,Total Population - Both sexes,2501,Population,2011,1000,7915,7915000,Switzerland
+FBS,Food Balance Sheets,212,Syrian Arab Republic,511,Total Population - Both sexes,2501,Population,2011,1000,21804,21804000,Syrian Arab Republic
+FBS,Food Balance Sheets,213,Turkmenistan,511,Total Population - Both sexes,2501,Population,2011,1000,5107,5107000,Turkmenistan
+FBS,Food Balance Sheets,214,"China, Taiwan Province of",511,Total Population - Both sexes,2501,Population,2011,1000,23210,23210000,"China, Taiwan Province of"
+FBS,Food Balance Sheets,215,United Republic of Tanzania,511,Total Population - Both sexes,2501,Population,2011,1000,46355,46355000,United Republic of Tanzania
+FBS,Food Balance Sheets,216,Thailand,511,Total Population - Both sexes,2501,Population,2011,1000,66576,66576000,Thailand
+FBS,Food Balance Sheets,217,Togo,511,Total Population - Both sexes,2501,Population,2011,1000,6472,6472000,Togo
+FBS,Food Balance Sheets,220,Trinidad and Tobago,511,Total Population - Both sexes,2501,Population,2011,1000,1333,1333000,Trinidad and Tobago
+FBS,Food Balance Sheets,222,Tunisia,511,Total Population - Both sexes,2501,Population,2011,1000,10753,10753000,Tunisia
+FBS,Food Balance Sheets,223,Turkey,511,Total Population - Both sexes,2501,Population,2011,1000,73059,73059000,Turkey
+FBS,Food Balance Sheets,225,United Arab Emirates,511,Total Population - Both sexes,2501,Population,2011,1000,8925,8925000,United Arab Emirates
+FBS,Food Balance Sheets,226,Uganda,511,Total Population - Both sexes,2501,Population,2011,1000,35148,35148000,Uganda
+FBS,Food Balance Sheets,229,United Kingdom,511,Total Population - Both sexes,2501,Population,2011,1000,62672,62672000,United Kingdom
+FBS,Food Balance Sheets,230,Ukraine,511,Total Population - Both sexes,2501,Population,2011,1000,45803,45803000,Ukraine
+FBS,Food Balance Sheets,231,United States of America,511,Total Population - Both sexes,2501,Population,2011,1000,314912,314912000,United States of America
+FBS,Food Balance Sheets,233,Burkina Faso,511,Total Population - Both sexes,2501,Population,2011,1000,15995,15995000,Burkina Faso
+FBS,Food Balance Sheets,234,Uruguay,511,Total Population - Both sexes,2501,Population,2011,1000,3383,3383000,Uruguay
+FBS,Food Balance Sheets,235,Uzbekistan,511,Total Population - Both sexes,2501,Population,2011,1000,28152,28152000,Uzbekistan
+FBS,Food Balance Sheets,236,Venezuela (Bolivarian Republic of),511,Total Population - Both sexes,2501,Population,2011,1000,29501,29501000,Venezuela (Bolivarian Republic of)
+FBS,Food Balance Sheets,237,Viet Nam,511,Total Population - Both sexes,2501,Population,2011,1000,89914,89914000,Viet Nam
+FBS,Food Balance Sheets,238,Ethiopia,511,Total Population - Both sexes,2501,Population,2011,1000,89393,89393000,Ethiopia
+FBS,Food Balance Sheets,244,Samoa,511,Total Population - Both sexes,2501,Population,2011,1000,187,187000,Samoa
+FBS,Food Balance Sheets,249,Yemen,511,Total Population - Both sexes,2501,Population,2011,1000,23304,23304000,Yemen
+FBS,Food Balance Sheets,251,Zambia,511,Total Population - Both sexes,2501,Population,2011,1000,13634,13634000,Zambia
+FBS,Food Balance Sheets,255,Belgium,511,Total Population - Both sexes,2501,Population,2011,1000,11007,11007000,Belgium
+FBS,Food Balance Sheets,256,Luxembourg,511,Total Population - Both sexes,2501,Population,2011,1000,516,516000,Luxembourg
+FBS,Food Balance Sheets,272,Serbia,511,Total Population - Both sexes,2501,Population,2011,1000,9597,9597000,Serbia
+FBS,Food Balance Sheets,273,Montenegro,511,Total Population - Both sexes,2501,Population,2011,1000,621,621000,Montenegro
+FBS,Food Balance Sheets,299,Occupied Palestinian Territory,511,Total Population - Both sexes,2501,Population,2011,1000,4114,4114000,Occupied Palestinian Territory
+FBS,Food Balance Sheets,351,China,511,Total Population - Both sexes,2501,Population,2011,1000,1399292,1399292000,China
+FBS,Food Balance Sheets,5000,World,511,Total Population - Both sexes,2501,Population,2011,1000,6887310,6887310000,World
+FBS,Food Balance Sheets,5100,Africa,511,Total Population - Both sexes,2501,Population,2011,1000,971211,971211000,Africa
+FBS,Food Balance Sheets,5101,Eastern Africa,511,Total Population - Both sexes,2501,Population,2011,1000,324769,324769000,Eastern Africa
+FBS,Food Balance Sheets,5102,Middle Africa,511,Total Population - Both sexes,2501,Population,2011,1000,63854,63854000,Middle Africa
+FBS,Food Balance Sheets,5103,Northern Africa,511,Total Population - Both sexes,2501,Population,2011,1000,209622,209622000,Northern Africa
+FBS,Food Balance Sheets,5104,Southern Africa,511,Total Population - Both sexes,2501,Population,2011,1000,59396,59396000,Southern Africa
+FBS,Food Balance Sheets,5105,Western Africa,511,Total Population - Both sexes,2501,Population,2011,1000,313570,313570000,Western Africa
+FBS,Food Balance Sheets,5200,Americas,511,Total Population - Both sexes,2501,Population,2011,1000,947289,947289000,Americas
+FBS,Food Balance Sheets,5203,Northern America,511,Total Population - Both sexes,2501,Population,2011,1000,349464,349464000,Northern America
+FBS,Food Balance Sheets,5204,Central America,511,Total Population - Both sexes,2501,Population,2011,1000,162800,162800000,Central America
+FBS,Food Balance Sheets,5206,Caribbean,511,Total Population - Both sexes,2501,Population,2011,1000,37011,37011000,Caribbean
+FBS,Food Balance Sheets,5207,South America,511,Total Population - Both sexes,2501,Population,2011,1000,398014,398014000,South America
+FBS,Food Balance Sheets,5300,Asia,511,Total Population - Both sexes,2501,Population,2011,1000,4198188,4198188000,Asia
+FBS,Food Balance Sheets,5301,Central Asia,511,Total Population - Both sexes,2501,Population,2011,1000,62575,62575000,Central Asia
+FBS,Food Balance Sheets,5302,Eastern Asia,511,Total Population - Both sexes,2501,Population,2011,1000,1602729,1602729000,Eastern Asia
+FBS,Food Balance Sheets,5303,Southern Asia,511,Total Population - Both sexes,2501,Population,2011,1000,1703127,1703127000,Southern Asia
+FBS,Food Balance Sheets,5304,South-Eastern Asia,511,Total Population - Both sexes,2501,Population,2011,1000,599419,599419000,South-Eastern Asia
+FBS,Food Balance Sheets,5305,Western Asia,511,Total Population - Both sexes,2501,Population,2011,1000,230338,230338000,Western Asia
+FBS,Food Balance Sheets,5400,Europe,511,Total Population - Both sexes,2501,Population,2011,1000,741012,741012000,Europe
+FBS,Food Balance Sheets,5401,Eastern Europe,511,Total Population - Both sexes,2501,Population,2011,1000,295628,295628000,Eastern Europe
+FBS,Food Balance Sheets,5402,Northern Europe,511,Total Population - Both sexes,2501,Population,2011,1000,99285,99285000,Northern Europe
+FBS,Food Balance Sheets,5403,Southern Europe,511,Total Population - Both sexes,2501,Population,2011,1000,155087,155087000,Southern Europe
+FBS,Food Balance Sheets,5404,Western Europe,511,Total Population - Both sexes,2501,Population,2011,1000,191012,191012000,Western Europe
+FBS,Food Balance Sheets,5500,Oceania,511,Total Population - Both sexes,2501,Population,2011,1000,29610,29610000,Oceania
+FBS,Food Balance Sheets,5501,Australia & New Zealand,511,Total Population - Both sexes,2501,Population,2011,1000,27155,27155000,Australia & New Zealand
+FBS,Food Balance Sheets,5502,Melanesia,511,Total Population - Both sexes,2501,Population,2011,1000,1898,1898000,Melanesia
+FBS,Food Balance Sheets,5503,Micronesia,511,Total Population - Both sexes,2501,Population,2011,1000,99,99000,Micronesia
+FBS,Food Balance Sheets,5504,Polynesia,511,Total Population - Both sexes,2501,Population,2011,1000,458,458000,Polynesia
+FBS,Food Balance Sheets,5706,European Union,511,Total Population - Both sexes,2501,Population,2011,1000,507399,507399000,European Union
+FBS,Food Balance Sheets,5801,Least Developed Countries,511,Total Population - Both sexes,2501,Population,2011,1000,773530,773530000,Least Developed Countries
+FBS,Food Balance Sheets,5802,Land Locked Developing Countries,511,Total Population - Both sexes,2501,Population,2011,1000,409625,409625000,Land Locked Developing Countries
+FBS,Food Balance Sheets,5803,Small Island Developing States,511,Total Population - Both sexes,2501,Population,2011,1000,46064,46064000,Small Island Developing States
+FBS,Food Balance Sheets,5815,Low Income Food Deficit Countries,511,Total Population - Both sexes,2501,Population,2011,1000,2763102,2763102000,Low Income Food Deficit Countries
+FBS,Food Balance Sheets,5817,Net Food Importing Developing Countries,511,Total Population - Both sexes,2501,Population,2011,1000,1271855,1271855000,Net Food Importing Developing Countries
+,,,,,,,,,,,,
+FAOSTAT Date: Fri Aug 08 03:15:10 CEST 2014,,,,,,,,,,,,

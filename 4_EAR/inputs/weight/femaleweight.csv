@@ -1,0 +1,70 @@
+,country,weight,continent
+1,Benin,56.4870656,afr
+2,Burkina Faso,55.6928757,afr
+3,Burundi,51.4377108,afr
+4,Cameroon,61.2330208,afr
+5,Central African Republic,52.889949,afr
+6,Chad,54.5264703,afr
+7,Comoros,62.2898424,afr
+8,Congo (Brazzaville),57.0229236,afr
+9,Congo Democratic Republic,52.8833376,afr
+10,Cote d'Ivoire,58.073183,afr
+11,Eritrea,49.10978,afr
+12,Ethiopia,49.474345,afr
+13,Gabon,64.2703068,afr
+14,Ghana,59.4851035,afr
+15,Guinea,56.7317575,afr
+16,Kenya,57.494965,afr
+17,Lesotho,62.7680736,afr
+18,Liberia,54.96727,afr
+19,Madagascar,47.1136161,afr
+20,Malawi,54.7925504,afr
+21,Mali,57.4990949,afr
+22,Mauritania,65.06171,afr
+23,Mozambique,53.3355,afr
+24,Namibia,60.6875515,afr
+25,Niger,56.8592336,afr
+26,Nigeria,57.708288,afr
+27,Rwanda,55.17801,afr
+28,Sao Tome and Principe,62.9162352,afr
+29,Senegal,59.6129175,afr
+30,Sierra Leone,56.70288,afr
+31,Swaziland,66.9104065,afr
+32,Tanzania,54.9668025,afr
+33,Togo,54.4010904,afr
+34,Uganda,56.0532462,afr
+35,Zambia,55.566,afr
+36,Zimbabwe,60.416,afr
+37,Albania,64.0447352,me
+38,Armenia,59.5397325,me
+39,Azerbaijan,62.3818208,me
+40,Egypt,70.8126048,me
+41,Jordan,69.5886325,me
+42,Moldova,62.9628098,me
+43,Morocco,62.6333604,me
+44,Turkey,63.435944,me
+45,Yemen,49.4326548,me
+46,Kazakhstan,58.1121621,me
+47,Kyrgyz Republic,60.980064,me
+48,Tajikistan,57.9591936,me
+49,Turkmenistan,58.292672,me
+50,Uzbekistan,56.9538225,me
+51,Bangladesh,47.3632848,asi
+52,Cambodia,49.094661,asi
+53,India,45.7956511,asi
+54,Maldives,56.37376,asi
+55,Nepal,47.945541,asi
+56,Pakistan,56.33379,asi
+57,Timor-Leste,46.5565045,asi
+58,Bolivia,59.5248304,sam
+59,Brazil,58.631256,sam
+60,Colombia,60.762025,sam
+61,Dominican Republic,59.4228338,sam
+62,Ecuador,58.9825152,sam
+63,El Salvador,60.5397069,sam
+64,Guatemala,56.0968128,sam
+65,Guyana,62.535078,sam
+66,Haiti,58.439228,sam
+67,Honduras,60.8634,sam
+68,Nicaragua,59.7679357,sam
+69,Peru,60.9841585,sam

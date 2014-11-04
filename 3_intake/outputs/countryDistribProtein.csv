@@ -1,0 +1,44 @@
+"","country","year","yearL","RecordOrder","Survey","Breakdown.Variable","Indicator","Measure","Unit","Value","order","countrycode","SD","CofV"
+"1","Albania","2005","2005",1,"Albania - 2005","Country-level","Protein consumption","Mean","g/capita/day",93.4,1,"ALB",39.46,0.422483940042827
+"25","Azerbaijan","2006","2006",25,"Azerbaijan - 2006","Country-level","Protein consumption","Mean","g/capita/day",78.31,2,"AZE",16.47,0.210317967054016
+"49","Bangladesh","2000-2001","2001",49,"Bangladesh - 2000-2001","Country-level","Protein consumption","Mean","g/capita/day",56.52,3,"BGD",17.07,0.302016985138004
+"73","Bangladesh","2005","2005",73,"Bangladesh - 2005","Country-level","Protein consumption","Mean","g/capita/day",49.61,3,"BGD",15.25,0.307397702076194
+"97","Bolivia (Plurinational State of)","2003-2004","2004",97,"Bolivia (Plurinational State of) - 2003-2004","Country-level","Protein consumption","Mean","g/capita/day",63.54,4,"BOL",68.32,1.07522820270696
+"121","Cambodia","2004","2004",121,"Cambodia - 2004","Country-level","Protein consumption","Mean","g/capita/day",55.09,5,"KHM",38.52,0.699219459066981
+"145","Cambodia","2009","2009",145,"Cambodia - 2009","Country-level","Protein consumption","Mean","g/capita/day",63.12,5,"KHM",58.5,0.92680608365019
+"169","Chad","2009","2009",169,"Chad - 2009","Country-level","Protein consumption","Mean","g/capita/day",82.11,6,"TCD",60.1,0.731944951893801
+"193","Côte d'Ivoire","2002","2002",193,"Côte d'Ivoire - 2002","Country-level","Protein consumption","Mean","g/capita/day",63.69,7,"CIV",44.71,0.701994033600251
+"217","Egypt","1997","1997",217,"Egypt - 1997","Country-level","Protein consumption","Mean","g/capita/day",84.53,8,"EGY",38.86,0.459718443156276
+"241","Ghana","1998-1999","1999",241,"Ghana - 1998-1999","Country-level","Protein consumption","Mean","g/capita/day",52.51,9,"GHA",31.46,0.59912397638545
+"265","Guatemala","2006","2006",265,"Guatemala - 2006","Country-level","Protein consumption","Mean","g/capita/day",65.02,10,"GTM",32.8,0.504460166102738
+"289","Haiti","1999-2000","2000",289,"Haiti - 1999-2000","Country-level","Protein consumption","Mean","g/capita/day",57.5,11,"HTI",52.88,0.919652173913044
+"313","Hungary","2004","2004",313,"Hungary - 2004","Country-level","Protein consumption","Mean","g/capita/day",79.91,12,"HUN",37.09,0.464147165561256
+"337","Iraq","2007","2007",337,"Iraq - 2007","Country-level","Protein consumption","Mean","g/capita/day",76.39,13,"IRQ",30.57,0.400183270061526
+"361","Kenya","2005-2006","2006",361,"Kenya - 2005-2006","Country-level","Protein consumption","Mean","g/capita/day",52.4,14,"KEN",38.83,0.741030534351145
+"385","Lao People's Democratic Republic","2008","2008",385,"Lao People's Democratic Republic - 2008","Country-level","Protein consumption","Mean","g/capita/day",69.09,15,"LAO",25.98,0.376031263569257
+"409","Lithuania","2002","2002",409,"Lithuania - 2002","Country-level","Protein consumption","Mean","g/capita/day",86.5,16,"LTU",42.66,0.493179190751445
+"433","Malawi","2004-2005","2005",433,"Malawi - 2004-2005","Country-level","Protein consumption","Mean","g/capita/day",74.32,17,"MWI",168.04,2.26103336921421
+"457","Mali","2001","2001",457,"Mali - 2001","Country-level","Protein consumption","Mean","g/capita/day",63.49,18,"MLI",23.67,0.372814616475035
+"481","Mexico","2004","2004",481,"Mexico - 2004","Country-level","Protein consumption","Mean","g/capita/day",78.51,19,"MEX",51.69,0.658387466564769
+"505","Mexico","2006","2006",505,"Mexico - 2006","Country-level","Protein consumption","Mean","g/capita/day",80.92,19,"MEX",51.01,0.630375679683638
+"529","Mexico","2008","2008",529,"Mexico - 2008","Country-level","Protein consumption","Mean","g/capita/day",78.11,19,"MEX",47.11,0.603123799769556
+"553","Mozambique","2002-2003","2003",553,"Mozambique - 2002-2003","Country-level","Protein consumption","Mean","g/capita/day",51.6,20,"MOZ",142.01,2.75213178294574
+"577","Nepal","1995-1996","1996",577,"Nepal - 1995-1996","Country-level","Protein consumption","Mean","g/capita/day",50.51,21,"NPL",23.25,0.460304890120768
+"601","Niger","2007-2008","2008",601,"Niger - 2007-2008","Country-level","Protein consumption","Mean","g/capita/day",56.73,22,"NER",21.77,0.383747576238322
+"625","Pakistan","2005-2006","2006",625,"Pakistan - 2005-2006","Country-level","Protein consumption","Mean","g/capita/day",59.67,23,"PAK",19.97,0.334674040556393
+"649","Panama","2008","2008",649,"Panama - 2008","Country-level","Protein consumption","Mean","g/capita/day",83.66,24,"PAN",56.59,0.676428400669376
+"673","Papua New Guinea","1996","1996",673,"Papua New Guinea - 1996","Country-level","Protein consumption","Mean","g/capita/day",47.61,25,"PNG",38.75,0.813904641881958
+"697","Paraguay","1997-1998","1998",697,"Paraguay - 1997-1998","Country-level","Protein consumption","Mean","g/capita/day",84.06,26,"PRY",41.17,0.489769212467285
+"721","Philippines","2003","2003",721,"Philippines - 2003","Country-level","Protein consumption","Mean","g/capita/day",53.17,27,"PHL",23.76,0.446868534888095
+"745","Republic of Moldova","2006","2006",745,"Republic of Moldova - 2006","Country-level","Protein consumption","Mean","g/capita/day",92.62,28,"MDA",47.27,0.510364931980134
+"769","Sri Lanka","1999-2000","2000",769,"Sri Lanka - 1999-2000","Country-level","Protein consumption","Mean","g/capita/day",56.42,29,"LKA",24.14,0.427862460120525
+"793","Sudan (former)","2009","2009",793,"Sudan (former) - 2009","Country-level","Protein consumption","Mean","g/capita/day",69.37,30,"SDN",40.04,0.577194752774975
+"817","Tajikistan","2007","2007",817,"Tajikistan - 2007","Country-level","Protein consumption","Mean","g/capita/day",69.55,31,"TJK",25.81,0.371099928109274
+"841","Timor-Leste","2001","2001",841,"Timor-Leste - 2001","Country-level","Protein consumption","Mean","g/capita/day",46.46,32,"TLS",23.31,0.501721911321567
+"865","Togo","2006","2006",865,"Togo - 2006","Country-level","Protein consumption","Mean","g/capita/day",66.41,33,"TGO",47.33,0.712693871404909
+"889","Uganda","2002-2003","2003",889,"Uganda - 2002-2003","Country-level","Protein consumption","Mean","g/capita/day",50.08,34,"TUN",32.15,0.641972843450479
+"913","Uganda","2005-2006","2006",913,"Uganda - 2005-2006","Country-level","Protein consumption","Mean","g/capita/day",47.48,34,"TUN",26.32,0.554338668913227
+"937","Venezuela (Bolivarian Republic of)","2004-2005","2005",937,"Venezuela (Bolivarian Republic of) - 2004-2005","Country-level","Protein consumption","Mean","g/capita/day",73.96,35,"VEN",50.89,0.688074634937804
+"961","Viet Nam","1992-1993","1993",961,"Viet Nam - 1992-1993","Country-level","Protein consumption","Mean","g/capita/day",48.58,36,"VNM",17.68,0.363935776039522
+"985","Viet Nam","2006","2006",985,"Viet Nam - 2006","Country-level","Protein consumption","Mean","g/capita/day",56.56,36,"VNM",21.89,0.387022630834512
+"1009","Zambia","2002-2003","2003",1009,"Zambia - 2002-2003","Country-level","Protein consumption","Mean","g/capita/day",77.84,37,"ZMB",54.88,0.705035971223022

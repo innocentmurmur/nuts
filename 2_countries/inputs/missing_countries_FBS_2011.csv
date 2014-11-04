@@ -1,0 +1,981 @@
+AreaName,ElementName,ItemName,Value
+Burundi,Protein supply quantity (g/capita/day),"Alcohol, Non-Food",0
+Burundi,Protein supply quantity (g/capita/day),Apples and products,0
+Burundi,Protein supply quantity (g/capita/day),"Aquatic Animals, Others",0
+Burundi,Protein supply quantity (g/capita/day),Aquatic Plants,0
+Burundi,Protein supply quantity (g/capita/day),Bananas,3.5
+Burundi,Protein supply quantity (g/capita/day),Barley and products,0
+Burundi,Protein supply quantity (g/capita/day),Beans,15.5
+Burundi,Protein supply quantity (g/capita/day),Beer,0.2
+Burundi,Protein supply quantity (g/capita/day),"Beverages, Alcoholic",0
+Burundi,Protein supply quantity (g/capita/day),"Beverages, Fermented",1.5
+Burundi,Protein supply quantity (g/capita/day),Bovine Meat,0.7
+Burundi,Protein supply quantity (g/capita/day),"Butter, Ghee",0
+Burundi,Protein supply quantity (g/capita/day),Cassava and products,1.8
+Burundi,Protein supply quantity (g/capita/day),Cephalopods,0
+Burundi,Protein supply quantity (g/capita/day),"Cereals, Other",0
+Burundi,Protein supply quantity (g/capita/day),"Citrus, Other",0
+Burundi,Protein supply quantity (g/capita/day),Cloves,0
+Burundi,Protein supply quantity (g/capita/day),Cocoa Beans and products,0
+Burundi,Protein supply quantity (g/capita/day),Coconut Oil,0
+Burundi,Protein supply quantity (g/capita/day),Coconuts - Incl Copra,0
+Burundi,Protein supply quantity (g/capita/day),Coffee and products,0.2
+Burundi,Protein supply quantity (g/capita/day),Cottonseed,0
+Burundi,Protein supply quantity (g/capita/day),Cottonseed Oil,0
+Burundi,Protein supply quantity (g/capita/day),Cream,0
+Burundi,Protein supply quantity (g/capita/day),Crustaceans,0
+Burundi,Protein supply quantity (g/capita/day),Dates,0
+Burundi,Protein supply quantity (g/capita/day),Demersal Fish,0
+Burundi,Protein supply quantity (g/capita/day),"Fats, Animals, Raw",0
+Burundi,Protein supply quantity (g/capita/day),"Fish, Body Oil",0
+Burundi,Protein supply quantity (g/capita/day),"Fish, Liver Oil",0
+Burundi,Protein supply quantity (g/capita/day),Freshwater Fish,0.5
+Burundi,Protein supply quantity (g/capita/day),"Fruits, Other",0.1
+Burundi,Protein supply quantity (g/capita/day),Grapefruit and products,0
+Burundi,Protein supply quantity (g/capita/day),Grapes and products (excl wine),0
+Burundi,Protein supply quantity (g/capita/day),Groundnut Oil,0
+Burundi,Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),0.2
+Burundi,Protein supply quantity (g/capita/day),Honey,0
+Burundi,Protein supply quantity (g/capita/day),"Lemons, Limes and products",0
+Burundi,Protein supply quantity (g/capita/day),Maize and products,5.1
+Burundi,Protein supply quantity (g/capita/day),Maize Germ Oil,0
+Burundi,Protein supply quantity (g/capita/day),"Marine Fish, Other",0
+Burundi,Protein supply quantity (g/capita/day),"Meat, Aquatic Mammals",0
+Burundi,Protein supply quantity (g/capita/day),"Meat, Other",0
+Burundi,Protein supply quantity (g/capita/day),Millet and products,0.1
+Burundi,Protein supply quantity (g/capita/day),"Molluscs, Other",0
+Burundi,Protein supply quantity (g/capita/day),Mutton & Goat Meat,0.4
+Burundi,Protein supply quantity (g/capita/day),Oats,0
+Burundi,Protein supply quantity (g/capita/day),"Oilcrops Oil, Other",0
+Burundi,Protein supply quantity (g/capita/day),"Oilcrops, Other",0
+Burundi,Protein supply quantity (g/capita/day),Olive Oil,0
+Burundi,Protein supply quantity (g/capita/day),Olives (including preserved),0
+Burundi,Protein supply quantity (g/capita/day),Onions,0
+Burundi,Protein supply quantity (g/capita/day),"Oranges, Mandarines",0
+Burundi,Protein supply quantity (g/capita/day),Palm kernels,0
+Burundi,Protein supply quantity (g/capita/day),Palm Oil,0
+Burundi,Protein supply quantity (g/capita/day),Palmkernel Oil,0
+Burundi,Protein supply quantity (g/capita/day),Peas,3.1
+Burundi,Protein supply quantity (g/capita/day),Pelagic Fish,0
+Burundi,Protein supply quantity (g/capita/day),Pepper,0
+Burundi,Protein supply quantity (g/capita/day),Pigmeat,0.5
+Burundi,Protein supply quantity (g/capita/day),Pimento,0
+Burundi,Protein supply quantity (g/capita/day),Pineapples and products,0
+Burundi,Protein supply quantity (g/capita/day),Plantains,0
+Burundi,Protein supply quantity (g/capita/day),Potatoes and products,0
+Burundi,Protein supply quantity (g/capita/day),Poultry Meat,0.3
+Burundi,Protein supply quantity (g/capita/day),"Pulses, Other and products",0.2
+Burundi,Protein supply quantity (g/capita/day),Rape and Mustard Oil,0
+Burundi,Protein supply quantity (g/capita/day),Rape and Mustardseed,0
+Burundi,Protein supply quantity (g/capita/day),Rice (Milled Equivalent),1.1
+Burundi,Protein supply quantity (g/capita/day),Ricebran Oil,0
+Burundi,Protein supply quantity (g/capita/day),"Roots, Other",0.2
+Burundi,Protein supply quantity (g/capita/day),Rye and products,0
+Burundi,Protein supply quantity (g/capita/day),Sesame seed,0
+Burundi,Protein supply quantity (g/capita/day),Sesameseed Oil,0
+Burundi,Protein supply quantity (g/capita/day),Sorghum and products,0.4
+Burundi,Protein supply quantity (g/capita/day),Soyabean Oil,0
+Burundi,Protein supply quantity (g/capita/day),Soyabeans,0.3
+Burundi,Protein supply quantity (g/capita/day),"Spices, Other",0
+Burundi,Protein supply quantity (g/capita/day),Sugar (Raw Equivalent),0
+Burundi,Protein supply quantity (g/capita/day),Sugar beet,0
+Burundi,Protein supply quantity (g/capita/day),Sugar cane,0
+Burundi,Protein supply quantity (g/capita/day),Sugar non-centrifugal,0
+Burundi,Protein supply quantity (g/capita/day),Sunflower seed,0
+Burundi,Protein supply quantity (g/capita/day),Sunflowerseed Oil,0
+Burundi,Protein supply quantity (g/capita/day),Sweet potatoes,3.2
+Burundi,Protein supply quantity (g/capita/day),"Sweeteners, Other",0
+Burundi,Protein supply quantity (g/capita/day),Tea (including mate),0
+Burundi,Protein supply quantity (g/capita/day),Tomatoes and products,0
+Burundi,Protein supply quantity (g/capita/day),"Vegetables, Other",1.9
+Burundi,Protein supply quantity (g/capita/day),Wheat and products,1.1
+Burundi,Protein supply quantity (g/capita/day),Wine,0
+Burundi,Protein supply quantity (g/capita/day),Yams,0
+Burundi,Protein supply quantity (g/capita/day),"Aquatic Products, Other",0
+Burundi,Protein supply quantity (g/capita/day),Eggs,0.1
+Burundi,Protein supply quantity (g/capita/day),Milk - Excluding Butter,0.5
+Burundi,Protein supply quantity (g/capita/day),Miscellaneous,0
+Burundi,Protein supply quantity (g/capita/day),Offals,0.3
+Burundi,Protein supply quantity (g/capita/day),Treenuts,0
+Comoros,Protein supply quantity (g/capita/day),"Alcohol, Non-Food",0
+Comoros,Protein supply quantity (g/capita/day),Apples and products,0
+Comoros,Protein supply quantity (g/capita/day),"Aquatic Animals, Others",0
+Comoros,Protein supply quantity (g/capita/day),Aquatic Plants,0
+Comoros,Protein supply quantity (g/capita/day),Bananas,2.5
+Comoros,Protein supply quantity (g/capita/day),Barley and products,0
+Comoros,Protein supply quantity (g/capita/day),Beans,0
+Comoros,Protein supply quantity (g/capita/day),Beer,0
+Comoros,Protein supply quantity (g/capita/day),"Beverages, Alcoholic",0
+Comoros,Protein supply quantity (g/capita/day),"Beverages, Fermented",0
+Comoros,Protein supply quantity (g/capita/day),Bovine Meat,0.9
+Comoros,Protein supply quantity (g/capita/day),"Butter, Ghee",0
+Comoros,Protein supply quantity (g/capita/day),Cassava and products,2.2
+Comoros,Protein supply quantity (g/capita/day),Cephalopods,0
+Comoros,Protein supply quantity (g/capita/day),"Cereals, Other",0.1
+Comoros,Protein supply quantity (g/capita/day),"Citrus, Other",0
+Comoros,Protein supply quantity (g/capita/day),Cloves,0
+Comoros,Protein supply quantity (g/capita/day),Cocoa Beans and products,0
+Comoros,Protein supply quantity (g/capita/day),Coconut Oil,0
+Comoros,Protein supply quantity (g/capita/day),Coconuts - Incl Copra,1.1
+Comoros,Protein supply quantity (g/capita/day),Coffee and products,0
+Comoros,Protein supply quantity (g/capita/day),Cottonseed,0
+Comoros,Protein supply quantity (g/capita/day),Cottonseed Oil,0
+Comoros,Protein supply quantity (g/capita/day),Cream,0
+Comoros,Protein supply quantity (g/capita/day),Crustaceans,0
+Comoros,Protein supply quantity (g/capita/day),Dates,0
+Comoros,Protein supply quantity (g/capita/day),Demersal Fish,0
+Comoros,Protein supply quantity (g/capita/day),"Fats, Animals, Raw",0
+Comoros,Protein supply quantity (g/capita/day),"Fish, Body Oil",0
+Comoros,Protein supply quantity (g/capita/day),"Fish, Liver Oil",0
+Comoros,Protein supply quantity (g/capita/day),Freshwater Fish,0
+Comoros,Protein supply quantity (g/capita/day),"Fruits, Other",0.1
+Comoros,Protein supply quantity (g/capita/day),Grapefruit and products,0
+Comoros,Protein supply quantity (g/capita/day),Grapes and products (excl wine),0
+Comoros,Protein supply quantity (g/capita/day),Groundnut Oil,0
+Comoros,Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),0.8
+Comoros,Protein supply quantity (g/capita/day),Honey,0
+Comoros,Protein supply quantity (g/capita/day),"Lemons, Limes and products",0
+Comoros,Protein supply quantity (g/capita/day),Maize and products,1.2
+Comoros,Protein supply quantity (g/capita/day),Maize Germ Oil,0
+Comoros,Protein supply quantity (g/capita/day),"Marine Fish, Other",0.6
+Comoros,Protein supply quantity (g/capita/day),"Meat, Aquatic Mammals",0
+Comoros,Protein supply quantity (g/capita/day),"Meat, Other",0
+Comoros,Protein supply quantity (g/capita/day),Millet and products,0
+Comoros,Protein supply quantity (g/capita/day),"Molluscs, Other",0
+Comoros,Protein supply quantity (g/capita/day),Mutton & Goat Meat,0.3
+Comoros,Protein supply quantity (g/capita/day),Oats,0
+Comoros,Protein supply quantity (g/capita/day),"Oilcrops Oil, Other",0
+Comoros,Protein supply quantity (g/capita/day),"Oilcrops, Other",0
+Comoros,Protein supply quantity (g/capita/day),Olive Oil,0
+Comoros,Protein supply quantity (g/capita/day),Olives (including preserved),0
+Comoros,Protein supply quantity (g/capita/day),Onions,0
+Comoros,Protein supply quantity (g/capita/day),"Oranges, Mandarines",0
+Comoros,Protein supply quantity (g/capita/day),Palm kernels,0
+Comoros,Protein supply quantity (g/capita/day),Palm Oil,0
+Comoros,Protein supply quantity (g/capita/day),Palmkernel Oil,0
+Comoros,Protein supply quantity (g/capita/day),Peas,0
+Comoros,Protein supply quantity (g/capita/day),Pelagic Fish,7.1
+Comoros,Protein supply quantity (g/capita/day),Pepper,0
+Comoros,Protein supply quantity (g/capita/day),Pigmeat,0
+Comoros,Protein supply quantity (g/capita/day),Pimento,0
+Comoros,Protein supply quantity (g/capita/day),Pineapples and products,0
+Comoros,Protein supply quantity (g/capita/day),Plantains,0
+Comoros,Protein supply quantity (g/capita/day),Potatoes and products,0
+Comoros,Protein supply quantity (g/capita/day),Poultry Meat,3.5
+Comoros,Protein supply quantity (g/capita/day),"Pulses, Other and products",7.8
+Comoros,Protein supply quantity (g/capita/day),Rape and Mustard Oil,0
+Comoros,Protein supply quantity (g/capita/day),Rape and Mustardseed,0
+Comoros,Protein supply quantity (g/capita/day),Rice (Milled Equivalent),13.2
+Comoros,Protein supply quantity (g/capita/day),Ricebran Oil,0
+Comoros,Protein supply quantity (g/capita/day),"Roots, Other",0.5
+Comoros,Protein supply quantity (g/capita/day),Rye and products,0
+Comoros,Protein supply quantity (g/capita/day),Sesame seed,0
+Comoros,Protein supply quantity (g/capita/day),Sesameseed Oil,0
+Comoros,Protein supply quantity (g/capita/day),Sorghum and products,0
+Comoros,Protein supply quantity (g/capita/day),Soyabean Oil,0
+Comoros,Protein supply quantity (g/capita/day),Soyabeans,0
+Comoros,Protein supply quantity (g/capita/day),"Spices, Other",0
+Comoros,Protein supply quantity (g/capita/day),Sugar (Raw Equivalent),0
+Comoros,Protein supply quantity (g/capita/day),Sugar beet,0
+Comoros,Protein supply quantity (g/capita/day),Sugar cane,0
+Comoros,Protein supply quantity (g/capita/day),Sugar non-centrifugal,0
+Comoros,Protein supply quantity (g/capita/day),Sunflower seed,0
+Comoros,Protein supply quantity (g/capita/day),Sunflowerseed Oil,0
+Comoros,Protein supply quantity (g/capita/day),Sweet potatoes,0.3
+Comoros,Protein supply quantity (g/capita/day),"Sweeteners, Other",0
+Comoros,Protein supply quantity (g/capita/day),Tea (including mate),0
+Comoros,Protein supply quantity (g/capita/day),Tomatoes and products,0.1
+Comoros,Protein supply quantity (g/capita/day),"Vegetables, Other",0.3
+Comoros,Protein supply quantity (g/capita/day),Wheat and products,4.1
+Comoros,Protein supply quantity (g/capita/day),Wine,0
+Comoros,Protein supply quantity (g/capita/day),Yams,0.2
+Comoros,Protein supply quantity (g/capita/day),"Aquatic Products, Other",0
+Comoros,Protein supply quantity (g/capita/day),Eggs,0.3
+Comoros,Protein supply quantity (g/capita/day),Milk - Excluding Butter,1
+Comoros,Protein supply quantity (g/capita/day),Miscellaneous,0.1
+Comoros,Protein supply quantity (g/capita/day),Offals,0.3
+Comoros,Protein supply quantity (g/capita/day),Treenuts,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Alcohol, Non-Food",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Apples and products,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Aquatic Animals, Others",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Aquatic Plants,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Bananas,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Barley and products,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Beans,1.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Beer,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Beverages, Alcoholic",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Beverages, Fermented",0.2
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Bovine Meat,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Butter, Ghee",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Cassava and products,4.4
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Cephalopods,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Cereals, Other",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Citrus, Other",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Cloves,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Cocoa Beans and products,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Coconut Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Coconuts - Incl Copra,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Coffee and products,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Cottonseed,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Cottonseed Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Cream,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Crustaceans,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Dates,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Demersal Fish,0.2
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Fats, Animals, Raw",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Fish, Body Oil",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Fish, Liver Oil",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Freshwater Fish,1.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Fruits, Other",0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Grapefruit and products,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Grapes and products (excl wine),0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Groundnut Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),1.6
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Honey,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Lemons, Limes and products",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Maize and products,5.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Maize Germ Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Marine Fish, Other",0.2
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Meat, Aquatic Mammals",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Meat, Other",1.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Millet and products,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Molluscs, Other",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Mutton & Goat Meat,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Oats,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Oilcrops Oil, Other",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Oilcrops, Other",0.6
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Olive Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Olives (including preserved),0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Onions,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Oranges, Mandarines",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Palm kernels,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Palm Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Palmkernel Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Peas,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Pelagic Fish,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Pepper,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Pigmeat,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Pimento,0.2
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Pineapples and products,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Plantains,0.4
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Potatoes and products,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Poultry Meat,0.4
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Pulses, Other and products",0.8
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Rape and Mustard Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Rape and Mustardseed,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Rice (Milled Equivalent),1.2
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Ricebran Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Roots, Other",0.4
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Rye and products,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sesame seed,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sesameseed Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sorghum and products,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Soyabean Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Soyabeans,0.8
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Spices, Other",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sugar (Raw Equivalent),0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sugar beet,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sugar cane,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sugar non-centrifugal,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sunflower seed,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sunflowerseed Oil,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Sweet potatoes,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Sweeteners, Other",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Tea (including mate),0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Tomatoes and products,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Vegetables, Other",1.5
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Wheat and products,1.5
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Wine,0.2
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Yams,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),"Aquatic Products, Other",0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Eggs,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Milk - Excluding Butter,0.2
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Miscellaneous,0
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Offals,0.1
+Democratic Republic of the Congo,Protein supply quantity (g/capita/day),Treenuts,0
+Eritrea,Protein supply quantity (g/capita/day),"Alcohol, Non-Food",0
+Eritrea,Protein supply quantity (g/capita/day),Apples and products,0
+Eritrea,Protein supply quantity (g/capita/day),"Aquatic Animals, Others",0
+Eritrea,Protein supply quantity (g/capita/day),Aquatic Plants,0
+Eritrea,Protein supply quantity (g/capita/day),Bananas,0
+Eritrea,Protein supply quantity (g/capita/day),Barley and products,2.5
+Eritrea,Protein supply quantity (g/capita/day),Beans,0
+Eritrea,Protein supply quantity (g/capita/day),Beer,0
+Eritrea,Protein supply quantity (g/capita/day),"Beverages, Alcoholic",0
+Eritrea,Protein supply quantity (g/capita/day),"Beverages, Fermented",0
+Eritrea,Protein supply quantity (g/capita/day),Bovine Meat,1.8
+Eritrea,Protein supply quantity (g/capita/day),"Butter, Ghee",0
+Eritrea,Protein supply quantity (g/capita/day),Cassava and products,0
+Eritrea,Protein supply quantity (g/capita/day),Cephalopods,0
+Eritrea,Protein supply quantity (g/capita/day),"Cereals, Other",3.3
+Eritrea,Protein supply quantity (g/capita/day),"Citrus, Other",0
+Eritrea,Protein supply quantity (g/capita/day),Cloves,0
+Eritrea,Protein supply quantity (g/capita/day),Cocoa Beans and products,0
+Eritrea,Protein supply quantity (g/capita/day),Coconut Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Coconuts - Incl Copra,0
+Eritrea,Protein supply quantity (g/capita/day),Coffee and products,0
+Eritrea,Protein supply quantity (g/capita/day),Cottonseed,0
+Eritrea,Protein supply quantity (g/capita/day),Cottonseed Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Cream,0
+Eritrea,Protein supply quantity (g/capita/day),Crustaceans,0
+Eritrea,Protein supply quantity (g/capita/day),Dates,0
+Eritrea,Protein supply quantity (g/capita/day),Demersal Fish,0
+Eritrea,Protein supply quantity (g/capita/day),"Fats, Animals, Raw",0
+Eritrea,Protein supply quantity (g/capita/day),"Fish, Body Oil",0
+Eritrea,Protein supply quantity (g/capita/day),"Fish, Liver Oil",0
+Eritrea,Protein supply quantity (g/capita/day),Freshwater Fish,0
+Eritrea,Protein supply quantity (g/capita/day),"Fruits, Other",0
+Eritrea,Protein supply quantity (g/capita/day),Grapefruit and products,0
+Eritrea,Protein supply quantity (g/capita/day),Grapes and products (excl wine),0
+Eritrea,Protein supply quantity (g/capita/day),Groundnut Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),0.1
+Eritrea,Protein supply quantity (g/capita/day),Honey,0
+Eritrea,Protein supply quantity (g/capita/day),"Lemons, Limes and products",0
+Eritrea,Protein supply quantity (g/capita/day),Maize and products,0.7
+Eritrea,Protein supply quantity (g/capita/day),Maize Germ Oil,0
+Eritrea,Protein supply quantity (g/capita/day),"Marine Fish, Other",0
+Eritrea,Protein supply quantity (g/capita/day),"Meat, Aquatic Mammals",0
+Eritrea,Protein supply quantity (g/capita/day),"Meat, Other",0.2
+Eritrea,Protein supply quantity (g/capita/day),Millet and products,0.6
+Eritrea,Protein supply quantity (g/capita/day),"Molluscs, Other",0
+Eritrea,Protein supply quantity (g/capita/day),Mutton & Goat Meat,0.9
+Eritrea,Protein supply quantity (g/capita/day),Oats,0
+Eritrea,Protein supply quantity (g/capita/day),"Oilcrops Oil, Other",0
+Eritrea,Protein supply quantity (g/capita/day),"Oilcrops, Other",0
+Eritrea,Protein supply quantity (g/capita/day),Olive Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Olives (including preserved),0
+Eritrea,Protein supply quantity (g/capita/day),Onions,0
+Eritrea,Protein supply quantity (g/capita/day),"Oranges, Mandarines",0
+Eritrea,Protein supply quantity (g/capita/day),Palm kernels,0
+Eritrea,Protein supply quantity (g/capita/day),Palm Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Palmkernel Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Peas,0.2
+Eritrea,Protein supply quantity (g/capita/day),Pelagic Fish,0.1
+Eritrea,Protein supply quantity (g/capita/day),Pepper,0
+Eritrea,Protein supply quantity (g/capita/day),Pigmeat,0
+Eritrea,Protein supply quantity (g/capita/day),Pimento,0
+Eritrea,Protein supply quantity (g/capita/day),Pineapples and products,0
+Eritrea,Protein supply quantity (g/capita/day),Plantains,0
+Eritrea,Protein supply quantity (g/capita/day),Potatoes and products,0
+Eritrea,Protein supply quantity (g/capita/day),Poultry Meat,0.1
+Eritrea,Protein supply quantity (g/capita/day),"Pulses, Other and products",4.5
+Eritrea,Protein supply quantity (g/capita/day),Rape and Mustard Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Rape and Mustardseed,0
+Eritrea,Protein supply quantity (g/capita/day),Rice (Milled Equivalent),0
+Eritrea,Protein supply quantity (g/capita/day),Ricebran Oil,0
+Eritrea,Protein supply quantity (g/capita/day),"Roots, Other",0.6
+Eritrea,Protein supply quantity (g/capita/day),Rye and products,0
+Eritrea,Protein supply quantity (g/capita/day),Sesame seed,0
+Eritrea,Protein supply quantity (g/capita/day),Sesameseed Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Sorghum and products,18.3
+Eritrea,Protein supply quantity (g/capita/day),Soyabean Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Soyabeans,0
+Eritrea,Protein supply quantity (g/capita/day),"Spices, Other",0
+Eritrea,Protein supply quantity (g/capita/day),Sugar (Raw Equivalent),0
+Eritrea,Protein supply quantity (g/capita/day),Sugar beet,0
+Eritrea,Protein supply quantity (g/capita/day),Sugar cane,0
+Eritrea,Protein supply quantity (g/capita/day),Sugar non-centrifugal,0
+Eritrea,Protein supply quantity (g/capita/day),Sunflower seed,0
+Eritrea,Protein supply quantity (g/capita/day),Sunflowerseed Oil,0
+Eritrea,Protein supply quantity (g/capita/day),Sweet potatoes,0
+Eritrea,Protein supply quantity (g/capita/day),"Sweeteners, Other",0
+Eritrea,Protein supply quantity (g/capita/day),Tea (including mate),0
+Eritrea,Protein supply quantity (g/capita/day),Tomatoes and products,0
+Eritrea,Protein supply quantity (g/capita/day),"Vegetables, Other",0.3
+Eritrea,Protein supply quantity (g/capita/day),Wheat and products,12.6
+Eritrea,Protein supply quantity (g/capita/day),Wine,0
+Eritrea,Protein supply quantity (g/capita/day),Yams,0
+Eritrea,Protein supply quantity (g/capita/day),"Aquatic Products, Other",0
+Eritrea,Protein supply quantity (g/capita/day),Eggs,0.1
+Eritrea,Protein supply quantity (g/capita/day),Milk - Excluding Butter,2.5
+Eritrea,Protein supply quantity (g/capita/day),Miscellaneous,0
+Eritrea,Protein supply quantity (g/capita/day),Offals,0.8
+Eritrea,Protein supply quantity (g/capita/day),Treenuts,0
+Seychelles,Protein supply quantity (g/capita/day),"Alcohol, Non-Food",0
+Seychelles,Protein supply quantity (g/capita/day),Apples and products,0
+Seychelles,Protein supply quantity (g/capita/day),"Aquatic Animals, Others",0.1
+Seychelles,Protein supply quantity (g/capita/day),Aquatic Plants,0
+Seychelles,Protein supply quantity (g/capita/day),Bananas,0.5
+Seychelles,Protein supply quantity (g/capita/day),Barley and products,0.2
+Seychelles,Protein supply quantity (g/capita/day),Beans,0.5
+Seychelles,Protein supply quantity (g/capita/day),Beer,0.5
+Seychelles,Protein supply quantity (g/capita/day),"Beverages, Alcoholic",0
+Seychelles,Protein supply quantity (g/capita/day),"Beverages, Fermented",0
+Seychelles,Protein supply quantity (g/capita/day),Bovine Meat,1.6
+Seychelles,Protein supply quantity (g/capita/day),"Butter, Ghee",0
+Seychelles,Protein supply quantity (g/capita/day),Cassava and products,0.1
+Seychelles,Protein supply quantity (g/capita/day),Cephalopods,0.3
+Seychelles,Protein supply quantity (g/capita/day),"Cereals, Other",0.8
+Seychelles,Protein supply quantity (g/capita/day),"Citrus, Other",0
+Seychelles,Protein supply quantity (g/capita/day),Cloves,0
+Seychelles,Protein supply quantity (g/capita/day),Cocoa Beans and products,0.3
+Seychelles,Protein supply quantity (g/capita/day),Coconut Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Coconuts - Incl Copra,0.9
+Seychelles,Protein supply quantity (g/capita/day),Coffee and products,0.1
+Seychelles,Protein supply quantity (g/capita/day),Cottonseed,0
+Seychelles,Protein supply quantity (g/capita/day),Cottonseed Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Cream,0.1
+Seychelles,Protein supply quantity (g/capita/day),Crustaceans,0.8
+Seychelles,Protein supply quantity (g/capita/day),Dates,0
+Seychelles,Protein supply quantity (g/capita/day),Demersal Fish,4
+Seychelles,Protein supply quantity (g/capita/day),"Fats, Animals, Raw",0.1
+Seychelles,Protein supply quantity (g/capita/day),"Fish, Body Oil",0
+Seychelles,Protein supply quantity (g/capita/day),"Fish, Liver Oil",0
+Seychelles,Protein supply quantity (g/capita/day),Freshwater Fish,0.1
+Seychelles,Protein supply quantity (g/capita/day),"Fruits, Other",0.3
+Seychelles,Protein supply quantity (g/capita/day),Grapefruit and products,0
+Seychelles,Protein supply quantity (g/capita/day),Grapes and products (excl wine),0
+Seychelles,Protein supply quantity (g/capita/day),Groundnut Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Groundnuts (Shelled Eq),0.7
+Seychelles,Protein supply quantity (g/capita/day),Honey,0
+Seychelles,Protein supply quantity (g/capita/day),"Lemons, Limes and products",0
+Seychelles,Protein supply quantity (g/capita/day),Maize and products,7.3
+Seychelles,Protein supply quantity (g/capita/day),Maize Germ Oil,0
+Seychelles,Protein supply quantity (g/capita/day),"Marine Fish, Other",3.8
+Seychelles,Protein supply quantity (g/capita/day),"Meat, Aquatic Mammals",0
+Seychelles,Protein supply quantity (g/capita/day),"Meat, Other",0.1
+Seychelles,Protein supply quantity (g/capita/day),Millet and products,0
+Seychelles,Protein supply quantity (g/capita/day),"Molluscs, Other",0
+Seychelles,Protein supply quantity (g/capita/day),Mutton & Goat Meat,0.9
+Seychelles,Protein supply quantity (g/capita/day),Oats,0.2
+Seychelles,Protein supply quantity (g/capita/day),"Oilcrops Oil, Other",0
+Seychelles,Protein supply quantity (g/capita/day),"Oilcrops, Other",0
+Seychelles,Protein supply quantity (g/capita/day),Olive Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Olives (including preserved),0
+Seychelles,Protein supply quantity (g/capita/day),Onions,0.1
+Seychelles,Protein supply quantity (g/capita/day),"Oranges, Mandarines",0.1
+Seychelles,Protein supply quantity (g/capita/day),Palm kernels,0
+Seychelles,Protein supply quantity (g/capita/day),Palm Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Palmkernel Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Peas,0
+Seychelles,Protein supply quantity (g/capita/day),Pelagic Fish,7.9
+Seychelles,Protein supply quantity (g/capita/day),Pepper,0
+Seychelles,Protein supply quantity (g/capita/day),Pigmeat,3.2
+Seychelles,Protein supply quantity (g/capita/day),Pimento,0.1
+Seychelles,Protein supply quantity (g/capita/day),Pineapples and products,0
+Seychelles,Protein supply quantity (g/capita/day),Plantains,0
+Seychelles,Protein supply quantity (g/capita/day),Potatoes and products,1.3
+Seychelles,Protein supply quantity (g/capita/day),Poultry Meat,6.6
+Seychelles,Protein supply quantity (g/capita/day),"Pulses, Other and products",3.2
+Seychelles,Protein supply quantity (g/capita/day),Rape and Mustard Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Rape and Mustardseed,0
+Seychelles,Protein supply quantity (g/capita/day),Rice (Milled Equivalent),6.8
+Seychelles,Protein supply quantity (g/capita/day),Ricebran Oil,0
+Seychelles,Protein supply quantity (g/capita/day),"Roots, Other",0
+Seychelles,Protein supply quantity (g/capita/day),Rye and products,0
+Seychelles,Protein supply quantity (g/capita/day),Sesame seed,0
+Seychelles,Protein supply quantity (g/capita/day),Sesameseed Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Sorghum and products,0
+Seychelles,Protein supply quantity (g/capita/day),Soyabean Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Soyabeans,2.2
+Seychelles,Protein supply quantity (g/capita/day),"Spices, Other",0.4
+Seychelles,Protein supply quantity (g/capita/day),Sugar (Raw Equivalent),0
+Seychelles,Protein supply quantity (g/capita/day),Sugar beet,0
+Seychelles,Protein supply quantity (g/capita/day),Sugar cane,0
+Seychelles,Protein supply quantity (g/capita/day),Sugar non-centrifugal,0
+Seychelles,Protein supply quantity (g/capita/day),Sunflower seed,0
+Seychelles,Protein supply quantity (g/capita/day),Sunflowerseed Oil,0
+Seychelles,Protein supply quantity (g/capita/day),Sweet potatoes,0
+Seychelles,Protein supply quantity (g/capita/day),"Sweeteners, Other",0
+Seychelles,Protein supply quantity (g/capita/day),Tea (including mate),0.6
+Seychelles,Protein supply quantity (g/capita/day),Tomatoes and products,0.6
+Seychelles,Protein supply quantity (g/capita/day),"Vegetables, Other",2.1
+Seychelles,Protein supply quantity (g/capita/day),Wheat and products,11.7
+Seychelles,Protein supply quantity (g/capita/day),Wine,0
+Seychelles,Protein supply quantity (g/capita/day),Yams,0
+Seychelles,Protein supply quantity (g/capita/day),"Aquatic Products, Other",0.1
+Seychelles,Protein supply quantity (g/capita/day),Eggs,2.7
+Seychelles,Protein supply quantity (g/capita/day),Milk - Excluding Butter,3.7
+Seychelles,Protein supply quantity (g/capita/day),Miscellaneous,0.6
+Seychelles,Protein supply quantity (g/capita/day),Offals,0.3
+Seychelles,Protein supply quantity (g/capita/day),Treenuts,0.3
+Burundi,Food supply (kcal/capita/day),"Alcohol, Non-Food",0
+Burundi,Food supply (kcal/capita/day),Apples and products,0
+Burundi,Food supply (kcal/capita/day),"Aquatic Animals, Others",0
+Burundi,Food supply (kcal/capita/day),Aquatic Plants,0
+Burundi,Food supply (kcal/capita/day),Bananas,211
+Burundi,Food supply (kcal/capita/day),Barley and products,0
+Burundi,Food supply (kcal/capita/day),Beans,240
+Burundi,Food supply (kcal/capita/day),Beer,20
+Burundi,Food supply (kcal/capita/day),"Beverages, Alcoholic",0
+Burundi,Food supply (kcal/capita/day),"Beverages, Fermented",98
+Burundi,Food supply (kcal/capita/day),Bovine Meat,10
+Burundi,Food supply (kcal/capita/day),"Butter, Ghee",0
+Burundi,Food supply (kcal/capita/day),Cassava and products,224
+Burundi,Food supply (kcal/capita/day),Cephalopods,0
+Burundi,Food supply (kcal/capita/day),"Cereals, Other",0
+Burundi,Food supply (kcal/capita/day),"Citrus, Other",0
+Burundi,Food supply (kcal/capita/day),Cloves,0
+Burundi,Food supply (kcal/capita/day),Cocoa Beans and products,0
+Burundi,Food supply (kcal/capita/day),Coconut Oil,0
+Burundi,Food supply (kcal/capita/day),Coconuts - Incl Copra,0
+Burundi,Food supply (kcal/capita/day),Coffee and products,2
+Burundi,Food supply (kcal/capita/day),Cottonseed,0
+Burundi,Food supply (kcal/capita/day),Cottonseed Oil,2
+Burundi,Food supply (kcal/capita/day),Cream,0
+Burundi,Food supply (kcal/capita/day),Crustaceans,0
+Burundi,Food supply (kcal/capita/day),Dates,0
+Burundi,Food supply (kcal/capita/day),Demersal Fish,0
+Burundi,Food supply (kcal/capita/day),"Fats, Animals, Raw",5
+Burundi,Food supply (kcal/capita/day),"Fish, Body Oil",0
+Burundi,Food supply (kcal/capita/day),"Fish, Liver Oil",0
+Burundi,Food supply (kcal/capita/day),Freshwater Fish,3
+Burundi,Food supply (kcal/capita/day),"Fruits, Other",12
+Burundi,Food supply (kcal/capita/day),Grapefruit and products,0
+Burundi,Food supply (kcal/capita/day),Grapes and products (excl wine),0
+Burundi,Food supply (kcal/capita/day),Groundnut Oil,2
+Burundi,Food supply (kcal/capita/day),Groundnuts (Shelled Eq),5
+Burundi,Food supply (kcal/capita/day),Honey,1
+Burundi,Food supply (kcal/capita/day),"Lemons, Limes and products",0
+Burundi,Food supply (kcal/capita/day),Maize and products,192
+Burundi,Food supply (kcal/capita/day),Maize Germ Oil,0
+Burundi,Food supply (kcal/capita/day),"Marine Fish, Other",0
+Burundi,Food supply (kcal/capita/day),"Meat, Aquatic Mammals",0
+Burundi,Food supply (kcal/capita/day),"Meat, Other",0
+Burundi,Food supply (kcal/capita/day),Millet and products,3
+Burundi,Food supply (kcal/capita/day),"Molluscs, Other",0
+Burundi,Food supply (kcal/capita/day),Mutton & Goat Meat,3
+Burundi,Food supply (kcal/capita/day),Oats,0
+Burundi,Food supply (kcal/capita/day),"Oilcrops Oil, Other",22
+Burundi,Food supply (kcal/capita/day),"Oilcrops, Other",0
+Burundi,Food supply (kcal/capita/day),Olive Oil,0
+Burundi,Food supply (kcal/capita/day),Olives (including preserved),0
+Burundi,Food supply (kcal/capita/day),Onions,0
+Burundi,Food supply (kcal/capita/day),"Oranges, Mandarines",0
+Burundi,Food supply (kcal/capita/day),Palm kernels,0
+Burundi,Food supply (kcal/capita/day),Palm Oil,43
+Burundi,Food supply (kcal/capita/day),Palmkernel Oil,12
+Burundi,Food supply (kcal/capita/day),Peas,47
+Burundi,Food supply (kcal/capita/day),Pelagic Fish,0
+Burundi,Food supply (kcal/capita/day),Pepper,0
+Burundi,Food supply (kcal/capita/day),Pigmeat,12
+Burundi,Food supply (kcal/capita/day),Pimento,0
+Burundi,Food supply (kcal/capita/day),Pineapples and products,0
+Burundi,Food supply (kcal/capita/day),Plantains,0
+Burundi,Food supply (kcal/capita/day),Potatoes and products,1
+Burundi,Food supply (kcal/capita/day),Poultry Meat,3
+Burundi,Food supply (kcal/capita/day),"Pulses, Other and products",3
+Burundi,Food supply (kcal/capita/day),Rape and Mustard Oil,0
+Burundi,Food supply (kcal/capita/day),Rape and Mustardseed,0
+Burundi,Food supply (kcal/capita/day),Rice (Milled Equivalent),59
+Burundi,Food supply (kcal/capita/day),Ricebran Oil,0
+Burundi,Food supply (kcal/capita/day),"Roots, Other",13
+Burundi,Food supply (kcal/capita/day),Rye and products,0
+Burundi,Food supply (kcal/capita/day),Sesame seed,0
+Burundi,Food supply (kcal/capita/day),Sesameseed Oil,0
+Burundi,Food supply (kcal/capita/day),Sorghum and products,11
+Burundi,Food supply (kcal/capita/day),Soyabean Oil,0
+Burundi,Food supply (kcal/capita/day),Soyabeans,3
+Burundi,Food supply (kcal/capita/day),"Spices, Other",0
+Burundi,Food supply (kcal/capita/day),Sugar (Raw Equivalent),26
+Burundi,Food supply (kcal/capita/day),Sugar beet,0
+Burundi,Food supply (kcal/capita/day),Sugar cane,0
+Burundi,Food supply (kcal/capita/day),Sugar non-centrifugal,0
+Burundi,Food supply (kcal/capita/day),Sunflower seed,0
+Burundi,Food supply (kcal/capita/day),Sunflowerseed Oil,0
+Burundi,Food supply (kcal/capita/day),Sweet potatoes,234
+Burundi,Food supply (kcal/capita/day),"Sweeteners, Other",0
+Burundi,Food supply (kcal/capita/day),Tea (including mate),0
+Burundi,Food supply (kcal/capita/day),Tomatoes and products,0
+Burundi,Food supply (kcal/capita/day),"Vegetables, Other",29
+Burundi,Food supply (kcal/capita/day),Wheat and products,37
+Burundi,Food supply (kcal/capita/day),Wine,0
+Burundi,Food supply (kcal/capita/day),Yams,2
+Burundi,Food supply (kcal/capita/day),"Aquatic Products, Other",0
+Burundi,Food supply (kcal/capita/day),Eggs,1
+Burundi,Food supply (kcal/capita/day),Milk - Excluding Butter,11
+Burundi,Food supply (kcal/capita/day),Miscellaneous,0
+Burundi,Food supply (kcal/capita/day),Offals,2
+Burundi,Food supply (kcal/capita/day),Treenuts,0
+Comoros,Food supply (kcal/capita/day),"Alcohol, Non-Food",0
+Comoros,Food supply (kcal/capita/day),Apples and products,0
+Comoros,Food supply (kcal/capita/day),"Aquatic Animals, Others",0
+Comoros,Food supply (kcal/capita/day),Aquatic Plants,0
+Comoros,Food supply (kcal/capita/day),Bananas,58
+Comoros,Food supply (kcal/capita/day),Barley and products,16
+Comoros,Food supply (kcal/capita/day),Beans,108
+Comoros,Food supply (kcal/capita/day),Beer,21
+Comoros,Food supply (kcal/capita/day),"Beverages, Alcoholic",0
+Comoros,Food supply (kcal/capita/day),"Beverages, Fermented",36
+Comoros,Food supply (kcal/capita/day),Bovine Meat,26
+Comoros,Food supply (kcal/capita/day),"Butter, Ghee",0
+Comoros,Food supply (kcal/capita/day),Cassava and products,329
+Comoros,Food supply (kcal/capita/day),Cephalopods,0
+Comoros,Food supply (kcal/capita/day),"Cereals, Other",0
+Comoros,Food supply (kcal/capita/day),"Citrus, Other",0
+Comoros,Food supply (kcal/capita/day),Cloves,0
+Comoros,Food supply (kcal/capita/day),Cocoa Beans and products,2
+Comoros,Food supply (kcal/capita/day),Coconut Oil,1
+Comoros,Food supply (kcal/capita/day),Coconuts - Incl Copra,0
+Comoros,Food supply (kcal/capita/day),Coffee and products,1
+Comoros,Food supply (kcal/capita/day),Cottonseed,0
+Comoros,Food supply (kcal/capita/day),Cottonseed Oil,16
+Comoros,Food supply (kcal/capita/day),Cream,0
+Comoros,Food supply (kcal/capita/day),Crustaceans,1
+Comoros,Food supply (kcal/capita/day),Dates,0
+Comoros,Food supply (kcal/capita/day),Demersal Fish,1
+Comoros,Food supply (kcal/capita/day),"Fats, Animals, Raw",6
+Comoros,Food supply (kcal/capita/day),"Fish, Body Oil",0
+Comoros,Food supply (kcal/capita/day),"Fish, Liver Oil",0
+Comoros,Food supply (kcal/capita/day),Freshwater Fish,7
+Comoros,Food supply (kcal/capita/day),"Fruits, Other",9
+Comoros,Food supply (kcal/capita/day),Grapefruit and products,0
+Comoros,Food supply (kcal/capita/day),Grapes and products (excl wine),0
+Comoros,Food supply (kcal/capita/day),Groundnut Oil,22
+Comoros,Food supply (kcal/capita/day),Groundnuts (Shelled Eq),21
+Comoros,Food supply (kcal/capita/day),Honey,2
+Comoros,Food supply (kcal/capita/day),"Lemons, Limes and products",0
+Comoros,Food supply (kcal/capita/day),Maize and products,305
+Comoros,Food supply (kcal/capita/day),Maize Germ Oil,0
+Comoros,Food supply (kcal/capita/day),"Marine Fish, Other",2
+Comoros,Food supply (kcal/capita/day),"Meat, Aquatic Mammals",0
+Comoros,Food supply (kcal/capita/day),"Meat, Other",10
+Comoros,Food supply (kcal/capita/day),Millet and products,19
+Comoros,Food supply (kcal/capita/day),"Molluscs, Other",0
+Comoros,Food supply (kcal/capita/day),Mutton & Goat Meat,8
+Comoros,Food supply (kcal/capita/day),Oats,0
+Comoros,Food supply (kcal/capita/day),"Oilcrops Oil, Other",5
+Comoros,Food supply (kcal/capita/day),"Oilcrops, Other",24
+Comoros,Food supply (kcal/capita/day),Olive Oil,0
+Comoros,Food supply (kcal/capita/day),Olives (including preserved),0
+Comoros,Food supply (kcal/capita/day),Onions,6
+Comoros,Food supply (kcal/capita/day),"Oranges, Mandarines",0
+Comoros,Food supply (kcal/capita/day),Palm kernels,1
+Comoros,Food supply (kcal/capita/day),Palm Oil,120
+Comoros,Food supply (kcal/capita/day),Palmkernel Oil,10
+Comoros,Food supply (kcal/capita/day),Peas,1
+Comoros,Food supply (kcal/capita/day),Pelagic Fish,15
+Comoros,Food supply (kcal/capita/day),Pepper,0
+Comoros,Food supply (kcal/capita/day),Pigmeat,8
+Comoros,Food supply (kcal/capita/day),Pimento,8
+Comoros,Food supply (kcal/capita/day),Pineapples and products,2
+Comoros,Food supply (kcal/capita/day),Plantains,153
+Comoros,Food supply (kcal/capita/day),Potatoes and products,8
+Comoros,Food supply (kcal/capita/day),Poultry Meat,6
+Comoros,Food supply (kcal/capita/day),"Pulses, Other and products",71
+Comoros,Food supply (kcal/capita/day),Rape and Mustard Oil,0
+Comoros,Food supply (kcal/capita/day),Rape and Mustardseed,0
+Comoros,Food supply (kcal/capita/day),Rice (Milled Equivalent),304
+Comoros,Food supply (kcal/capita/day),Ricebran Oil,0
+Comoros,Food supply (kcal/capita/day),"Roots, Other",54
+Comoros,Food supply (kcal/capita/day),Rye and products,0
+Comoros,Food supply (kcal/capita/day),Sesame seed,2
+Comoros,Food supply (kcal/capita/day),Sesameseed Oil,0
+Comoros,Food supply (kcal/capita/day),Sorghum and products,208
+Comoros,Food supply (kcal/capita/day),Soyabean Oil,3
+Comoros,Food supply (kcal/capita/day),Soyabeans,4
+Comoros,Food supply (kcal/capita/day),"Spices, Other",6
+Comoros,Food supply (kcal/capita/day),Sugar (Raw Equivalent),86
+Comoros,Food supply (kcal/capita/day),Sugar beet,0
+Comoros,Food supply (kcal/capita/day),Sugar cane,17
+Comoros,Food supply (kcal/capita/day),Sugar non-centrifugal,0
+Comoros,Food supply (kcal/capita/day),Sunflower seed,0
+Comoros,Food supply (kcal/capita/day),Sunflowerseed Oil,1
+Comoros,Food supply (kcal/capita/day),Sweet potatoes,28
+Comoros,Food supply (kcal/capita/day),"Sweeteners, Other",1
+Comoros,Food supply (kcal/capita/day),Tea (including mate),0
+Comoros,Food supply (kcal/capita/day),Tomatoes and products,15
+Comoros,Food supply (kcal/capita/day),"Vegetables, Other",39
+Comoros,Food supply (kcal/capita/day),Wheat and products,141
+Comoros,Food supply (kcal/capita/day),Wine,1
+Comoros,Food supply (kcal/capita/day),Yams,34
+Comoros,Food supply (kcal/capita/day),"Aquatic Products, Other",0
+Comoros,Food supply (kcal/capita/day),Eggs,2
+Comoros,Food supply (kcal/capita/day),Milk - Excluding Butter,26
+Comoros,Food supply (kcal/capita/day),Miscellaneous,2
+Comoros,Food supply (kcal/capita/day),Offals,4
+Comoros,Food supply (kcal/capita/day),Treenuts,16
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Alcohol, Non-Food",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Apples and products,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Aquatic Animals, Others",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Aquatic Plants,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Bananas,8
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Barley and products,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Beans,16
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Beer,6
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Beverages, Alcoholic",55
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Beverages, Fermented",17
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Bovine Meat,2
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Butter, Ghee",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Cassava and products,677
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Cephalopods,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Cereals, Other",1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Citrus, Other",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Cloves,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Cocoa Beans and products,1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Coconut Oil,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Coconuts - Incl Copra,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Coffee and products,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Cottonseed,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Cottonseed Oil,1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Cream,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Crustaceans,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Dates,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Demersal Fish,1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Fats, Animals, Raw",1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Fish, Body Oil",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Fish, Liver Oil",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Freshwater Fish,7
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Fruits, Other",8
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Grapefruit and products,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Grapes and products (excl wine),0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Groundnut Oil,10
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Groundnuts (Shelled Eq),38
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Honey,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Lemons, Limes and products",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Maize and products,193
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Maize Germ Oil,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Marine Fish, Other",1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Meat, Aquatic Mammals",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Meat, Other",7
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Millet and products,3
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Molluscs, Other",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Mutton & Goat Meat,2
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Oats,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Oilcrops Oil, Other",25
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Oilcrops, Other",14
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Olive Oil,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Olives (including preserved),0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Onions,1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Oranges, Mandarines",2
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Palm kernels,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Palm Oil,98
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Palmkernel Oil,9
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Peas,2
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Pelagic Fish,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Pepper,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Pigmeat,3
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Pimento,4
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Pineapples and products,2
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Plantains,43
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Potatoes and products,3
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Poultry Meat,4
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Pulses, Other and products",13
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Rape and Mustard Oil,3
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Rape and Mustardseed,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Rice (Milled Equivalent),60
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Ricebran Oil,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Roots, Other",26
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Rye and products,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sesame seed,1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sesameseed Oil,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sorghum and products,1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Soyabean Oil,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Soyabeans,10
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Spices, Other",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sugar (Raw Equivalent),39
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sugar beet,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sugar cane,7
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sugar non-centrifugal,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sunflower seed,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sunflowerseed Oil,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Sweet potatoes,10
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Sweeteners, Other",1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Tea (including mate),0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Tomatoes and products,1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Vegetables, Other",20
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Wheat and products,54
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Wine,207
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Yams,3
+Democratic Republic of the Congo,Food supply (kcal/capita/day),"Aquatic Products, Other",0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Eggs,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Milk - Excluding Butter,4
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Miscellaneous,0
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Offals,1
+Democratic Republic of the Congo,Food supply (kcal/capita/day),Treenuts,0
+Eritrea,Food supply (kcal/capita/day),"Alcohol, Non-Food",0
+Eritrea,Food supply (kcal/capita/day),Apples and products,0
+Eritrea,Food supply (kcal/capita/day),"Aquatic Animals, Others",0
+Eritrea,Food supply (kcal/capita/day),Aquatic Plants,0
+Eritrea,Food supply (kcal/capita/day),Bananas,0
+Eritrea,Food supply (kcal/capita/day),Barley and products,90
+Eritrea,Food supply (kcal/capita/day),Beans,0
+Eritrea,Food supply (kcal/capita/day),Beer,4
+Eritrea,Food supply (kcal/capita/day),"Beverages, Alcoholic",0
+Eritrea,Food supply (kcal/capita/day),"Beverages, Fermented",2
+Eritrea,Food supply (kcal/capita/day),Bovine Meat,28
+Eritrea,Food supply (kcal/capita/day),"Butter, Ghee",6
+Eritrea,Food supply (kcal/capita/day),Cassava and products,0
+Eritrea,Food supply (kcal/capita/day),Cephalopods,0
+Eritrea,Food supply (kcal/capita/day),"Cereals, Other",120
+Eritrea,Food supply (kcal/capita/day),"Citrus, Other",0
+Eritrea,Food supply (kcal/capita/day),Cloves,0
+Eritrea,Food supply (kcal/capita/day),Cocoa Beans and products,0
+Eritrea,Food supply (kcal/capita/day),Coconut Oil,0
+Eritrea,Food supply (kcal/capita/day),Coconuts - Incl Copra,0
+Eritrea,Food supply (kcal/capita/day),Coffee and products,0
+Eritrea,Food supply (kcal/capita/day),Cottonseed,0
+Eritrea,Food supply (kcal/capita/day),Cottonseed Oil,0
+Eritrea,Food supply (kcal/capita/day),Cream,0
+Eritrea,Food supply (kcal/capita/day),Crustaceans,0
+Eritrea,Food supply (kcal/capita/day),Dates,0
+Eritrea,Food supply (kcal/capita/day),Demersal Fish,0
+Eritrea,Food supply (kcal/capita/day),"Fats, Animals, Raw",7
+Eritrea,Food supply (kcal/capita/day),"Fish, Body Oil",0
+Eritrea,Food supply (kcal/capita/day),"Fish, Liver Oil",0
+Eritrea,Food supply (kcal/capita/day),Freshwater Fish,0
+Eritrea,Food supply (kcal/capita/day),"Fruits, Other",1
+Eritrea,Food supply (kcal/capita/day),Grapefruit and products,0
+Eritrea,Food supply (kcal/capita/day),Grapes and products (excl wine),0
+Eritrea,Food supply (kcal/capita/day),Groundnut Oil,0
+Eritrea,Food supply (kcal/capita/day),Groundnuts (Shelled Eq),2
+Eritrea,Food supply (kcal/capita/day),Honey,0
+Eritrea,Food supply (kcal/capita/day),"Lemons, Limes and products",0
+Eritrea,Food supply (kcal/capita/day),Maize and products,32
+Eritrea,Food supply (kcal/capita/day),Maize Germ Oil,0
+Eritrea,Food supply (kcal/capita/day),"Marine Fish, Other",0
+Eritrea,Food supply (kcal/capita/day),"Meat, Aquatic Mammals",0
+Eritrea,Food supply (kcal/capita/day),"Meat, Other",2
+Eritrea,Food supply (kcal/capita/day),Millet and products,22
+Eritrea,Food supply (kcal/capita/day),"Molluscs, Other",0
+Eritrea,Food supply (kcal/capita/day),Mutton & Goat Meat,13
+Eritrea,Food supply (kcal/capita/day),Oats,0
+Eritrea,Food supply (kcal/capita/day),"Oilcrops Oil, Other",19
+Eritrea,Food supply (kcal/capita/day),"Oilcrops, Other",0
+Eritrea,Food supply (kcal/capita/day),Olive Oil,0
+Eritrea,Food supply (kcal/capita/day),Olives (including preserved),0
+Eritrea,Food supply (kcal/capita/day),Onions,0
+Eritrea,Food supply (kcal/capita/day),"Oranges, Mandarines",0
+Eritrea,Food supply (kcal/capita/day),Palm kernels,0
+Eritrea,Food supply (kcal/capita/day),Palm Oil,0
+Eritrea,Food supply (kcal/capita/day),Palmkernel Oil,0
+Eritrea,Food supply (kcal/capita/day),Peas,3
+Eritrea,Food supply (kcal/capita/day),Pelagic Fish,1
+Eritrea,Food supply (kcal/capita/day),Pepper,0
+Eritrea,Food supply (kcal/capita/day),Pigmeat,0
+Eritrea,Food supply (kcal/capita/day),Pimento,0
+Eritrea,Food supply (kcal/capita/day),Pineapples and products,0
+Eritrea,Food supply (kcal/capita/day),Plantains,0
+Eritrea,Food supply (kcal/capita/day),Potatoes and products,0
+Eritrea,Food supply (kcal/capita/day),Poultry Meat,1
+Eritrea,Food supply (kcal/capita/day),"Pulses, Other and products",68
+Eritrea,Food supply (kcal/capita/day),Rape and Mustard Oil,0
+Eritrea,Food supply (kcal/capita/day),Rape and Mustardseed,0
+Eritrea,Food supply (kcal/capita/day),Rice (Milled Equivalent),1
+Eritrea,Food supply (kcal/capita/day),Ricebran Oil,0
+Eritrea,Food supply (kcal/capita/day),"Roots, Other",33
+Eritrea,Food supply (kcal/capita/day),Rye and products,0
+Eritrea,Food supply (kcal/capita/day),Sesame seed,1
+Eritrea,Food supply (kcal/capita/day),Sesameseed Oil,3
+Eritrea,Food supply (kcal/capita/day),Sorghum and products,621
+Eritrea,Food supply (kcal/capita/day),Soyabean Oil,5
+Eritrea,Food supply (kcal/capita/day),Soyabeans,0
+Eritrea,Food supply (kcal/capita/day),"Spices, Other",1
+Eritrea,Food supply (kcal/capita/day),Sugar (Raw Equivalent),60
+Eritrea,Food supply (kcal/capita/day),Sugar beet,0
+Eritrea,Food supply (kcal/capita/day),Sugar cane,0
+Eritrea,Food supply (kcal/capita/day),Sugar non-centrifugal,0
+Eritrea,Food supply (kcal/capita/day),Sunflower seed,0
+Eritrea,Food supply (kcal/capita/day),Sunflowerseed Oil,14
+Eritrea,Food supply (kcal/capita/day),Sweet potatoes,0
+Eritrea,Food supply (kcal/capita/day),"Sweeteners, Other",0
+Eritrea,Food supply (kcal/capita/day),Tea (including mate),0
+Eritrea,Food supply (kcal/capita/day),Tomatoes and products,1
+Eritrea,Food supply (kcal/capita/day),"Vegetables, Other",5
+Eritrea,Food supply (kcal/capita/day),Wheat and products,424
+Eritrea,Food supply (kcal/capita/day),Wine,0
+Eritrea,Food supply (kcal/capita/day),Yams,0
+Eritrea,Food supply (kcal/capita/day),"Aquatic Products, Other",0
+Eritrea,Food supply (kcal/capita/day),Eggs,1
+Eritrea,Food supply (kcal/capita/day),Milk - Excluding Butter,43
+Eritrea,Food supply (kcal/capita/day),Miscellaneous,0
+Eritrea,Food supply (kcal/capita/day),Offals,5
+Eritrea,Food supply (kcal/capita/day),Treenuts,0
+Seychelles,Food supply (kcal/capita/day),"Alcohol, Non-Food",0
+Seychelles,Food supply (kcal/capita/day),Apples and products,8
+Seychelles,Food supply (kcal/capita/day),"Aquatic Animals, Others",0
+Seychelles,Food supply (kcal/capita/day),Aquatic Plants,0
+Seychelles,Food supply (kcal/capita/day),Bananas,28
+Seychelles,Food supply (kcal/capita/day),Barley and products,6
+Seychelles,Food supply (kcal/capita/day),Beans,8
+Seychelles,Food supply (kcal/capita/day),Beer,42
+Seychelles,Food supply (kcal/capita/day),"Beverages, Alcoholic",7
+Seychelles,Food supply (kcal/capita/day),"Beverages, Fermented",0
+Seychelles,Food supply (kcal/capita/day),Bovine Meat,14
+Seychelles,Food supply (kcal/capita/day),"Butter, Ghee",7
+Seychelles,Food supply (kcal/capita/day),Cassava and products,10
+Seychelles,Food supply (kcal/capita/day),Cephalopods,2
+Seychelles,Food supply (kcal/capita/day),"Cereals, Other",30
+Seychelles,Food supply (kcal/capita/day),"Citrus, Other",1
+Seychelles,Food supply (kcal/capita/day),Cloves,0
+Seychelles,Food supply (kcal/capita/day),Cocoa Beans and products,29
+Seychelles,Food supply (kcal/capita/day),Coconut Oil,4
+Seychelles,Food supply (kcal/capita/day),Coconuts - Incl Copra,91
+Seychelles,Food supply (kcal/capita/day),Coffee and products,1
+Seychelles,Food supply (kcal/capita/day),Cottonseed,0
+Seychelles,Food supply (kcal/capita/day),Cottonseed Oil,0
+Seychelles,Food supply (kcal/capita/day),Cream,7
+Seychelles,Food supply (kcal/capita/day),Crustaceans,4
+Seychelles,Food supply (kcal/capita/day),Dates,0
+Seychelles,Food supply (kcal/capita/day),Demersal Fish,20
+Seychelles,Food supply (kcal/capita/day),"Fats, Animals, Raw",12
+Seychelles,Food supply (kcal/capita/day),"Fish, Body Oil",0
+Seychelles,Food supply (kcal/capita/day),"Fish, Liver Oil",0
+Seychelles,Food supply (kcal/capita/day),Freshwater Fish,0
+Seychelles,Food supply (kcal/capita/day),"Fruits, Other",26
+Seychelles,Food supply (kcal/capita/day),Grapefruit and products,0
+Seychelles,Food supply (kcal/capita/day),Grapes and products (excl wine),1
+Seychelles,Food supply (kcal/capita/day),Groundnut Oil,3
+Seychelles,Food supply (kcal/capita/day),Groundnuts (Shelled Eq),14
+Seychelles,Food supply (kcal/capita/day),Honey,1
+Seychelles,Food supply (kcal/capita/day),"Lemons, Limes and products",0
+Seychelles,Food supply (kcal/capita/day),Maize and products,276
+Seychelles,Food supply (kcal/capita/day),Maize Germ Oil,1
+Seychelles,Food supply (kcal/capita/day),"Marine Fish, Other",23
+Seychelles,Food supply (kcal/capita/day),"Meat, Aquatic Mammals",0
+Seychelles,Food supply (kcal/capita/day),"Meat, Other",1
+Seychelles,Food supply (kcal/capita/day),Millet and products,0
+Seychelles,Food supply (kcal/capita/day),"Molluscs, Other",0
+Seychelles,Food supply (kcal/capita/day),Mutton & Goat Meat,12
+Seychelles,Food supply (kcal/capita/day),Oats,4
+Seychelles,Food supply (kcal/capita/day),"Oilcrops Oil, Other",19
+Seychelles,Food supply (kcal/capita/day),"Oilcrops, Other",0
+Seychelles,Food supply (kcal/capita/day),Olive Oil,35
+Seychelles,Food supply (kcal/capita/day),Olives (including preserved),0
+Seychelles,Food supply (kcal/capita/day),Onions,3
+Seychelles,Food supply (kcal/capita/day),"Oranges, Mandarines",7
+Seychelles,Food supply (kcal/capita/day),Palm kernels,0
+Seychelles,Food supply (kcal/capita/day),Palm Oil,0
+Seychelles,Food supply (kcal/capita/day),Palmkernel Oil,0
+Seychelles,Food supply (kcal/capita/day),Peas,0
+Seychelles,Food supply (kcal/capita/day),Pelagic Fish,59
+Seychelles,Food supply (kcal/capita/day),Pepper,0
+Seychelles,Food supply (kcal/capita/day),Pigmeat,82
+Seychelles,Food supply (kcal/capita/day),Pimento,2
+Seychelles,Food supply (kcal/capita/day),Pineapples and products,2
+Seychelles,Food supply (kcal/capita/day),Plantains,0
+Seychelles,Food supply (kcal/capita/day),Potatoes and products,65
+Seychelles,Food supply (kcal/capita/day),Poultry Meat,64
+Seychelles,Food supply (kcal/capita/day),"Pulses, Other and products",46
+Seychelles,Food supply (kcal/capita/day),Rape and Mustard Oil,0
+Seychelles,Food supply (kcal/capita/day),Rape and Mustardseed,2
+Seychelles,Food supply (kcal/capita/day),Rice (Milled Equivalent),354
+Seychelles,Food supply (kcal/capita/day),Ricebran Oil,0
+Seychelles,Food supply (kcal/capita/day),"Roots, Other",1
+Seychelles,Food supply (kcal/capita/day),Rye and products,1
+Seychelles,Food supply (kcal/capita/day),Sesame seed,0
+Seychelles,Food supply (kcal/capita/day),Sesameseed Oil,0
+Seychelles,Food supply (kcal/capita/day),Sorghum and products,0
+Seychelles,Food supply (kcal/capita/day),Soyabean Oil,0
+Seychelles,Food supply (kcal/capita/day),Soyabeans,20
+Seychelles,Food supply (kcal/capita/day),"Spices, Other",16
+Seychelles,Food supply (kcal/capita/day),Sugar (Raw Equivalent),251
+Seychelles,Food supply (kcal/capita/day),Sugar beet,0
+Seychelles,Food supply (kcal/capita/day),Sugar cane,0
+Seychelles,Food supply (kcal/capita/day),Sugar non-centrifugal,0
+Seychelles,Food supply (kcal/capita/day),Sunflower seed,0
+Seychelles,Food supply (kcal/capita/day),Sunflowerseed Oil,61
+Seychelles,Food supply (kcal/capita/day),Sweet potatoes,0
+Seychelles,Food supply (kcal/capita/day),"Sweeteners, Other",11
+Seychelles,Food supply (kcal/capita/day),Tea (including mate),2
+Seychelles,Food supply (kcal/capita/day),Tomatoes and products,14
+Seychelles,Food supply (kcal/capita/day),"Vegetables, Other",44
+Seychelles,Food supply (kcal/capita/day),Wheat and products,429
+Seychelles,Food supply (kcal/capita/day),Wine,12
+Seychelles,Food supply (kcal/capita/day),Yams,0
+Seychelles,Food supply (kcal/capita/day),"Aquatic Products, Other",0
+Seychelles,Food supply (kcal/capita/day),Eggs,32
+Seychelles,Food supply (kcal/capita/day),Milk - Excluding Butter,62
+Seychelles,Food supply (kcal/capita/day),Miscellaneous,22
+Seychelles,Food supply (kcal/capita/day),Offals,2
+Seychelles,Food supply (kcal/capita/day),Treenuts,10

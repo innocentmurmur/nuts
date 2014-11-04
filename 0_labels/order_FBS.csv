@@ -1,0 +1,402 @@
+order,FBS,countrycode
+1,Afghanistan,AFG
+2,Africa,AFRICA
+3,Albania,ALB
+4,Algeria,DZA
+5,Americas,Americas
+6,Angola,AGO
+7,Antigua and Barbuda,ATG
+8,Argentina,ARG
+9,Armenia,ARM
+10,Asia,ASIA
+11,Australia,AUS
+12,Australia & New Zealand,Australia and New Zealand
+13,Austria,AUT
+14,Azerbaijan,AZE
+15,Bahamas,BHS
+16,Bangladesh,BGD
+17,Barbados,BRB
+18,Belarus,BLR
+19,Belgium,BEL
+20,Belize,BLZ
+21,Benin,BEN
+22,Bermuda,BMU
+23,Bolivia (Plurinational State of),BOL
+24,Bosnia and Herzegovina,BIH
+25,Botswana,BWA
+26,Brazil,BRA
+27,Brunei Darussalam,BRN
+28,Bulgaria,BGR
+29,Burkina Faso,BFA
+30,Côte d'Ivoire,CIV
+31,Cabo Verde,CPV
+32,Cambodia,KHM
+33,Cameroon,CMR
+34,Canada,CAN
+35,Caribbean,CSS
+36,Central African Republic,CAF
+37,Central America,Central America
+38,Central Asia,Central Asia
+39,Chad,TCD
+40,Chile,CHL
+41,China,CHN
+42,"China, Hong Kong SAR",HKG
+43,"China, Macao SAR",MAC
+44,"China, mainland",CHN
+45,"China, Taiwan Province of",TWN
+46,Colombia,COL
+47,Congo,COG
+48,Costa Rica,CRI
+49,Croatia,HRV
+50,Cuba,CUB
+51,Cyprus,CYP
+52,Czech Republic,CZE
+53,Democratic People's Republic of Korea,PRK
+54,Denmark,DNK
+55,Djibouti,DJI
+56,Dominica,DMA
+57,Dominican Republic,DOM
+58,Eastern Africa,Eastern Africa
+59,Eastern Asia,EAS
+60,Eastern Europe,Eastern Europe
+61,Ecuador,ECU
+62,Egypt,EGY
+63,El Salvador,SLV
+64,Estonia,EST
+65,Ethiopia,ETH
+66,Europe,Europe
+67,European Union,EUU
+68,Fiji,FJI
+69,Finland,FIN
+70,France,FRA
+71,French Polynesia,PYF
+72,Gabon,GAB
+73,Gambia,GMB
+74,Georgia,GEO
+75,Germany,DEU
+76,Ghana,GHA
+77,Greece,GRC
+78,Grenada,GRD
+79,Guatemala,GTM
+80,Guinea,GIN
+81,Guinea-Bissau,GNB
+82,Guyana,GUY
+83,Haiti,HTI
+84,Honduras,HND
+85,Hungary,HUN
+86,Iceland,ISL
+87,India,IND
+88,Indonesia,IDN
+89,Iran (Islamic Republic of),IRN
+90,Iraq,IRQ
+91,Ireland,IRL
+92,Israel,ISR
+93,Italy,ITA
+94,Jamaica,JAM
+95,Japan,JPN
+96,Jordan,JOR
+97,Kazakhstan,KAZ
+98,Kenya,KEN
+99,Kiribati,KIR
+100,Kuwait,KWT
+101,Kyrgyzstan,KGZ
+102,Land Locked Developing Countries,LLDC
+103,Lao People's Democratic Republic,LAO
+104,Latvia,LVA
+105,Least Developed Countries,LDC
+106,Lebanon,LBN
+107,Lesotho,LSO
+108,Liberia,LBR
+109,Libya,LBY
+110,Lithuania,LTU
+111,Low Income Food Deficit Countries,LIFDC
+112,Luxembourg,LUX
+113,Madagascar,MDG
+114,Malawi,MWI
+115,Malaysia,MYS
+116,Maldives,MDV
+117,Mali,MLI
+118,Malta,MLT
+119,Mauritania,MRT
+120,Mauritius,MUS
+121,Melanesia,Melanesia
+122,Mexico,MEX
+123,Micronesia,FSM
+124,Middle Africa,MAFR
+125,Mongolia,MNG
+126,Montenegro,MNE
+127,Morocco,MAR
+128,Mozambique,MOZ
+129,Myanmar,MMR
+130,Namibia,NAM
+131,Nepal,NPL
+132,Net Food Importing Developing Countries,NeFoIC
+133,Netherlands,NLD
+134,New Caledonia,NCL
+135,New Zealand,NZL
+136,Nicaragua,NIC
+137,Niger,NER
+138,Nigeria,NGA
+139,Northern Africa,NAFR
+140,Northern America,NAC
+141,Northern Europe,NEUR
+142,Norway,NOR
+143,Occupied Palestinian Territory,PSE
+144,Oceania,Oceania
+145,Pakistan,PAK
+146,Panama,PAN
+147,Paraguay,PRY
+148,Peru,PER
+149,Philippines,PHL
+150,Poland,POL
+151,Polynesia,POLYN
+152,Portugal,PRT
+153,Republic of Korea,KOR
+154,Republic of Moldova,MDA
+155,Romania,ROU
+156,Russian Federation,RUS
+157,Rwanda,RWA
+158,Saint Kitts and Nevis,KNA
+159,Saint Lucia,LCA
+160,Saint Vincent and the Grenadines,VCT
+161,Samoa,WSM
+162,Sao Tome and Principe,STP
+163,Saudi Arabia,SAU
+164,Senegal,SEN
+165,Serbia,SRB
+166,Serbia and Montenegro,SRB
+167,Sierra Leone,SLE
+168,Slovakia,SVK
+169,Slovenia,SVN
+170,Small Island Developing States,SST
+171,Solomon Islands,SLB
+172,Somalia,SOM
+173,South-Eastern Asia,SouEAs
+174,South Africa,ZAF
+175,South America,SouAm
+176,Southern Africa,SouAfr
+177,Southern Asia,SouAs
+178,Southern Europe,SouEur
+179,Spain,ESP
+180,Sri Lanka,LKA
+181,Sudan (former),SDN
+182,Suriname,SUR
+183,Swaziland,SWZ
+184,Sweden,SWE
+185,Switzerland,CHE
+186,Syrian Arab Republic,SYR
+187,Tajikistan,TJK
+188,Thailand,THA
+189,The former Yugoslav Republic of Macedonia,MKD
+190,Timor-Leste,TLS
+191,Togo,TGO
+192,Trinidad and Tobago,TTO
+193,Tunisia,TUN
+194,Turkey,TUR
+195,Turkmenistan,TKM
+196,Uganda,UGA
+197,Ukraine,UKR
+198,United Arab Emirates,ARE
+199,United Kingdom,GBR
+200,United Republic of Tanzania,TZA
+201,United States of America,USA
+202,Uruguay,URY
+203,Uzbekistan,UZB
+204,Vanuatu,VUT
+205,Venezuela (Bolivarian Republic of),VEN
+206,Viet Nam,VNM
+207,Western Africa,WeAf
+208,Western Asia,WeAs
+209,Western Europe,WeEu
+210,World,WLD
+211,Yemen,YEM
+212,Zambia,ZMB
+213,Zimbabwe,ZWE
+,Seychelles,SYC
+,Burundi,BDI
+,Comoros,COM
+,Democratic Republic of the Congo,COD
+,Eritrea,ERI
+,HIGHIN,HIGHIN
+,SOTRLA,SOTRLA
+,CEEAEU,CEEAEU
+,CALACA,CALACA
+,CANAME,CANAME
+,ESEASP,ESEASP
+,SUSAAF,SUSAAF
+,SOASIA,SOASIA
+,CÃ´te d'Ivoire,CIV
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,ALA
+,,ASM
+,,ANR
+,,AND
+,,AIA
+,,ATA
+,,ARB
+,,ABW
+,,Ashm
+,,BHR
+,,BTN
+,,IOT
+,,VGB
+,,CYM
+,,CEB
+,,CHI
+,,COK
+,,CUW
+,,EAP
+,,CEA
+,,GNQ
+,,EMU
+,,ECS
+,,ECA
+,,CEU
+,,EUU
+,,FLK
+,,FRO
+,,FCS
+,,GUF
+,,ATF
+,,Gaza
+,,GRL
+,,Guadeloupe
+,,GUM
+,,GGY
+,,HMD
+,,HPC
+,,HIC
+,,NOC
+,,OEC
+,,IOA
+,,IMN
+,,JEY
+,,KOS
+,,LCN
+,,LAC
+,,LCR
+,,CLA
+,,LeDeR
+,,LeDeREC
+,,LeDeRELDR
+,,LIE
+,,LMY
+,,LIC
+,,LMC
+,,MHL
+,,Martinique
+,,Mayotte
+,,MCA
+,,Micronesia
+,,MEA
+,,MNA
+,,CME
+,,MIC
+,,MCO
+,,MSR
+,,MoDeR
+,,CYN
+,,MNP
+,,NRU
+,,ANT
+,,NIU
+,,NFK
+,,INX
+,,OED
+,,OMN
+,,OSS
+,,PSS
+,,PLW
+,,PNG
+,,PCN
+,,PRI
+,,QAT
+,,SGS
+,,SSD
+,,SHN
+,,BLM
+,,MAF
+,,SPM
+,,VCT
+,,SMR
+,,SGP
+,,SXM
+,,SOL
+,,SAS
+,,CSA
+,,SouCeAs
+,,SCE
+,,SSF
+,,SSA
+,,CAA
+,,TON
+,,TCA
+,,TUV
+,,VIR
+,,UMC
+,,VAT
+,,ESH
+,,WLF
+,,FrePol
+,,KAS
+,,StKiN
