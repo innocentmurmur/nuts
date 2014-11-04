@@ -15,29 +15,27 @@ notin<-names(pop) %in% c("LocID", "VarID", "Variant","MidPeriod","SexID","Pop_80
 pop<-pop[!notin]
 
 country.pop<-read.csv("0_labels/order_pop.csv")
+continentcode<-read.csv("0_labels/continentcode.csv")
+country.pop<-merge(country.pop,continentcode, by="countrycode")
 
 pop<-merge(pop,country.pop, by="Location")
 
 ####pop continents####
-HIGHIN.pop<-subset(pop,
-                      countrycode=="AND" | countrycode=="AUS" | countrycode=="AUT" | countrycode=="BEL" | countrycode=="BRN" | countrycode=="CAN" | countrycode=="CYP" | countrycode=="DNK" | countrycode=="FIN" | countrycode=="FRA" | countrycode=="DEU" | countrycode=="GRC" | countrycode=="GRL" | countrycode=="ISL" | countrycode=="IRL" | countrycode=="ISR" | countrycode=="ITA" | countrycode=="JPN" | countrycode=="LUX" | countrycode=="MLT" | countrycode=="NLD" | countrycode=="NZL" | countrycode=="NOR" | countrycode=="PRT" | countrycode=="KOR" | countrycode=="SGP" | countrycode=="ESP" | countrycode=="SWE" | countrycode=="CHE" | countrycode=="GBR" | countrycode=="USA")
+listcontinents<-c("CALACA","CANAME","CEEAEU","ESEASP","HIGHIN","SUSAAF","SOTRLA","SOASIA")
+HIGHIN.pop<-subset(pop, continentcode=="HIGHIN")
 HIGHIN.popsumf<-data.frame("Location"="HIGHIN", "Time"="2010", "Sex"="Female",colSums(subset(HIGHIN.pop,Sex=="Female")[4:24]))
 HIGHIN.popsumm<-data.frame("Location"="HIGHIN", "Time"="2010", "Sex"="Male",colSums(subset(HIGHIN.pop,Sex=="Male")[4:24]))
 HIGHIN.popsumb<-data.frame("Location"="HIGHIN", "Time"="2010", "Sex"="Both",colSums(subset(HIGHIN.pop,Sex=="Both")[4:24]))
-
 names(HIGHIN.popsumf)[4]<-"pop"
 names(HIGHIN.popsumm)[4]<-"pop"
 names(HIGHIN.popsumb)[4]<-"pop"
 HIGHIN.popsumf$agebracket<-row.names(HIGHIN.popsumf)
 HIGHIN.popsumm$agebracket<-row.names(HIGHIN.popsumm)
 HIGHIN.popsumb$agebracket<-row.names(HIGHIN.popsumb)
-
-
 HIGHIN.popsum<-rbind(HIGHIN.popsumf,HIGHIN.popsumm,HIGHIN.popsumb)
 HIGHIN.popsumw<-dcast(HIGHIN.popsum,Sex~agebracket,value.var="pop")
 
-SOTRLA.pop<-subset(pop,
-                      countrycode=="ARG" | countrycode=="BRA" | countrycode=="CHL" | countrycode=="PRY" | countrycode=="URY")
+SOTRLA.pop<-subset(pop, continentcode=="SOTRLA")
 SOTRLA.popsumf<-data.frame("Location"="SOTRLA", "Time"="2010", "Sex"="Female",colSums(subset(SOTRLA.pop,Sex=="Female")[4:24]))
 SOTRLA.popsumm<-data.frame("Location"="SOTRLA", "Time"="2010", "Sex"="Male",colSums(subset(SOTRLA.pop,Sex=="Male")[4:24]))
 SOTRLA.popsumb<-data.frame("Location"="SOTRLA", "Time"="2010", "Sex"="Both",colSums(subset(SOTRLA.pop,Sex=="Both")[4:24]))
@@ -54,8 +52,7 @@ SOTRLA.popsum<-rbind(SOTRLA.popsumf,SOTRLA.popsumm,SOTRLA.popsumb)
 SOTRLA.popsumw<-dcast(SOTRLA.popsum,Sex~agebracket,value.var="pop")
 
 
-CEEAEU.pop<-subset(pop,
-                      countrycode=="ALB" | countrycode=="BLR" | countrycode=="BIH" | countrycode=="BGR" | countrycode=="HRV" | countrycode=="CZE" | countrycode=="EST" | countrycode=="HUN" | countrycode=="LVA" | countrycode=="LTU" | countrycode=="MKD" | countrycode=="MDA" | countrycode=="MNE" | countrycode=="POL" | countrycode=="ROU" | countrycode=="RUS" | countrycode=="SRB" | countrycode=="SVK" | countrycode=="SVN" | countrycode=="UKR")
+CEEAEU.pop<-subset(pop, continentcode=="CEEAEU")
 CEEAEU.popsumf<-data.frame("Location"="CEEAEU", "Time"="2010", "Sex"="Female",colSums(subset(CEEAEU.pop,Sex=="Female")[4:24]))
 CEEAEU.popsumm<-data.frame("Location"="CEEAEU", "Time"="2010", "Sex"="Male",colSums(subset(CEEAEU.pop,Sex=="Male")[4:24]))
 CEEAEU.popsumb<-data.frame("Location"="CEEAEU", "Time"="2010", "Sex"="Both",colSums(subset(CEEAEU.pop,Sex=="Both")[4:24]))
@@ -72,8 +69,7 @@ CEEAEU.popsum<-rbind(CEEAEU.popsumf,CEEAEU.popsumm,CEEAEU.popsumb)
 CEEAEU.popsumw<-dcast(CEEAEU.popsum,Sex~agebracket,value.var="pop")
 
 
-CALACA.pop<-subset(pop,
-                      countrycode=="ATG" | countrycode=="BHS" | countrycode=="BRB" | countrycode=="BLZ" | countrycode=="BMU" | countrycode=="BOL" | countrycode=="VGB" | countrycode=="COL" | countrycode=="CRI" | countrycode=="CUB" | countrycode=="DMA" | countrycode=="DOM" | countrycode=="ECU" | countrycode=="SLV" | countrycode=="GRD" | countrycode=="GTM" | countrycode=="GUY" | countrycode=="HTI" | countrycode=="HND" | countrycode=="JAM" | countrycode=="MEX" | countrycode=="NIC" | countrycode=="ANT" | countrycode=="PAN" | countrycode=="PER" | countrycode=="PRI" | countrycode=="KNA" | countrycode=="LCA" | countrycode=="VCT" | countrycode=="SUR" | countrycode=="TTO" | countrycode=="VEN")
+CALACA.pop<-subset(pop, continentcode=="CALACA")
  
 CALACA.popsumf<-data.frame("Location"="CALACA", "Time"="2010", "Sex"="Female",colSums(subset(CALACA.pop,Sex=="Female")[4:24]))
 CALACA.popsumm<-data.frame("Location"="CALACA", "Time"="2010", "Sex"="Male",colSums(subset(CALACA.pop,Sex=="Male")[4:24]))
@@ -90,8 +86,7 @@ CALACA.popsumb$agebracket<-row.names(CALACA.popsumb)
 CALACA.popsum<-rbind(CALACA.popsumf,CALACA.popsumm,CALACA.popsumb)
 CALACA.popsumw<-dcast(CALACA.popsum,Sex~agebracket,value.var="pop")
 
-CANAME.pop<-subset(pop,
-                      countrycode=="DZA" | countrycode=="ARM" | countrycode=="AZE" | countrycode=="BHR" | countrycode=="EGY" | countrycode=="GEO" | countrycode=="IRN" | countrycode=="IRQ" | countrycode=="JOR" | countrycode=="KAZ" | countrycode=="KWT" | countrycode=="KGZ" | countrycode=="LBN" | countrycode=="LBY" | countrycode=="MNG" | countrycode=="MAR" | countrycode=="PSE" | countrycode=="OMN" | countrycode=="QAT" | countrycode=="SAU" | countrycode=="SYR" | countrycode=="TJK" | countrycode=="TUN" | countrycode=="TUR" | countrycode=="TKM" | countrycode=="ARE" | countrycode=="UZB" | countrycode=="YEM")
+CANAME.pop<-subset(pop, continentcode=="CANAME")
 CANAME.popsumf<-data.frame("Location"="CANAME", "Time"="2010", "Sex"="Female",colSums(subset(CANAME.pop,Sex=="Female")[4:24]))
 CANAME.popsumm<-data.frame("Location"="CANAME", "Time"="2010", "Sex"="Male",colSums(subset(CANAME.pop,Sex=="Male")[4:24]))
 CANAME.popsumb<-data.frame("Location"="CANAME", "Time"="2010", "Sex"="Both",colSums(subset(CANAME.pop,Sex=="Both")[4:24]))
@@ -107,8 +102,7 @@ CANAME.popsumb$agebracket<-row.names(CANAME.popsumb)
 CANAME.popsum<-rbind(CANAME.popsumf,CANAME.popsumm,CANAME.popsumb)
 CANAME.popsumw<-dcast(CANAME.popsum,Sex~agebracket,value.var="pop")
 
-ESEASP.pop<-subset(pop,
-                      countrycode=="KHM" | countrycode=="COK" | countrycode=="PRK" | countrycode=="FJI" | countrycode=="PYF" | countrycode=="IDN" | countrycode=="KIR" | countrycode=="LAO" | countrycode=="MYS" | countrycode=="MDV" | countrycode=="MHL" | countrycode=="FSM" | countrycode=="MMR" | countrycode=="NRU" | countrycode=="PLW" | countrycode=="PNG" | countrycode=="PHL" | countrycode=="WSM" | countrycode=="SLB" | countrycode=="LKA" | countrycode=="THA" | countrycode=="TLS" | countrycode=="TON" | countrycode=="VNM" | countrycode=="VUT")
+ESEASP.pop<-subset(pop, continentcode=="ESEASP")
 ESEASP.popsumf<-data.frame("Location"="ESEASP", "Time"="2010", "Sex"="Female",colSums(subset(ESEASP.pop,Sex=="Female")[4:24]))
 ESEASP.popsumm<-data.frame("Location"="ESEASP", "Time"="2010", "Sex"="Male",colSums(subset(ESEASP.pop,Sex=="Male")[4:24]))
 ESEASP.popsumb<-data.frame("Location"="ESEASP", "Time"="2010", "Sex"="Both",colSums(subset(ESEASP.pop,Sex=="Both")[4:24]))
@@ -124,8 +118,7 @@ ESEASP.popsumb$agebracket<-row.names(ESEASP.popsumb)
 ESEASP.popsum<-rbind(ESEASP.popsumf,ESEASP.popsumm,ESEASP.popsumb)
 ESEASP.popsumw<-dcast(ESEASP.popsum,Sex~agebracket,value.var="pop")
 
-SUSAAF.pop<-subset(pop,
-                      countrycode=="AGO" | countrycode=="BWA" | countrycode=="BFA" | countrycode=="BUR" | countrycode=="CMR" | countrycode=="CPV" | countrycode=="CAF" | countrycode=="TCD" | countrycode=="COM" | countrycode=="COG" | countrycode=="CIV" | countrycode=="COD" | countrycode=="DJI" | countrycode=="ERI" | countrycode=="ETH" | countrycode=="GNQ" | countrycode=="GAB" | countrycode=="GMB" | countrycode=="GHA" | countrycode=="GIN" | countrycode=="GNB" | countrycode=="LSO" | countrycode=="LBR" | countrycode=="KEN" | countrycode=="MDG" | countrycode=="MWI" | countrycode=="MLI" | countrycode=="MRT" | countrycode=="MUS" | countrycode=="MOZ" | countrycode=="NAM" | countrycode=="NER" | countrycode=="NGA" | countrycode=="RWA" | countrycode=="STP" | countrycode=="SEN" | countrycode=="SYC" | countrycode=="SLE" | countrycode=="SOM" | countrycode=="ZAF" | countrycode=="SDN" | countrycode=="SWZ" | countrycode=="TGO" | countrycode=="UGA" | countrycode=="TZA" | countrycode=="ZMB" | countrycode=="ZWE")
+SUSAAF.pop<-subset(pop, continentcode=="SUSAAF")
 SUSAAF.popsumf<-data.frame("Location"="SUSAAF", "Time"="2010", "Sex"="Female",colSums(subset(SUSAAF.pop,Sex=="Female")[4:24]))
 SUSAAF.popsumm<-data.frame("Location"="SUSAAF", "Time"="2010", "Sex"="Male",colSums(subset(SUSAAF.pop,Sex=="Male")[4:24]))
 SUSAAF.popsumb<-data.frame("Location"="SUSAAF", "Time"="2010", "Sex"="Both",colSums(subset(SUSAAF.pop,Sex=="Both")[4:24]))
@@ -141,8 +134,7 @@ SUSAAF.popsumb$agebracket<-row.names(SUSAAF.popsumb)
 SUSAAF.popsum<-rbind(SUSAAF.popsumf,SUSAAF.popsumm,SUSAAF.popsumb)
 SUSAAF.popsumw<-dcast(SUSAAF.popsum,Sex~agebracket,value.var="pop")
 
-SOASIA.pop<-subset(pop,
-                      countrycode=="AFG" | countrycode=="BGD" | countrycode=="BTN" | countrycode=="NPL" | countrycode=="PAK")
+SOASIA.pop<-subset(pop, continentcode=="SOASIA")
 SOASIA.popsumf<-data.frame("Location"="SOASIA", "Time"="2010", "Sex"="Female",colSums(subset(SOASIA.pop,Sex=="Female")[4:24]))
 SOASIA.popsumm<-data.frame("Location"="SOASIA", "Time"="2010", "Sex"="Male",colSums(subset(SOASIA.pop,Sex=="Male")[4:24]))
 SOASIA.popsumb<-data.frame("Location"="SOASIA", "Time"="2010", "Sex"="Both",colSums(subset(SOASIA.pop,Sex=="Both")[4:24]))
@@ -185,135 +177,24 @@ View(popsum)
 
 
 
+###normal programming####
 
-
-pop<-pop[,c(26,3:24)]
-names(pop)
+pop<-pop[,c(25,3:24)]
+#names(pop)[names(pop)=="countrycode.x"]<-"countrycode"
 names(popsum)
 pop<-rbind(pop,popsum)
 
-View(pop)
+#View(pop)
 
 
-
-
-
-
-
-
-bothpop<-subset(pop,Sex=="Both")
-# names(bothpop)
-# bothpop$sum<-sum(bothpop[1:236,1:21])
-# 
-# View(pop)
-# View(bothpop)
 long<-melt(bothpop)
 names(long)
-longpop<-melt(pop)
-
 
 totalpop<-data.frame(rowsum(long$value,long$countrycode))
 
 names(totalpop)[1]<-"total_population"
 totalpop$countrycode<-row.names(totalpop)
-View(totalpop)
-
-#totalpop[4:25]<-totalpop[1]
-#forgot i'd done that.... is it still important?
-
-girlsLONG<-subset(longpop,Sex=="Female")
-boysLONG<-subset(longpop,Sex=="Male")
-girls<-subset(pop,Sex=="Female")
-
-for(rownum in 1:length(girls[,23]))
-{girls$adults[rownum]<-sum(girls[rownum,7:23])}
-
-boys<-subset(pop,Sex=="Male")
-for(rownum in 1:length(boys[,23]))
-{boys$adults[rownum]<-sum(boys[rownum,7:23])}
-
-
-#Fraction of total population in each category: might be useful for something, but not useful right now
-boys.total<-data.frame("total"=with(boysLONG, tapply(value,countrycode, sum)))
-girls.total<-data.frame("total"=with(girlsLONG, tapply(value,countrycode, sum)))
-
-
-midpoint<-data.frame(2,7,12,17,22,27,32,37,42,47,52,57,62,67,72,77,82,87,92,97,102)
-
-boys.fraction<-boys
-for(rownum in 1:length(boys.fraction[,23]))
-{boys.fraction[rownum,3:23]<-boys[rownum,3:23]/boys.total[rownum,1]*midpoint}
-
-girls.fraction<-girls
-for(rownum in 1:length(girls.fraction[,23]))
-{girls.fraction[rownum,3:23]<-girls[rownum,3:23]/girls.total[rownum,1]*midpoint}
-
-girls.fraction<-girls.fraction[1:23]
-
-for(rownum in 1:length(girls.fraction[,23]))
-{girls.fraction$adults[rownum]<-sum(girls.fraction[rownum,7:23])}
-# 
-# girls.fraction<-girls/totalpop
-# boys.fraction<-boys/totalpop
-# girls.fraction[1:3]<-girls[1:3]
-# boys.fraction[1:3]<-boys[1:3]
-# girls.weighted<-girls.fraction[1:3]
-# girls.weighted["avgage"]<-  
-#     girls.fraction[4]*2+
-#     girls.fraction[5]*7+
-#     girls.fraction[6]*12+
-#     girls.fraction[7]*17+
-#     girls.fraction[8]*22+
-#     girls.fraction[9]*27+
-#     girls.fraction[10]*32+
-#     girls.fraction[11]*37+
-#     girls.fraction[12]*42+
-#     girls.fraction[13]*47+
-#     girls.fraction[14]*52+
-#     girls.fraction[15]*57+
-#     girls.fraction[16]*62+
-#     girls.fraction[17]*67+
-#     girls.fraction[18]*72+
-#     girls.fraction[19]*77+
-#     girls.fraction[20]*82+
-#     girls.fraction[21]*87+
-#     girls.fraction[22]*92+
-#     girls.fraction[23]*97+
-#     girls.fraction[24]*102
-# 
-# 
-# boys.weighted<-boys.fraction[1:3]
-# boys.weighted["avgage"]<-  
-#   boys.fraction[4]*2+
-#   boys.fraction[5]*7+
-#   boys.fraction[6]*12+
-#   boys.fraction[7]*17+
-#   boys.fraction[8]*22+
-#   boys.fraction[9]*27+
-#   boys.fraction[10]*32+
-#   boys.fraction[11]*37+
-#   boys.fraction[12]*42+
-#   boys.fraction[13]*47+
-#   boys.fraction[14]*52+
-#   boys.fraction[15]*57+
-#   boys.fraction[16]*62+
-#   boys.fraction[17]*67+
-#   boys.fraction[18]*72+
-#   boys.fraction[19]*77+
-#   boys.fraction[20]*82+
-#   boys.fraction[21]*87+
-#   boys.fraction[22]*92+
-#   boys.fraction[23]*97+
-#   boys.fraction[24]*102
-# 
-# av.age<-boys.weighted+girls.weighted
-# av.age[1:3]<-boys.fraction[1:3]
-# 
-# View(av.age)
-# #didn't quite work yet.
-# write.csv(boys,"boys.csv")
-# write.csv(girls,"girls.csv")
-# write.csv(totalpop,"totalpop.csv")
+#View(totalpop)
 
 #######ideal weight####
 #children under 5http://www.who.int/childgrowth/standards/en/e
@@ -350,56 +231,37 @@ birthrate_1000<-read.csv("4_EAR/inputs/breastfeeding_pregnant/HNP_birthrateper10
 birthrate_1000$extra_protein_Preg<-birthrate_1000$BR_2011*0.77*EAR_add_preg/1000
 
 birthrate_1000<-birthrate_1000[,c("countrycode","extra_protein_Preg")]
+birthrate_1000<-merge(birthrate_1000,continentcode, by="countrycode")
 
 fbspop<-read.csv("2_countries/inputs/pop from fbs 2011.csv")
+fbspop<-merge(fbspop,continentcode, by="countrycode")
 ###pregnant continents####
 
 
-HIGHIN.fbspop<-subset(fbspop,
-                      countrycode=="AND" | countrycode=="AUS" | countrycode=="AUT" | countrycode=="BEL" | countrycode=="BRN" | countrycode=="CAN" | countrycode=="CYP" | countrycode=="DNK" | countrycode=="FIN" | countrycode=="FRA" | countrycode=="DEU" | countrycode=="GRC" | countrycode=="GRL" | countrycode=="ISL" | countrycode=="IRL" | countrycode=="ISR" | countrycode=="ITA" | countrycode=="JPN" | countrycode=="LUX" | countrycode=="MLT" | countrycode=="NLD" | countrycode=="NZL" | countrycode=="NOR" | countrycode=="PRT" | countrycode=="KOR" | countrycode=="SGP" | countrycode=="ESP" | countrycode=="SWE" | countrycode=="CHE" | countrycode=="GBR" | countrycode=="USA")
-HIGHIN.birthrate_1000<-subset(birthrate_1000,
-                              countrycode=="AND" | countrycode=="AUS" | countrycode=="AUT" | countrycode=="BEL" | countrycode=="BRN" | countrycode=="CAN" | countrycode=="CYP" | countrycode=="DNK" | countrycode=="FIN" | countrycode=="FRA" | countrycode=="DEU" | countrycode=="GRC" | countrycode=="GRL" | countrycode=="ISL" | countrycode=="IRL" | countrycode=="ISR" | countrycode=="ITA" | countrycode=="JPN" | countrycode=="LUX" | countrycode=="MLT" | countrycode=="NLD" | countrycode=="NZL" | countrycode=="NOR" | countrycode=="PRT" | countrycode=="KOR" | countrycode=="SGP" | countrycode=="ESP" | countrycode=="SWE" | countrycode=="CHE" | countrycode=="GBR" | countrycode=="USA")
+HIGHIN.fbspop<-subset(fbspop, continentcode=="HIGHIN")
+HIGHIN.birthrate_1000<-subset(birthrate_1000, continentcode=="HIGHIN")
+
+SOTRLA.fbspop<-subset(fbspop,continentcode=="SOTRLA")
+SOTRLA.birthrate_1000<-subset(birthrate_1000,continentcode=="SOTRLA")
+
+CEEAEU.fbspop<-subset(fbspop,continentcode=="CEEAEU")
+CEEAEU.birthrate_1000<-subset(birthrate_1000,continentcode=="CEEAEU")
 
 
+CALACA.fbspop<-subset(fbspop,continentcode=="CALACA")
+CALACA.birthrate_1000<-subset(birthrate_1000,continentcode=="CALACA")
 
-SOTRLA.fbspop<-subset(fbspop,
-                      countrycode=="ARG" | countrycode=="BRA" | countrycode=="CHL" | countrycode=="PRY" | countrycode=="URY")
-SOTRLA.birthrate_1000<-subset(birthrate_1000,
-                              countrycode=="ARG" | countrycode=="BRA" | countrycode=="CHL" | countrycode=="PRY" | countrycode=="URY")
+CANAME.fbspop<-subset(fbspop,continentcode=="CANAME")
+CANAME.birthrate_1000<-subset(birthrate_1000,continentcode=="CANAME")
 
+ESEASP.fbspop<-subset(fbspop,continentcode=="ESEASP")
+ESEASP.birthrate_1000<-subset(birthrate_1000,continentcode=="ESEASP")
 
-CEEAEU.fbspop<-subset(fbspop,
-                      countrycode=="ALB" | countrycode=="BLR" | countrycode=="BIH" | countrycode=="BGR" | countrycode=="HRV" | countrycode=="CZE" | countrycode=="EST" | countrycode=="HUN" | countrycode=="LVA" | countrycode=="LTU" | countrycode=="MKD" | countrycode=="MDA" | countrycode=="MNE" | countrycode=="POL" | countrycode=="ROU" | countrycode=="RUS" | countrycode=="SRB" | countrycode=="SVK" | countrycode=="SVN" | countrycode=="UKR")
-CEEAEU.birthrate_1000<-subset(birthrate_1000,
-                              countrycode=="ALB" | countrycode=="BLR" | countrycode=="BIH" | countrycode=="BGR" | countrycode=="HRV" | countrycode=="CZE" | countrycode=="EST" | countrycode=="HUN" | countrycode=="LVA" | countrycode=="LTU" | countrycode=="MKD" | countrycode=="MDA" | countrycode=="MNE" | countrycode=="POL" | countrycode=="ROU" | countrycode=="RUS" | countrycode=="SRB" | countrycode=="SVK" | countrycode=="SVN" | countrycode=="UKR")
+SUSAAF.fbspop<-subset(fbspop, continentcode=="SUSAAF")
+SUSAAF.birthrate_1000<-subset(birthrate_1000,continentcode=="SUSAAF")
 
-
-CALACA.fbspop<-subset(fbspop,
-                      countrycode=="ATG" | countrycode=="BHS" | countrycode=="BRB" | countrycode=="BLZ" | countrycode=="BMU" | countrycode=="BOL" | countrycode=="VGB" | countrycode=="COL" | countrycode=="CRI" | countrycode=="CUB" | countrycode=="DMA" | countrycode=="DOM" | countrycode=="ECU" | countrycode=="SLV" | countrycode=="GRD" | countrycode=="GTM" | countrycode=="GUY" | countrycode=="HTI" | countrycode=="HND" | countrycode=="JAM" | countrycode=="MEX" | countrycode=="NIC" | countrycode=="ANT" | countrycode=="PAN" | countrycode=="PER" | countrycode=="PRI" | countrycode=="KNA" | countrycode=="LCA" | countrycode=="VCT" | countrycode=="SUR" | countrycode=="TTO" | countrycode=="VEN")
-CALACA.birthrate_1000<-subset(birthrate_1000,
-                              countrycode=="ATG" | countrycode=="BHS" | countrycode=="BRB" | countrycode=="BLZ" | countrycode=="BMU" | countrycode=="BOL" | countrycode=="VGB" | countrycode=="COL" | countrycode=="CRI" | countrycode=="CUB" | countrycode=="DMA" | countrycode=="DOM" | countrycode=="ECU" | countrycode=="SLV" | countrycode=="GRD" | countrycode=="GTM" | countrycode=="GUY" | countrycode=="HTI" | countrycode=="HND" | countrycode=="JAM" | countrycode=="MEX" | countrycode=="NIC" | countrycode=="ANT" | countrycode=="PAN" | countrycode=="PER" | countrycode=="PRI" | countrycode=="KNA" | countrycode=="LCA" | countrycode=="VCT" | countrycode=="SUR" | countrycode=="TTO" | countrycode=="VEN")
-
-CANAME.fbspop<-subset(fbspop,
-                      countrycode=="DZA" | countrycode=="ARM" | countrycode=="AZE" | countrycode=="BHR" | countrycode=="EGY" | countrycode=="GEO" | countrycode=="IRN" | countrycode=="IRQ" | countrycode=="JOR" | countrycode=="KAZ" | countrycode=="KWT" | countrycode=="KGZ" | countrycode=="LBN" | countrycode=="LBY" | countrycode=="MNG" | countrycode=="MAR" | countrycode=="PSE" | countrycode=="OMN" | countrycode=="QAT" | countrycode=="SAU" | countrycode=="SYR" | countrycode=="TJK" | countrycode=="TUN" | countrycode=="TUR" | countrycode=="TKM" | countrycode=="ARE" | countrycode=="UZB" | countrycode=="YEM")
-CANAME.birthrate_1000<-subset(birthrate_1000,
-                              countrycode=="DZA" | countrycode=="ARM" | countrycode=="AZE" | countrycode=="BHR" | countrycode=="EGY" | countrycode=="GEO" | countrycode=="IRN" | countrycode=="IRQ" | countrycode=="JOR" | countrycode=="KAZ" | countrycode=="KWT" | countrycode=="KGZ" | countrycode=="LBN" | countrycode=="LBY" | countrycode=="MNG" | countrycode=="MAR" | countrycode=="PSE" | countrycode=="OMN" | countrycode=="QAT" | countrycode=="SAU" | countrycode=="SYR" | countrycode=="TJK" | countrycode=="TUN" | countrycode=="TUR" | countrycode=="TKM" | countrycode=="ARE" | countrycode=="UZB" | countrycode=="YEM")
-
-ESEASP.fbspop<-subset(fbspop,
-                      countrycode=="KHM" | countrycode=="COK" | countrycode=="PRK" | countrycode=="FJI" | countrycode=="PYF" | countrycode=="IDN" | countrycode=="KIR" | countrycode=="LAO" | countrycode=="MYS" | countrycode=="MDV" | countrycode=="MHL" | countrycode=="FSM" | countrycode=="MMR" | countrycode=="NRU" | countrycode=="PLW" | countrycode=="PNG" | countrycode=="PHL" | countrycode=="WSM" | countrycode=="SLB" | countrycode=="LKA" | countrycode=="THA" | countrycode=="TLS" | countrycode=="TON" | countrycode=="VNM" | countrycode=="VUT")
-ESEASP.birthrate_1000<-subset(birthrate_1000,
-                              countrycode=="KHM" | countrycode=="COK" | countrycode=="PRK" | countrycode=="FJI" | countrycode=="PYF" | countrycode=="IDN" | countrycode=="KIR" | countrycode=="LAO" | countrycode=="MYS" | countrycode=="MDV" | countrycode=="MHL" | countrycode=="FSM" | countrycode=="MMR" | countrycode=="NRU" | countrycode=="PLW" | countrycode=="PNG" | countrycode=="PHL" | countrycode=="WSM" | countrycode=="SLB" | countrycode=="LKA" | countrycode=="THA" | countrycode=="TLS" | countrycode=="TON" | countrycode=="VNM" | countrycode=="VUT")
-
-SUSAAF.fbspop<-subset(fbspop,
-                      countrycode=="AGO" | countrycode=="BWA" | countrycode=="BFA" | countrycode=="BUR" | countrycode=="CMR" | countrycode=="CPV" | countrycode=="CAF" | countrycode=="TCD" | countrycode=="COM" | countrycode=="COG" | countrycode=="CIV" | countrycode=="COD" | countrycode=="DJI" | countrycode=="ERI" | countrycode=="ETH" | countrycode=="GNQ" | countrycode=="GAB" | countrycode=="GMB" | countrycode=="GHA" | countrycode=="GIN" | countrycode=="GNB" | countrycode=="LSO" | countrycode=="LBR" | countrycode=="KEN" | countrycode=="MDG" | countrycode=="MWI" | countrycode=="MLI" | countrycode=="MRT" | countrycode=="MUS" | countrycode=="MOZ" | countrycode=="NAM" | countrycode=="NER" | countrycode=="NGA" | countrycode=="RWA" | countrycode=="STP" | countrycode=="SEN" | countrycode=="SYC" | countrycode=="SLE" | countrycode=="SOM" | countrycode=="ZAF" | countrycode=="SDN" | countrycode=="SWZ" | countrycode=="TGO" | countrycode=="UGA" | countrycode=="TZA" | countrycode=="ZMB" | countrycode=="ZWE")
-SUSAAF.birthrate_1000<-subset(birthrate_1000,
-                              countrycode=="AGO" | countrycode=="BWA" | countrycode=="BFA" | countrycode=="BUR" | countrycode=="CMR" | countrycode=="CPV" | countrycode=="CAF" | countrycode=="TCD" | countrycode=="COM" | countrycode=="COG" | countrycode=="CIV" | countrycode=="COD" | countrycode=="DJI" | countrycode=="ERI" | countrycode=="ETH" | countrycode=="GNQ" | countrycode=="GAB" | countrycode=="GMB" | countrycode=="GHA" | countrycode=="GIN" | countrycode=="GNB" | countrycode=="LSO" | countrycode=="LBR" | countrycode=="KEN" | countrycode=="MDG" | countrycode=="MWI" | countrycode=="MLI" | countrycode=="MRT" | countrycode=="MUS" | countrycode=="MOZ" | countrycode=="NAM" | countrycode=="NER" | countrycode=="NGA" | countrycode=="RWA" | countrycode=="STP" | countrycode=="SEN" | countrycode=="SYC" | countrycode=="SLE" | countrycode=="SOM" | countrycode=="ZAF" | countrycode=="SDN" | countrycode=="SWZ" | countrycode=="TGO" | countrycode=="UGA" | countrycode=="TZA" | countrycode=="ZMB" | countrycode=="ZWE")
-
-SOASIA.fbspop<-subset(fbspop,
-                      countrycode=="AFG" | countrycode=="BGD" | countrycode=="BTN" | countrycode=="NPL" | countrycode=="PAK")
-SOASIA.birthrate_1000<-subset(birthrate_1000,
-                              countrycode=="AFG" | countrycode=="BGD" | countrycode=="BTN" | countrycode=="NPL" | countrycode=="PAK")
-
-
+SOASIA.fbspop<-subset(fbspop,continentcode=="SOASIA")
+SOASIA.birthrate_1000<-subset(birthrate_1000,continentcode=="SOASIA")
 
 HIGHIN.birthrate_1000<-merge(HIGHIN.birthrate_1000,HIGHIN.fbspop, by="countrycode")
 HIGHIN.totpop<-sum(HIGHIN.birthrate_1000$pop)
@@ -462,9 +324,38 @@ birthrate_1000groups<-data.frame(
                                    SUSAAF,
                                    SOASIA
                                  ))
+birthrate_1000groups$continentcode<-birthrate_1000groups$countrycode
+names(birthrate_1000groups)
+names(birthrate_1000)
+
+#make the missing cells in birthrate_100 match the values for the continents
+notincl_birthrate<-subset(birthrate_1000,is.na(birthrate_1000$extra_protein_Preg))
+incl_birthrate<-subset(birthrate_1000,!is.na(birthrate_1000$extra_protein_Preg))
+notincl_birthrate[["continentcode"]]<-gsub("_G","",notincl_birthrate[["continentcode"]])
 
 
-birthrate_1000<-rbind(birthrate_1000,birthrate_1000groups)
+for(rownum in 1:length(row.names(notincl_birthrate)))
+{for(continent in listcontinents)
+{if(notincl_birthrate[rownum,"continentcode"]==continent)
+  notincl_birthrate[rownum,"extra_protein_Preg"]<-birthrate_1000groups[birthrate_1000groups$countrycode==continent,"extra_protein_Preg"]
+}}
+
+names(birthrate_1000groups)
+
+birthrate_1000<-rbind(notincl_birthrate,incl_birthrate,birthrate_1000groups)
+birthrate_1000<-birthrate_1000[complete.cases(birthrate_1000),]
+
+chnrowsb<-which(birthrate_1000$countrycode=="CHN")
+birthrate_1000<-birthrate_1000[-(chnrowsb[2:length(chnrowsb)]),]
+#removing mainland China because we have China in its entirety and the program might get confused
+vctrowsb<-which(birthrate_1000$countrycode=="VCT")
+birthrate_1000<-birthrate_1000[-(vctrowsb[2:length(vctrowsb)]),]
+#removing one of the St Vincent and the Grenadines
+srbrowsb<-which(birthrate_1000$countrycode=="SRB")
+birthrate_1000<-birthrate_1000[-(srbrowsb[2:length(srbrowsb)]),]
+#removing one of the Serbias
+euurowsb<-which(birthrate_1000$countrycode=="EUU")
+birthrate_1000<-birthrate_1000[-(euurowsb[2:length(euurowsb)]),]
 
 ####Lactating####
 #option 1: number of breastfeeding women = number of children who are being breastfed
@@ -476,29 +367,19 @@ order_DHS<-read.csv("0_labels/order_DHS.csv")
 names(order_DHS)[3]<-"country"
 names(Breast_DHS)[1]<-"country"
 Breast_DHS<-merge(Breast_DHS,order_DHS, by="country")
-
+Breast_DHS<-merge(Breast_DHS,continentcode, by="countrycode")
 #####breast continents#####
-HIGHIN.Breast<-subset(Breast_DHS,
-                              countrycode=="AND" | countrycode=="AUS" | countrycode=="AUT" | countrycode=="BEL" | countrycode=="BRN" | countrycode=="CAN" | countrycode=="CYP" | countrycode=="DNK" | countrycode=="FIN" | countrycode=="FRA" | countrycode=="DEU" | countrycode=="GRC" | countrycode=="GRL" | countrycode=="ISL" | countrycode=="IRL" | countrycode=="ISR" | countrycode=="ITA" | countrycode=="JPN" | countrycode=="LUX" | countrycode=="MLT" | countrycode=="NLD" | countrycode=="NZL" | countrycode=="NOR" | countrycode=="PRT" | countrycode=="KOR" | countrycode=="SGP" | countrycode=="ESP" | countrycode=="SWE" | countrycode=="CHE" | countrycode=="GBR" | countrycode=="USA")
-SOTRLA.Breast<-subset(Breast_DHS,
-                              countrycode=="ARG" | countrycode=="BRA" | countrycode=="CHL" | countrycode=="PRY" | countrycode=="URY")
-CEEAEU.Breast<-subset(Breast_DHS,
-                              countrycode=="ALB" | countrycode=="BLR" | countrycode=="BIH" | countrycode=="BGR" | countrycode=="HRV" | countrycode=="CZE" | countrycode=="EST" | countrycode=="HUN" | countrycode=="LVA" | countrycode=="LTU" | countrycode=="MKD" | countrycode=="MDA" | countrycode=="MNE" | countrycode=="POL" | countrycode=="ROU" | countrycode=="RUS" | countrycode=="SRB" | countrycode=="SVK" | countrycode=="SVN" | countrycode=="UKR")
-CALACA.Breast<-subset(Breast_DHS,
-                              countrycode=="ATG" | countrycode=="BHS" | countrycode=="BRB" | countrycode=="BLZ" | countrycode=="BMU" | countrycode=="BOL" | countrycode=="VGB" | countrycode=="COL" | countrycode=="CRI" | countrycode=="CUB" | countrycode=="DMA" | countrycode=="DOM" | countrycode=="ECU" | countrycode=="SLV" | countrycode=="GRD" | countrycode=="GTM" | countrycode=="GUY" | countrycode=="HTI" | countrycode=="HND" | countrycode=="JAM" | countrycode=="MEX" | countrycode=="NIC" | countrycode=="ANT" | countrycode=="PAN" | countrycode=="PER" | countrycode=="PRI" | countrycode=="KNA" | countrycode=="LCA" | countrycode=="VCT" | countrycode=="SUR" | countrycode=="TTO" | countrycode=="VEN")
-CANAME.Breast<-subset(Breast_DHS,
-                              countrycode=="DZA" | countrycode=="ARM" | countrycode=="AZE" | countrycode=="BHR" | countrycode=="EGY" | countrycode=="GEO" | countrycode=="IRN" | countrycode=="IRQ" | countrycode=="JOR" | countrycode=="KAZ" | countrycode=="KWT" | countrycode=="KGZ" | countrycode=="LBN" | countrycode=="LBY" | countrycode=="MNG" | countrycode=="MAR" | countrycode=="PSE" | countrycode=="OMN" | countrycode=="QAT" | countrycode=="SAU" | countrycode=="SYR" | countrycode=="TJK" | countrycode=="TUN" | countrycode=="TUR" | countrycode=="TKM" | countrycode=="ARE" | countrycode=="UZB" | countrycode=="YEM")
-ESEASP.Breast<-subset(Breast_DHS,
-                              countrycode=="KHM" | countrycode=="COK" | countrycode=="PRK" | countrycode=="FJI" | countrycode=="PYF" | countrycode=="IDN" | countrycode=="KIR" | countrycode=="LAO" | countrycode=="MYS" | countrycode=="MDV" | countrycode=="MHL" | countrycode=="FSM" | countrycode=="MMR" | countrycode=="NRU" | countrycode=="PLW" | countrycode=="PNG" | countrycode=="PHL" | countrycode=="WSM" | countrycode=="SLB" | countrycode=="LKA" | countrycode=="THA" | countrycode=="TLS" | countrycode=="TON" | countrycode=="VNM" | countrycode=="VUT")
-SUSAAF.Breast<-subset(Breast_DHS,
-                              countrycode=="AGO" | countrycode=="BWA" | countrycode=="BFA" | countrycode=="BUR" | countrycode=="CMR" | countrycode=="CPV" | countrycode=="CAF" | countrycode=="TCD" | countrycode=="COM" | countrycode=="COG" | countrycode=="CIV" | countrycode=="COD" | countrycode=="DJI" | countrycode=="ERI" | countrycode=="ETH" | countrycode=="GNQ" | countrycode=="GAB" | countrycode=="GMB" | countrycode=="GHA" | countrycode=="GIN" | countrycode=="GNB" | countrycode=="LSO" | countrycode=="LBR" | countrycode=="KEN" | countrycode=="MDG" | countrycode=="MWI" | countrycode=="MLI" | countrycode=="MRT" | countrycode=="MUS" | countrycode=="MOZ" | countrycode=="NAM" | countrycode=="NER" | countrycode=="NGA" | countrycode=="RWA" | countrycode=="STP" | countrycode=="SEN" | countrycode=="SYC" | countrycode=="SLE" | countrycode=="SOM" | countrycode=="ZAF" | countrycode=="SDN" | countrycode=="SWZ" | countrycode=="TGO" | countrycode=="UGA" | countrycode=="TZA" | countrycode=="ZMB" | countrycode=="ZWE")
-SOASIA.Breast<-subset(Breast_DHS,
-                              countrycode=="AFG" | countrycode=="BGD" | countrycode=="BTN" | countrycode=="NPL" | countrycode=="PAK")
+HIGHIN.Breast<-subset(Breast_DHS, continentcode=="HIGHIN")
+SOTRLA.Breast<-subset(Breast_DHS,continentcode=="SOTRLA")
+CEEAEU.Breast<-subset(Breast_DHS,continentcode=="CEEAEU")
+CALACA.Breast<-subset(Breast_DHS,continentcode=="CALACA")
+CANAME.Breast<-subset(Breast_DHS,continentcode=="CANAME")
+ESEASP.Breast<-subset(Breast_DHS,continentcode=="ESEASP")
+SUSAAF.Breast<-subset(Breast_DHS,continentcode=="SUSAAF")
+SOASIA.Breast<-subset(Breast_DHS,continentcode=="SOASIA")
 
 HIGHIN.Breast.Ever<-data.frame("country"="HIGHIN","Year"=2011,"Indicator"="Ever breastfed","Value"=mean(c(81.9,92.3)),"countrycode"="HIGHIN","order"=149)
 HIGHIN.Breast.Dur<-data.frame("country"="HIGHIN","Year"=2011,"Indicator"="median years breastfeeding duration", "Value"=1, "countrycode"="HIGHIN","order"=149)
-
-
 #Basically, the DHS doesn't do high income countries.
 
 #But USA was 0.77 in 2006
@@ -592,6 +473,7 @@ continent.breast<-data.frame(
                      SOASIA.Breast.Ever,
                      SOASIA.Breast.Dur
                    ))
+continent.breast$continentcode<-continent.breast$countrycode
 
 
 #join them to the main spreadsheet
@@ -609,45 +491,39 @@ names(totalpop11HNP)<-c("country","demographic","population")
 babies11<-merge(babies11,countrycodeHNP, by="country")
 totalpop11HNP<-merge(totalpop11HNP,countrycodeHNP,by="country")
 
-###babies11 continents####
-HIGHIN.babies11<-subset(babies11,
-                        countrycode=="AND" | countrycode=="AUS" | countrycode=="AUT" | countrycode=="BEL" | countrycode=="BRN" | countrycode=="CAN" | countrycode=="CYP" | countrycode=="DNK" | countrycode=="FIN" | countrycode=="FRA" | countrycode=="DEU" | countrycode=="GRC" | countrycode=="GRL" | countrycode=="ISL" | countrycode=="IRL" | countrycode=="ISR" | countrycode=="ITA" | countrycode=="JPN" | countrycode=="LUX" | countrycode=="MLT" | countrycode=="NLD" | countrycode=="NZL" | countrycode=="NOR" | countrycode=="PRT" | countrycode=="KOR" | countrycode=="SGP" | countrycode=="ESP" | countrycode=="SWE" | countrycode=="CHE" | countrycode=="GBR" | countrycode=="USA")
+babies11<-merge(babies11,continentcode,by="countrycode")
+totalpop11HNP<-merge(totalpop11HNP,continentcode,by="countrycode")
 
+###babies11 continents####
+HIGHIN.babies11<-subset(babies11, continentcode=="HIGHIN")
 HIGHIN.babies11sum<-data.frame("country"="HIGHIN",  aggregate(HIGHIN.babies11$population~HIGHIN.babies11$demographic, FUN=sum))
 names(HIGHIN.babies11sum)<-c("country","demographic","population")
 
-SOTRLA.babies11<-subset(babies11,
-                        countrycode=="ARG" | countrycode=="BRA" | countrycode=="CHL" | countrycode=="PRY" | countrycode=="URY")
+SOTRLA.babies11<-subset(babies11, continentcode=="SOTRLA")
 SOTRLA.babies11sum<-data.frame("country"="SOTRLA",  aggregate(SOTRLA.babies11$population~SOTRLA.babies11$demographic, FUN=sum))
 names(SOTRLA.babies11sum)<-c("country","demographic","population")
 
-CEEAEU.babies11<-subset(babies11,
-                        countrycode=="ALB" | countrycode=="BLR" | countrycode=="BIH" | countrycode=="BGR" | countrycode=="HRV" | countrycode=="CZE" | countrycode=="EST" | countrycode=="HUN" | countrycode=="LVA" | countrycode=="LTU" | countrycode=="MKD" | countrycode=="MDA" | countrycode=="MNE" | countrycode=="POL" | countrycode=="ROU" | countrycode=="RUS" | countrycode=="SRB" | countrycode=="SVK" | countrycode=="SVN" | countrycode=="UKR")
+CEEAEU.babies11<-subset(babies11, continentcode=="CEEAEU")
 CEEAEU.babies11sum<-data.frame("country"="CEEAEU",  aggregate(CEEAEU.babies11$population~CEEAEU.babies11$demographic, FUN=sum))
 names(CEEAEU.babies11sum)<-c("country","demographic","population")
 
-CALACA.babies11<-subset(babies11,
-                        countrycode=="ATG" | countrycode=="BHS" | countrycode=="BRB" | countrycode=="BLZ" | countrycode=="BMU" | countrycode=="BOL" | countrycode=="VGB" | countrycode=="COL" | countrycode=="CRI" | countrycode=="CUB" | countrycode=="DMA" | countrycode=="DOM" | countrycode=="ECU" | countrycode=="SLV" | countrycode=="GRD" | countrycode=="GTM" | countrycode=="GUY" | countrycode=="HTI" | countrycode=="HND" | countrycode=="JAM" | countrycode=="MEX" | countrycode=="NIC" | countrycode=="ANT" | countrycode=="PAN" | countrycode=="PER" | countrycode=="PRI" | countrycode=="KNA" | countrycode=="LCA" | countrycode=="VCT" | countrycode=="SUR" | countrycode=="TTO" | countrycode=="VEN")
+CALACA.babies11<-subset(babies11,continentcode=="CALACA")
 CALACA.babies11sum<-data.frame("country"="CALACA",  aggregate(CALACA.babies11$population~CALACA.babies11$demographic, FUN=sum))
 names(CALACA.babies11sum)<-c("country","demographic","population")
 
-CANAME.babies11<-subset(babies11,
-                        countrycode=="DZA" | countrycode=="ARM" | countrycode=="AZE" | countrycode=="BHR" | countrycode=="EGY" | countrycode=="GEO" | countrycode=="IRN" | countrycode=="IRQ" | countrycode=="JOR" | countrycode=="KAZ" | countrycode=="KWT" | countrycode=="KGZ" | countrycode=="LBN" | countrycode=="LBY" | countrycode=="MNG" | countrycode=="MAR" | countrycode=="PSE" | countrycode=="OMN" | countrycode=="QAT" | countrycode=="SAU" | countrycode=="SYR" | countrycode=="TJK" | countrycode=="TUN" | countrycode=="TUR" | countrycode=="TKM" | countrycode=="ARE" | countrycode=="UZB" | countrycode=="YEM")
+CANAME.babies11<-subset(babies11, continentcode=="CANAME")
 CANAME.babies11sum<-data.frame("country"="CANAME",  aggregate(CANAME.babies11$population~CANAME.babies11$demographic, FUN=sum))
 names(CANAME.babies11sum)<-c("country","demographic","population")
 
-ESEASP.babies11<-subset(babies11,
-                        countrycode=="KHM" | countrycode=="COK" | countrycode=="PRK" | countrycode=="FJI" | countrycode=="PYF" | countrycode=="IDN" | countrycode=="KIR" | countrycode=="LAO" | countrycode=="MYS" | countrycode=="MDV" | countrycode=="MHL" | countrycode=="FSM" | countrycode=="MMR" | countrycode=="NRU" | countrycode=="PLW" | countrycode=="PNG" | countrycode=="PHL" | countrycode=="WSM" | countrycode=="SLB" | countrycode=="LKA" | countrycode=="THA" | countrycode=="TLS" | countrycode=="TON" | countrycode=="VNM" | countrycode=="VUT")
+ESEASP.babies11<-subset(babies11,continentcode=="ESEASP")
 ESEASP.babies11sum<-data.frame("country"="ESEASP",  aggregate(ESEASP.babies11$population~ESEASP.babies11$demographic, FUN=sum))
 names(ESEASP.babies11sum)<-c("country","demographic","population")
 
-SUSAAF.babies11<-subset(babies11,
-                        countrycode=="AGO" | countrycode=="BWA" | countrycode=="BFA" | countrycode=="BUR" | countrycode=="CMR" | countrycode=="CPV" | countrycode=="CAF" | countrycode=="TCD" | countrycode=="COM" | countrycode=="COG" | countrycode=="CIV" | countrycode=="COD" | countrycode=="DJI" | countrycode=="ERI" | countrycode=="ETH" | countrycode=="GNQ" | countrycode=="GAB" | countrycode=="GMB" | countrycode=="GHA" | countrycode=="GIN" | countrycode=="GNB" | countrycode=="LSO" | countrycode=="LBR" | countrycode=="KEN" | countrycode=="MDG" | countrycode=="MWI" | countrycode=="MLI" | countrycode=="MRT" | countrycode=="MUS" | countrycode=="MOZ" | countrycode=="NAM" | countrycode=="NER" | countrycode=="NGA" | countrycode=="RWA" | countrycode=="STP" | countrycode=="SEN" | countrycode=="SYC" | countrycode=="SLE" | countrycode=="SOM" | countrycode=="ZAF" | countrycode=="SDN" | countrycode=="SWZ" | countrycode=="TGO" | countrycode=="UGA" | countrycode=="TZA" | countrycode=="ZMB" | countrycode=="ZWE")
+SUSAAF.babies11<-subset(babies11,continentcode=="SUSAAF")
 SUSAAF.babies11sum<-data.frame("country"="SUSAAF",  aggregate(SUSAAF.babies11$population~SUSAAF.babies11$demographic, FUN=sum))
 names(SUSAAF.babies11sum)<-c("country","demographic","population")
 
-SOASIA.babies11<-subset(babies11,
-                        countrycode=="AFG" | countrycode=="BGD" | countrycode=="BTN" | countrycode=="NPL" | countrycode=="PAK")
+SOASIA.babies11<-subset(babies11,continentcode=="SOASIA")
 SOASIA.babies11sum<-data.frame("country"="SOASIA",  aggregate(SOASIA.babies11$population~SOASIA.babies11$demographic, FUN=sum))
 names(SOASIA.babies11sum)<-c("country","demographic","population")
 
@@ -664,41 +540,34 @@ babies11sum<-data.frame(
     SOASIA.babies11sum
   ))                         
 babies11sum$countrycode<-babies11sum$country                       
+babies11sum$continentcode<-babies11sum$country                       
 
 babies11<-rbind(babies11,babies11sum)
 
 
 ###continents totalpop####
-HIGHIN.totalpop11HNP<-subset(totalpop11HNP,
-                             countrycode=="AND" | countrycode=="AUS" | countrycode=="AUT" | countrycode=="BEL" | countrycode=="BRN" | countrycode=="CAN" | countrycode=="CYP" | countrycode=="DNK" | countrycode=="FIN" | countrycode=="FRA" | countrycode=="DEU" | countrycode=="GRC" | countrycode=="GRL" | countrycode=="ISL" | countrycode=="IRL" | countrycode=="ISR" | countrycode=="ITA" | countrycode=="JPN" | countrycode=="LUX" | countrycode=="MLT" | countrycode=="NLD" | countrycode=="NZL" | countrycode=="NOR" | countrycode=="PRT" | countrycode=="KOR" | countrycode=="SGP" | countrycode=="ESP" | countrycode=="SWE" | countrycode=="CHE" | countrycode=="GBR" | countrycode=="USA")
+HIGHIN.totalpop11HNP<-subset(totalpop11HNP,continentcode=="HIGHIN")
 HIGHIN.totalpop11HNPsum<-data.frame("country"="HIGHIN",  "demographic"="Population, total", "population"=sum(HIGHIN.totalpop11HNP$population))
 
-SOTRLA.totalpop11HNP<-subset(totalpop11HNP,
-                             countrycode=="ARG" | countrycode=="BRA" | countrycode=="CHL" | countrycode=="PRY" | countrycode=="URY")
+SOTRLA.totalpop11HNP<-subset(totalpop11HNP,continentcode=="SOTRLA")
 SOTRLA.totalpop11HNPsum<-data.frame("country"="SOTRLA",  "demographic"="Population, total", "population"=sum(SOTRLA.totalpop11HNP$population))
 
-CEEAEU.totalpop11HNP<-subset(totalpop11HNP,
-                             countrycode=="ALB" | countrycode=="BLR" | countrycode=="BIH" | countrycode=="BGR" | countrycode=="HRV" | countrycode=="CZE" | countrycode=="EST" | countrycode=="HUN" | countrycode=="LVA" | countrycode=="LTU" | countrycode=="MKD" | countrycode=="MDA" | countrycode=="MNE" | countrycode=="POL" | countrycode=="ROU" | countrycode=="RUS" | countrycode=="SRB" | countrycode=="SVK" | countrycode=="SVN" | countrycode=="UKR")
+CEEAEU.totalpop11HNP<-subset(totalpop11HNP,continentcode=="CEEAEU")
 CEEAEU.totalpop11HNPsum<-data.frame("country"="CEEAEU",  "demographic"="Population, total", "population"=sum(CEEAEU.totalpop11HNP$population))
 
-CALACA.totalpop11HNP<-subset(totalpop11HNP,
-                             countrycode=="ATG" | countrycode=="BHS" | countrycode=="BRB" | countrycode=="BLZ" | countrycode=="BMU" | countrycode=="BOL" | countrycode=="VGB" | countrycode=="COL" | countrycode=="CRI" | countrycode=="CUB" | countrycode=="DMA" | countrycode=="DOM" | countrycode=="ECU" | countrycode=="SLV" | countrycode=="GRD" | countrycode=="GTM" | countrycode=="GUY" | countrycode=="HTI" | countrycode=="HND" | countrycode=="JAM" | countrycode=="MEX" | countrycode=="NIC" | countrycode=="ANT" | countrycode=="PAN" | countrycode=="PER" | countrycode=="PRI" | countrycode=="KNA" | countrycode=="LCA" | countrycode=="VCT" | countrycode=="SUR" | countrycode=="TTO" | countrycode=="VEN")
+CALACA.totalpop11HNP<-subset(totalpop11HNP,continentcode=="CALACA")
 CALACA.totalpop11HNPsum<-data.frame("country"="CALACA",  "demographic"="Population, total", "population"=sum(CALACA.totalpop11HNP$population))
 
-CANAME.totalpop11HNP<-subset(totalpop11HNP,
-                             countrycode=="DZA" | countrycode=="ARM" | countrycode=="AZE" | countrycode=="BHR" | countrycode=="EGY" | countrycode=="GEO" | countrycode=="IRN" | countrycode=="IRQ" | countrycode=="JOR" | countrycode=="KAZ" | countrycode=="KWT" | countrycode=="KGZ" | countrycode=="LBN" | countrycode=="LBY" | countrycode=="MNG" | countrycode=="MAR" | countrycode=="PSE" | countrycode=="OMN" | countrycode=="QAT" | countrycode=="SAU" | countrycode=="SYR" | countrycode=="TJK" | countrycode=="TUN" | countrycode=="TUR" | countrycode=="TKM" | countrycode=="ARE" | countrycode=="UZB" | countrycode=="YEM")
+CANAME.totalpop11HNP<-subset(totalpop11HNP,continentcode=="CANAME")
 CANAME.totalpop11HNPsum<-data.frame("country"="CANAME",  "demographic"="Population, total", "population"=sum(CANAME.totalpop11HNP$population))
 
-ESEASP.totalpop11HNP<-subset(totalpop11HNP,
-                             countrycode=="KHM" | countrycode=="COK" | countrycode=="PRK" | countrycode=="FJI" | countrycode=="PYF" | countrycode=="IDN" | countrycode=="KIR" | countrycode=="LAO" | countrycode=="MYS" | countrycode=="MDV" | countrycode=="MHL" | countrycode=="FSM" | countrycode=="MMR" | countrycode=="NRU" | countrycode=="PLW" | countrycode=="PNG" | countrycode=="PHL" | countrycode=="WSM" | countrycode=="SLB" | countrycode=="LKA" | countrycode=="THA" | countrycode=="TLS" | countrycode=="TON" | countrycode=="VNM" | countrycode=="VUT")
+ESEASP.totalpop11HNP<-subset(totalpop11HNP,continentcode=="ESEASP")
 ESEASP.totalpop11HNPsum<-data.frame("country"="ESEASP",  "demographic"="Population, total", "population"=sum(ESEASP.totalpop11HNP$population))
 
-SUSAAF.totalpop11HNP<-subset(totalpop11HNP,
-                             countrycode=="AGO" | countrycode=="BWA" | countrycode=="BFA" | countrycode=="BUR" | countrycode=="CMR" | countrycode=="CPV" | countrycode=="CAF" | countrycode=="TCD" | countrycode=="COM" | countrycode=="COG" | countrycode=="CIV" | countrycode=="COD" | countrycode=="DJI" | countrycode=="ERI" | countrycode=="ETH" | countrycode=="GNQ" | countrycode=="GAB" | countrycode=="GMB" | countrycode=="GHA" | countrycode=="GIN" | countrycode=="GNB" | countrycode=="LSO" | countrycode=="LBR" | countrycode=="KEN" | countrycode=="MDG" | countrycode=="MWI" | countrycode=="MLI" | countrycode=="MRT" | countrycode=="MUS" | countrycode=="MOZ" | countrycode=="NAM" | countrycode=="NER" | countrycode=="NGA" | countrycode=="RWA" | countrycode=="STP" | countrycode=="SEN" | countrycode=="SYC" | countrycode=="SLE" | countrycode=="SOM" | countrycode=="ZAF" | countrycode=="SDN" | countrycode=="SWZ" | countrycode=="TGO" | countrycode=="UGA" | countrycode=="TZA" | countrycode=="ZMB" | countrycode=="ZWE")
+SUSAAF.totalpop11HNP<-subset(totalpop11HNP,continentcode=="SUSAAF")
 SUSAAF.totalpop11HNPsum<-data.frame("country"="SUSAAF",  "demographic"="Population, total", "population"=sum(SUSAAF.totalpop11HNP$population))
 
-SOASIA.totalpop11HNP<-subset(totalpop11HNP,
-                             countrycode=="AFG" | countrycode=="BGD" | countrycode=="BTN" | countrycode=="NPL" | countrycode=="PAK")
+SOASIA.totalpop11HNP<-subset(totalpop11HNP,continentcode=="SOASIA")
 SOASIA.totalpop11HNPsum<-data.frame("country"="SOASIA",  "demographic"="Population, total", "population"=sum(SOASIA.totalpop11HNP$population))
 
 
@@ -714,14 +583,10 @@ totalpop11HNPsum<-data.frame(
     SOASIA.totalpop11HNPsum
   ))                         
 totalpop11HNPsum$countrycode<-totalpop11HNPsum$country                       
+totalpop11HNPsum$continentcode<-totalpop11HNPsum$country                       
 
-View(totalpop11HNPsum)
 
-names(totalpop11HNP)
-names(totalpop11HNPsum)
 totalpop11HNP<-rbind(totalpop11HNP,totalpop11HNPsum)
-
-#end pasted
 
 
 ###continuing with normal programming####
@@ -732,31 +597,42 @@ totalpop11HNP$population1000tot<-totalpop11HNP$population/1000
 babies11_boys<-subset(babies11, demographic=="Age population, age 0, male, interpolated"|demographic=="Age population, age 01, male, interpolated"|demographic=="Age population, age 02, male, interpolated")
 babies11_girls<-subset(babies11, demographic=="Age population, age 0, female, interpolated"|demographic=="Age population, age 01, female, interpolated"|demographic=="Age population, age 02, female, interpolated")
 
-babies11_total<-babies11_boys[c(1,2,4,5)]
-babies11_total[4]<-  babies11_boys[5]+babies11_girls[5]
+babies11_total<-babies11_boys[c("countrycode","country","demographic","population1000")]
+babies11_total[4]<-  babies11_boys[6]+babies11_girls[6]
 
 #Note that the demographics levels in the totals are not actually male, i just can't be bothered changing them
 babies0<-subset(babies11_total, demographic=="Age population, age 0, male, interpolated")
 names(babies0)[4]<-"population1000_0"
 
-babies0<-merge(babies0, totalpop11HNP[c(4,5)], by="countrycode")
-names(babies0)
+babies0<-merge(babies0, totalpop11HNP[c("countrycode","population1000tot")], by="countrycode")
 
 babies1<-subset(babies11_total, demographic=="Age population, age 01, male, interpolated")
 names(babies1)[4]<-"population1000_1"
 babies2<-subset(babies11_total, demographic=="Age population, age 02, male, interpolated")
 names(babies2)[4]<-"population1000_2"
 
-babies_pop<-merge(babies0[,c(1,2,5,4)],babies1[,c(3,4)], by="countrycode", all=TRUE)
-babies_pop<-merge(babies_pop,babies2[,c(3,4)],by="countrycode", all=TRUE)
+babies_pop<-merge(babies0[,c(1,2,5,4)],babies1[,c(1,4)], by="countrycode", all=TRUE)
+babies_pop<-merge(babies_pop,babies2[,c(1,4)],by="countrycode", all=TRUE)
 
-View(babies_pop) 
+chnrowsc<-which(babies_pop$countrycode=="CHN")
+babies_pop<-babies_pop[-(chnrowsc[2:length(chnrowsc)]),]
+#removing mainland China because we have China in its entirety and the program might get confused
+vctrowsc<-which(babies_pop$countrycode=="VCT")
+babies_pop<-babies_pop[-(vctrowsc[2:length(vctrowsc)]),]
+#removing one of the St Vincent and the Grenadines
+srbrowsc<-which(babies_pop$countrycode=="SRB")
+babies_pop<-babies_pop[-(srbrowsc[2:length(srbrowsc)]),]
+#removing one of the Serbias
+
+babies_pop<-babies_pop[complete.cases(babies_pop),]
+
+summary(babies_pop$countrycode)
 
 median_breastfeeding_duration_yrs<-subset(Breast_DHS, Breast_DHS$Indicator=="median years breastfeeding duration")
 
 percent_ever_breastfed<-subset(Breast_DHS, Indicator=="Ever breastfed")
 
-breastfed<-merge(median_breastfeeding_duration_yrs[c(4,5)],percent_ever_breastfed[c(4,5)], by="countrycode", all=TRUE)
+breastfed<-merge(median_breastfeeding_duration_yrs[c("countrycode","Value")],percent_ever_breastfed[c("countrycode","Value")], by="countrycode", all=TRUE)
 names(breastfed)[2]<-"median_years_breastfed"
 names(breastfed)[3]<-"percent_ever_breastfed"
 
@@ -770,7 +646,7 @@ notincl_babies_breastfed<-subset(babies_breastfed,is.na(babies_breastfed$percent
 incl_babies_breastfed<-subset(babies_breastfed,!is.na(babies_breastfed$percent_ever_breastfed))
 
 
-continentcode<-read.csv("0_labels/continentcode.csv")
+
 
 notincl_babies_breastfed<-merge(notincl_babies_breastfed,continentcode,by="countrycode")
 listcontinents<-c("CALACA","CANAME","CEEAEU","ESEASP","HIGHIN","SUSAAF","SOTRLA","SOASIA")
@@ -826,12 +702,6 @@ BFP<-BFP[-(vctrows[2:length(vctrows)]),]
 srbrows<-which(BFP$countrycode=="SRB")
 BFP<-BFP[-(srbrows[2:length(srbrows)]),]
 #removing one of the Serbias
-euurows<-which(BFP$countrycode=="EUU")
-BFP<-BFP[-(euurows[2:length(euurows)]),]
-which(BFP$countrycode=="(other)")
-
-#issues: don't have data on quite a few countries. Should we estimate it from birth rates? They're not important ones
-
 
 #######EAR####
 
@@ -851,6 +721,14 @@ EAR_By_Age.girls$adult<-(EAR_By_Age_perkg.girls$adult*girls.idealweight$adult)
 
 # total<-boys$adults+girls$adults #huh? why would I have done this?
 ##the populations of just children and adults as one category
+girls<-subset(pop,Sex=="Female")
+for(rownum in 1:length(row.names(girls)))
+{girls$adults[rownum]<-sum(girls[rownum,7:23])}
+
+boys<-subset(pop,Sex=="Male")
+for(rownum in 1:length(row.names(boys)))
+{boys$adults[rownum]<-sum(boys[rownum,7:23])}
+
 names.boys.short<-names(boys)[c(1,3:6,24)]
 boys.short<-boys[names.boys.short]
 girls.short<-girls[names.boys.short]
@@ -864,14 +742,19 @@ fractional.EAR.girls<-NULL
 EAR_weighted<-merge(EAR_weighted, BFP, by="countrycode")
 
 ##adding BFP and total population columns
+
+
+bothpop<-subset(pop,Sex=="Both")
+long<-melt(bothpop)
+totalpop<-data.frame(rowsum(long$value,long$countrycode))
+names(totalpop)[1]<-"total_population"
+totalpop$countrycode<-row.names(totalpop)
+
 fractional.EAR.boys<-merge(boys.short,totalpop, by="countrycode")
 fractional.EAR.boys<-merge(fractional.EAR.boys,EAR_weighted[c("countrycode","BFP")], by="countrycode")
 fractional.EAR.girls<-merge(girls.short,totalpop, by="countrycode")
 fractional.EAR.girls<-merge(fractional.EAR.girls,EAR_weighted[c("countrycode","BFP")], by="countrycode")
 
-
-#totalpop_col<-data.frame("countrycode"=fractional.EAR.boys$countrycode ,"total_population"=fractional.EAR.boys$total_population)
-#EAR_weighted_col<-data.frame("countrycode"=fractional.EAR.boys$countrycode,"BFP"=fractional.EAR.boys$BFP)
 
 
 # fractional.EAR.boys$frEAR<-((fractional.EAR.boys$Pop_0_4/fractional.EAR.boys$total_population)+(fractional.EAR.boys$Pop_5_9/fractional.EAR.boys$total_population)+(fractional.EAR.boys$Pop_10_14/fractional.EAR.boys$total_population)+(fractional.EAR.boys$Pop_15_19fractional.EAR.boys$total_population)+(fractional.EAR.boys$adultsfractional.EAR.boys$total_population))
@@ -882,13 +765,6 @@ fractional.EAR.girls$frEARG<-((EAR_By_Age.girls$age_2*fractional.EAR.girls$Pop_0
 fractional.EAR<-data.frame(merge(fractional.EAR.boys[c("frEARB","countrycode","BFP")],fractional.EAR.girls[c("frEARG","countrycode")], by="countrycode"))
 EAR_weighted<-data.frame("countrycode"=fractional.EAR$countrycode,"BFP"=fractional.EAR$BFP,"EAR_1"=fractional.EAR$BFP+fractional.EAR$frEARB+fractional.EAR$frEARG)
 
-#for(rownum in 1:length(totalpop$total_population))
-# {fractional.EAR.boys[rownum]<-sum(EAR_By_Age.boys*boys.short[rownum,2:6]/totalpop_col$total_population[rownum])
-#  fractional.EAR.girls[rownum]<-sum(EAR_By_Age.girls*girls.short[rownum,2:6]/totalpop_col$total_population[rownum])
-#  EAR_weighted_col$EAR_1[rownum]<-fractional.EAR.boys[rownum]+fractional.EAR.girls[rownum]+EAR_weighted_col$BFP[rownum]
-# }
-
-
 
 ##option 2
 # weight.continents<-read.csv("4_EAR/inputs/weight/weight_by_region.csv")[1:4]
@@ -896,38 +772,80 @@ weight.continents<-read.csv("4_EAR/inputs/weight/weight_by_Walpole.csv")
 weight.continents<-merge(weight.continents,continentcode, by="countrycode")
 
 ##weight wessels groups
-HIGHIN.weight.continents<-subset(weight.continents,
-                             countrycode=="AND" | countrycode=="AUS" | countrycode=="AUT" | countrycode=="BEL" | countrycode=="BRN" | countrycode=="CAN" | countrycode=="CYP" | countrycode=="DNK" | countrycode=="FIN" | countrycode=="FRA" | countrycode=="DEU" | countrycode=="GRC" | countrycode=="GRL" | countrycode=="ISL" | countrycode=="IRL" | countrycode=="ISR" | countrycode=="ITA" | countrycode=="JPN" | countrycode=="LUX" | countrycode=="MLT" | countrycode=="NLD" | countrycode=="NZL" | countrycode=="NOR" | countrycode=="PRT" | countrycode=="KOR" | countrycode=="SGP" | countrycode=="ESP" | countrycode=="SWE" | countrycode=="CHE" | countrycode=="GBR" | countrycode=="USA")
-HIGHIN.totalpop11HNPsum
+HIGHIN.weight.continents<-subset(weight.continents, continentcode=="HIGHIN")
+SOTRLA.weight.continents<-subset(weight.continents,continentcode=="SOTRLA")
+CEEAEU.weight.continents<-subset(weight.continents,continentcode=="CEEAEU")
+CALACA.weight.continents<-subset(weight.continents,continentcode=="CALACA")
+CANAME.weight.continents<-subset(weight.continents,continentcode=="CANAME")
+ESEASP.weight.continents<-subset(weight.continents,continentcode=="ESEASP")
+SUSAAF.weight.continents<-subset(weight.continents,continentcode=="SUSAAF")
+SOASIA.weight.continents<-subset(weight.continents,continentcode=="SOASIA")
 
-SOTRLA.weight.continents<-subset(weight.continents,
-                             countrycode=="ARG" | countrycode=="BRA" | countrycode=="CHL" | countrycode=="PRY" | countrycode=="URY")
+HIGHIN.weight.continents<-merge(HIGHIN.weight.continents,HIGHIN.fbspop[c("countrycode","pop")], by="countrycode")
+SOTRLA.weight.continents<-merge(SOTRLA.weight.continents,HIGHIN.fbspop[c("countrycode","pop")], by="countrycode")
+CEEAEU.weight.continents<-merge(CEEAEU.weight.continents,CEEAEU.fbspop[c("countrycode","pop")], by="countrycode")
+CALACA.weight.continents<-merge(CALACA.weight.continents,CALACA.fbspop[c("countrycode","pop")], by="countrycode")
+CANAME.weight.continents<-merge(CANAME.weight.continents,CANAME.fbspop[c("countrycode","pop")], by="countrycode")
+ESEASP.weight.continents<-merge(ESEASP.weight.continents,ESEASP.fbspop[c("countrycode","pop")], by="countrycode")
+SUSAAF.weight.continents<-merge(SUSAAF.weight.continents,SUSAAF.fbspop[c("countrycode","pop")], by="countrycode")
+SOASIA.weight.continents<-merge(SOASIA.weight.continents,SOASIA.fbspop[c("countrycode","pop")], by="countrycode")
 
-CEEAEU.weight.continents<-subset(weight.continents,
-                             countrycode=="ALB" | countrycode=="BLR" | countrycode=="BIH" | countrycode=="BGR" | countrycode=="HRV" | countrycode=="CZE" | countrycode=="EST" | countrycode=="HUN" | countrycode=="LVA" | countrycode=="LTU" | countrycode=="MKD" | countrycode=="MDA" | countrycode=="MNE" | countrycode=="POL" | countrycode=="ROU" | countrycode=="RUS" | countrycode=="SRB" | countrycode=="SVK" | countrycode=="SVN" | countrycode=="UKR")
+HIGHIN.weight.continents$weight.weighted<-HIGHIN.weight.continents$Weight*(HIGHIN.weight.continents$pop/(sum(HIGHIN.weight.continents$pop)))
+SOTRLA.weight.continents$weight.weighted<-SOTRLA.weight.continents$Weight*(SOTRLA.weight.continents$pop/(sum(SOTRLA.weight.continents$pop)))
+CEEAEU.weight.continents$weight.weighted<-CEEAEU.weight.continents$Weight*(CEEAEU.weight.continents$pop/(sum(CEEAEU.weight.continents$pop)))
+CALACA.weight.continents$weight.weighted<-CALACA.weight.continents$Weight*(CALACA.weight.continents$pop/(sum(CALACA.weight.continents$pop)))
+CANAME.weight.continents$weight.weighted<-CANAME.weight.continents$Weight*(CANAME.weight.continents$pop/(sum(CANAME.weight.continents$pop)))
+ESEASP.weight.continents$weight.weighted<-ESEASP.weight.continents$Weight*(ESEASP.weight.continents$pop/(sum(ESEASP.weight.continents$pop)))
+SUSAAF.weight.continents$weight.weighted<-SUSAAF.weight.continents$Weight*(SUSAAF.weight.continents$pop/(sum(SUSAAF.weight.continents$pop)))
+SOASIA.weight.continents$weight.weighted<-SOASIA.weight.continents$Weight*(SOASIA.weight.continents$pop/(sum(SOASIA.weight.continents$pop)))
+
+HIGHINwt<-data.frame("countrycode"="HIGHIN","Weight"=sum(HIGHIN.weight.continents$weight.weighted,na.rm=TRUE))
+SOTRLAwt<-data.frame("countrycode"="SOTRLA","Weight"=sum(SOTRLA.weight.continents$weight.weighted,na.rm=TRUE))
+CEEAEUwt<-data.frame("countrycode"="CEEAEU","Weight"=sum(CEEAEU.weight.continents$weight.weighted,na.rm=TRUE))
+CALACAwt<-data.frame("countrycode"="CALACA","Weight"=sum(CALACA.weight.continents$weight.weighted,na.rm=TRUE))
+CANAMEwt<-data.frame("countrycode"="CANAME","Weight"=sum(CANAME.weight.continents$weight.weighted,na.rm=TRUE))
+ESEASPwt<-data.frame("countrycode"="ESEASP","Weight"=sum(ESEASP.weight.continents$weight.weighted,na.rm=TRUE))
+SUSAAFwt<-data.frame("countrycode"="SUSAAF","Weight"=sum(SUSAAF.weight.continents$weight.weighted,na.rm=TRUE))
+SOASIAwt<-data.frame("countrycode"="SOASIA","Weight"=sum(SOASIA.weight.continents$weight.weighted,na.rm=TRUE))
 
 
-CALACA.weight.continents<-subset(weight.continents,
-                             countrycode=="ATG" | countrycode=="BHS" | countrycode=="BRB" | countrycode=="BLZ" | countrycode=="BMU" | countrycode=="BOL" | countrycode=="VGB" | countrycode=="COL" | countrycode=="CRI" | countrycode=="CUB" | countrycode=="DMA" | countrycode=="DOM" | countrycode=="ECU" | countrycode=="SLV" | countrycode=="GRD" | countrycode=="GTM" | countrycode=="GUY" | countrycode=="HTI" | countrycode=="HND" | countrycode=="JAM" | countrycode=="MEX" | countrycode=="NIC" | countrycode=="ANT" | countrycode=="PAN" | countrycode=="PER" | countrycode=="PRI" | countrycode=="KNA" | countrycode=="LCA" | countrycode=="VCT" | countrycode=="SUR" | countrycode=="TTO" | countrycode=="VEN")
-
-CANAME.weight.continents<-subset(weight.continents,
-                             countrycode=="DZA" | countrycode=="ARM" | countrycode=="AZE" | countrycode=="BHR" | countrycode=="EGY" | countrycode=="GEO" | countrycode=="IRN" | countrycode=="IRQ" | countrycode=="JOR" | countrycode=="KAZ" | countrycode=="KWT" | countrycode=="KGZ" | countrycode=="LBN" | countrycode=="LBY" | countrycode=="MNG" | countrycode=="MAR" | countrycode=="PSE" | countrycode=="OMN" | countrycode=="QAT" | countrycode=="SAU" | countrycode=="SYR" | countrycode=="TJK" | countrycode=="TUN" | countrycode=="TUR" | countrycode=="TKM" | countrycode=="ARE" | countrycode=="UZB" | countrycode=="YEM")
-
-ESEASP.weight.continents<-subset(weight.continents,
-                             countrycode=="KHM" | countrycode=="COK" | countrycode=="PRK" | countrycode=="FJI" | countrycode=="PYF" | countrycode=="IDN" | countrycode=="KIR" | countrycode=="LAO" | countrycode=="MYS" | countrycode=="MDV" | countrycode=="MHL" | countrycode=="FSM" | countrycode=="MMR" | countrycode=="NRU" | countrycode=="PLW" | countrycode=="PNG" | countrycode=="PHL" | countrycode=="WSM" | countrycode=="SLB" | countrycode=="LKA" | countrycode=="THA" | countrycode=="TLS" | countrycode=="TON" | countrycode=="VNM" | countrycode=="VUT")
-
-SUSAAF.weight.continents<-subset(weight.continents,
-                             countrycode=="AGO" | countrycode=="BWA" | countrycode=="BFA" | countrycode=="BUR" | countrycode=="CMR" | countrycode=="CPV" | countrycode=="CAF" | countrycode=="TCD" | countrycode=="COM" | countrycode=="COG" | countrycode=="CIV" | countrycode=="COD" | countrycode=="DJI" | countrycode=="ERI" | countrycode=="ETH" | countrycode=="GNQ" | countrycode=="GAB" | countrycode=="GMB" | countrycode=="GHA" | countrycode=="GIN" | countrycode=="GNB" | countrycode=="LSO" | countrycode=="LBR" | countrycode=="KEN" | countrycode=="MDG" | countrycode=="MWI" | countrycode=="MLI" | countrycode=="MRT" | countrycode=="MUS" | countrycode=="MOZ" | countrycode=="NAM" | countrycode=="NER" | countrycode=="NGA" | countrycode=="RWA" | countrycode=="STP" | countrycode=="SEN" | countrycode=="SYC" | countrycode=="SLE" | countrycode=="SOM" | countrycode=="ZAF" | countrycode=="SDN" | countrycode=="SWZ" | countrycode=="TGO" | countrycode=="UGA" | countrycode=="TZA" | countrycode=="ZMB" | countrycode=="ZWE")
-
-SOASIA.weight.continents<-subset(weight.continents,
-                             countrycode=="AFG" | countrycode=="BGD" | countrycode=="BTN" | countrycode=="NPL" | countrycode=="PAK")
+weight.continents.groups<-data.frame(
+  rbind(
+    HIGHINwt,
+    SOTRLAwt,
+    CEEAEUwt,
+    CALACAwt, 
+    CANAMEwt,
+    ESEASPwt,
+    SUSAAFwt,
+    SOASIAwt
+  ))
 
 
 
-merge.boys.kg.pop<-merge(boys.short,weight.continents, by="countrycode")
-merge.boys.kg.pop<-merge(merge.boys.kg.pop,totalpop, by="countrycode")
+weight.continents.groups$country<-weight.continents.groups$countrycode
+weight.continents<-rbind(weight.continents[c("countrycode","country","Weight")],weight.continents.groups)
 
-names(merge.boys.kg.pop)
+#estimate weight for the missing countries here or else you're wasting valuable estimates of everything else
+weight.continents<-merge(weight.continents, continentcode, by="countrycode",all=TRUE)
+notincl.weight.continents<-subset(weight.continents,is.na(weight.continents$Weight))
+incl.weight.continents<-subset(weight.continents,!is.na(weight.continents$Weight))
+
+notincl.weight.continents[["continentcode"]]<-gsub("_G","",notincl.weight.continents[["continentcode"]])
+
+for(rownum in 1:length(row.names(notincl.weight.continents)))
+{for(continent in listcontinents)
+{if(notincl.weight.continents[rownum,"continentcode"]==continent)
+  notincl.weight.continents[rownum,"Weight"]<-weight.continents[weight.continents$countrycode==continent,"Weight"]
+ else if(notincl.weight.continents[rownum,"continentcode"]=="CHINAR")
+   notincl.weight.continents[rownum,"Weight"]<-weight.continents[which(weight.continents$countrycode=="CHN")[1],"Weight"]
+}}
+
+weight.continents<-rbind(notincl.weight.continents,incl.weight.continents)
+
+merge.boys.kg.pop<-merge(boys.short,weight.continents, by="countrycode", all=TRUE)
+merge.boys.kg.pop<-merge(merge.boys.kg.pop,totalpop, by="countrycode", all=TRUE)
+
 merge.boys.kg.pop$EAR_0_4<-rep(EAR_By_Age_perkg.boys[1]*boys.idealweight[1])
 merge.boys.kg.pop$EAR_0_4wt<-as.numeric(merge.boys.kg.pop$EAR_0_4)*merge.boys.kg.pop$Pop_0_4/merge.boys.kg.pop$total_population
 
@@ -947,8 +865,8 @@ merge.boys.kg.pop$EARtot_wt<-merge.boys.kg.pop$EAR_adultswt+merge.boys.kg.pop$EA
 
 #girls
 
-merge.girls.kg.pop<-merge(girls.short,weight.continents, by="countrycode")
-merge.girls.kg.pop<-merge(merge.girls.kg.pop,totalpop, by="countrycode")
+merge.girls.kg.pop<-merge(girls.short,weight.continents, by="countrycode",all=TRUE)
+merge.girls.kg.pop<-merge(merge.girls.kg.pop,totalpop, by="countrycode",all=TRUE)
 
 names(merge.girls.kg.pop)
 merge.girls.kg.pop$EAR_0_4<-rep(EAR_By_Age_perkg.girls[1]*girls.idealweight[1])
@@ -970,11 +888,40 @@ merge.girls.kg.pop$EARtot_wt<-merge.girls.kg.pop$EAR_adultswt+merge.girls.kg.pop
 
 
 EAR_2<-data.frame("countrycode"=merge.girls.kg.pop$countrycode, "EAR_2"=merge.girls.kg.pop$EARtot_wt+merge.boys.kg.pop$EARtot_wt)
+View(EAR_2)
+
+summary(EAR_2$countrycode)
+chnrowsd<-which(EAR_2$countrycode=="CHN")
+EAR_2<-EAR_2[-(chnrowsd[2:length(chnrowsd)]),]
+#removing mainland China because we have China in its entirety and the program might get confused
+vctrowsd<-which(EAR_2$countrycode=="VCT")
+EAR_2<-EAR_2[-(vctrowsd[2:length(vctrowsd)]),]
+#removing one of the St Vincent and the Grenadines
+srbrowsd<-which(EAR_2$countrycode=="SRB")
+EAR_2<-EAR_2[-(srbrowsd[2:length(srbrowsd)]),]
+#removing one of the Serbias
+
+
 
 EAR_weighted<-merge(EAR_weighted,EAR_2, by="countrycode",all=TRUE)
 
 
 View(EAR_weighted)
+
+EAR_weighted<-EAR_weighted[complete.cases(EAR_weighted$EAR_2),]
+
+summary(EAR_weighted$countrycode)
+chnrowse<-which(EAR_weighted$countrycode=="CHN")
+EAR_weighted<-EAR_weighted[-(chnrowse[2:length(chnrowse)]),]
+#removing mainland China because we have China in its entirety and the program might get confused
+vctrowse<-which(EAR_weighted$countrycode=="VCT")
+EAR_weighted<-EAR_weighted[-(vctrowse[2:length(vctrowse)]),]
+#removing one of the St Vincent and the Grenadines
+srbrowse<-which(EAR_weighted$countrycode=="SRB")
+EAR_weighted<-EAR_weighted[-(srbrowse[2:length(srbrowse)]),]
+#removing one of the Serbias
+
+
 EAR_weighted$EAR_2_BFP<-EAR_weighted$EAR_2+EAR_weighted$BFP
 
 save(EAR_weighted, file="4_EAR/outputs/EAR_weighted.Rdata")
@@ -986,18 +933,6 @@ EAR_weighted75<-data.frame("countrycode"=EAR_weighted$countrycode, "EAR_1"=EAR_w
 EAR_weighted50<-data.frame("countrycode"=EAR_weighted$countrycode, "EAR_1"=EAR_weighted$EAR_1/2,"EAR_2_BFP"=EAR_weighted$EAR_2_BFP/2)
 save(EAR_weighted50, file="4_EAR/outputs/EAR_weighted50.Rdata")
 save(EAR_weighted75, file="4_EAR/outputs/EAR_weighted75.Rdata")
-#option 3: use female weight, and assume men weigh the same
-# DHSfemale<-read.csv("4_EAR/inputs/weight/STATcompiler - August 27 2014 12 09 - Raw Data - Multiple Indicators- mostrecent.csv")
-# femaleBMI<-subset(DHSfemale,Indicator=="BMI mean")
-# femaleheight<-subset(DHSfemale,Indicator=="Height mean")
-# femaleweight<-femaleBMI$Value*((femaleheight$Value/100)^2)
-# femaleweight<-data.frame("country"=as.factor(femaleBMI$Country),"weight"=femaleweight)
-# save(femaleweight,file="4_EAR/femaleweight.Rdata")
-# 
-# write.csv(femaleheight,"femaleheight.csv")
-# write.csv(femaleweight,"femaleweight.csv")
-# write.csv(femaleBMI, "femaleBMI.csv")
-# 
 
 
 

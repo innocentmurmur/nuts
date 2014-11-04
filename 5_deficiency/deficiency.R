@@ -151,3 +151,9 @@ save(Dis_ParVeg_EAR, file="5_deficiency/Dis_ParVeg_EAR.Rdata")
 write.csv(Dis_ParVeg_EAR,"5_deficiency/outputs/Dis_ParVeg_EAR.csv")
 
 
+plot(DIS_Par_EAR$Difference_HHS2~DIS_Par_EAR$Difference_SOFI2)
+lm(DIS_Par_EAR$Difference_HHS2~DIS_Par_EAR$Difference_SOFI2)
+noGINI<-subset(DIS_Par_EAR,is.na(DIS_Par_EAR$SD_HHS))
+View(noGINI)
+noGINIbutSOFI<-subset(noGINI,!is.na(noGINI$SD_SOFI))
+View(noGINIbutSOFI)
